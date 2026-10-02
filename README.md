@@ -15,7 +15,7 @@ evidence notes to public sources (125 sources, 598 notes, 164 claims, 44 documen
 In blind evaluation on 30 creative-direction tasks, the lens (as a Claude Agent Skill) was ranked first
 on 26/30 and 25/30 cases by two independent judge panels, ahead of a strong generic
 "world-class creative director" prompt. Method and results:
-[research repository docs](#research).
+the evaluation summary below.
 
 ## Tools (all read-only)
 | Tool | What it does |
@@ -33,11 +33,11 @@ Prompt: `creative_direction(brief)`.
 
 ## Install
 ```bash
-uv tool install git+<this-repo-url>        # or: uvx --from git+<this-repo-url> always-okay-mcp
+uv tool install git+https://github.com/club-paradiso/always-okay-mcp        # or: uvx --from git+https://github.com/club-paradiso/always-okay-mcp always-okay-mcp
 ```
 Claude Code:
 ```bash
-claude mcp add always-okay -- uvx --from git+<this-repo-url> always-okay-mcp
+claude mcp add always-okay -- uvx --from git+https://github.com/club-paradiso/always-okay-mcp always-okay-mcp
 ```
 Any MCP client: command `always-okay-mcp` over stdio.
 
