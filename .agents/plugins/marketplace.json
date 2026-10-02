@@ -1,0 +1,20 @@
+{
+  "name": "club-paradiso",
+  "interface": {
+    "displayName": "Club Paradiso"
+  },
+  "plugins": [
+    {
+      "name": "always-okay",
+      "source": {
+        "source": "local",
+        "path": "./plugins/always-okay"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

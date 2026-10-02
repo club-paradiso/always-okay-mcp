@@ -56,6 +56,15 @@ public URL `https://<your-host>/mcp`:
 Environment: `PORT`, `ALLOWED_HOSTS` (public hostname; enables DNS-rebinding protection),
 `RATE_LIMIT` (requests/minute/IP, default 120). Health check: `GET /healthz`.
 
+## Codex plugin (skill + MCP in one install)
+This repository is also a Codex plugin marketplace. The `always-okay` plugin bundles the creative-direction
+skill (Frame → Make → Edit → Deliver, 32 principles, checklists, draft lint) and the remote MCP server.
+```bash
+codex plugin marketplace add club-paradiso/always-okay-mcp
+codex plugin add always-okay@club-paradiso
+```
+Start a new thread afterwards so Codex picks up the skill and tools.
+
 ## Rules the server tells every assistant
 Never speak as or for her · method is not output (no Y2K/retro/NewJeans defaults) · principles are
 defaults with tensions · accuracy and official wording first in public, legal, financial, health or

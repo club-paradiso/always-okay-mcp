@@ -1,0 +1,34 @@
+{
+  "name": "always-okay",
+  "version": "0.1.0",
+  "description": "Evidence-grounded creative-direction lens: Frame → Make → Edit → Deliver, 32 principles traced to public sources, plus a remote MCP server for evidence lookup and draft lint.",
+  "author": {
+    "name": "Club Paradiso",
+    "url": "https://github.com/club-paradiso"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "always-okay",
+    "shortDescription": "Evidence-grounded creative direction: concept, brand, launch, critique.",
+    "longDescription": "A creative-direction lens built from public-record research into a creative director's documented professional reasoning. Frames the brief, builds one concrete signature device from your own material, edits, and plans delivery. Every principle traces to public sources via the always-okay MCP server. Independent research; not affiliated with or endorsed by Min Hee-jin or ooak records.",
+    "developerName": "Club Paradiso",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": "Use always-okay to give creative direction for my project: reframe the brief, propose one signature device, and plan the launch.",
+    "websiteURL": "https://github.com/club-paradiso/always-okay-mcp"
+  },
+  "mcpServers": "./.mcp.json",
+  "homepage": "https://github.com/club-paradiso/always-okay-mcp",
+  "repository": "https://github.com/club-paradiso/always-okay-mcp",
+  "license": "MIT",
+  "keywords": [
+    "creative-direction",
+    "branding",
+    "launch",
+    "copywriting",
+    "critique",
+    "mcp"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "always-okay": {
+      "type": "http",
+      "url": "https://always-okay-mcp.onrender.com/mcp"
+    }
+  }
+}
