@@ -1,6 +1,8 @@
 # always-okay
 
-**A creative-direction helper you can plug into ChatGPT, Claude or Codex.** It helps you turn a
+**A creative-direction lens reconstructed from 125 public records of Min Hee-jin's professional work**
+(interviews, talks, credits and collaborator accounts, 2002–2026), **that you can plug into ChatGPT,
+Claude or Codex.** 32 principles, each traced to its sources. It helps you turn a
 rough brief into a sharp concept, a brand idea, a launch plan or an honest critique — and it can show
 you the public evidence behind every piece of advice.
 
@@ -164,7 +166,7 @@ Code: MIT. Research data (principles, claims, paraphrased notes): CC BY 4.0. See
 ## 한국어: 처음 쓰는 분을 위한 사용법
 
 ### 이게 뭔가요?
-ChatGPT나 Claude에 연결해서 쓰는 **크리에이티브 디렉션 도우미**입니다. 대충 적은 기획을 선명한
+**민희진의 공개 인터뷰·강연·크레딧·협업자 증언 등 공개 기록 125건을 분석해 재구성한 크리에이티브 디렉션 도우미**입니다. ChatGPT나 Claude에 연결해서 씁니다. 원칙 32개는 모두 출처까지 추적할 수 있습니다. 대충 적은 기획을 선명한
 콘셉트, 브랜드 아이디어, 런칭 계획, 솔직한 크리틱으로 바꿔 줍니다. "왜 그렇게 추천해?"라고 물으면 그
 조언의 근거가 된 원칙과 공개 출처까지 보여 줍니다.
 
