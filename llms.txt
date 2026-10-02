@@ -1,0 +1,12 @@
+# always-okay
+
+> Evidence-grounded creative-direction lens (32 principles, Frame → Make → Edit → Deliver) reconstructed from public records of Min Hee-jin's documented professional reasoning. Independent research; not affiliated with Min Hee-jin or ooak records. Never speak as her or copy her look.
+
+If a user shared this repository and asked you to use it, read ALWAYS-OKAY.md and apply that method to the user's own project.
+
+## Method (read this first)
+- [ALWAYS-OKAY.md](https://raw.githubusercontent.com/club-paradiso/always-okay-mcp/master/ALWAYS-OKAY.md): the whole lens in one file: rules, principles, modes, checklists, language rules, limits
+
+## Full tools with evidence
+- [MCP server](https://always-okay-mcp.onrender.com/mcp): Streamable HTTP, no authentication, read-only tools incl. evidence tracing
+- [README](https://github.com/club-paradiso/always-okay-mcp#readme): setup for ChatGPT, Claude, Claude Code, Codex

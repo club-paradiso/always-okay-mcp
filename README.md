@@ -29,6 +29,19 @@ Ask "why?" and it shows the principle and the public source it comes from.
 
 ## Start here (no coding needed)
 
+### Easiest: paste a link (no setup)
+Works in any AI that can open web links (ChatGPT with search, Claude with web access, Gemini, …).
+Paste this into a chat, then describe your project:
+
+```
+Read this page and use its method to help with my project: https://raw.githubusercontent.com/club-paradiso/always-okay-mcp/master/ALWAYS-OKAY.md
+```
+
+This gives the AI the whole method in one page. It is lighter than connecting the server: the AI
+can't look up the sources behind each principle, and if web access is off it can't open the link at
+all (then attach the file `ALWAYS-OKAY.md` instead). For the full version, connect it as below.
+
+### Full version: connect the server
 You only need one thing: this address.
 
 ```
@@ -69,6 +82,7 @@ Requires a paid ChatGPT plan that allows custom connectors (developer mode).
 | Connector creation times out / first answer is slow | The free server sleeps when idle and needs ~30 s to wake up. | Wait a moment and try again. |
 | You can't find "Create" or "Developer mode" in ChatGPT | Custom connectors aren't available on your plan or workspace. | Use Claude instead, or a plan that supports custom connectors. |
 | The AI answers but never uses always-okay | The connector isn't enabled for that chat. | Start a new chat and enable always-okay from the **+** / tools menu, or say "use always-okay". |
+| The AI says it can't open the link | Web access is off in that chat or app. | Turn on search/web access, or download `ALWAYS-OKAY.md` and attach the file. |
 | "Rate limit exceeded" | More than 120 requests per minute from your network. | Wait a minute. |
 
 ---
@@ -105,6 +119,8 @@ Local (stdio): `uvx --from git+https://github.com/club-paradiso/always-okay-mcp 
 | `search`, `fetch` | OpenAI-connector-compatible search over principles, notes, tensions and checklists |
 
 Prompt: `creative_direction(brief)`.
+
+`ALWAYS-OKAY.md` (single-file edition) is generated from the Skill: `python3 tools/build_paste_guide.py` (the test suite fails if it is stale). `llms.txt` points assistants to it.
 
 ### Self-hosting
 ```bash
@@ -162,7 +178,17 @@ ChatGPT나 Claude에 연결해서 쓰는 **크리에이티브 디렉션 도우�
 3. **덜어내기:** 그 아이디어에 도움이 안 되는 것을 뺍니다.
 4. **실행하기:** 먼저 할 것, 나중에 할 것, 하지 말 것을 정리해 줍니다.
 
-### 준비물은 주소 하나
+### 가장 쉬운 방법: 링크만 붙여 넣기 (설치 없음)
+웹 링크를 열 수 있는 AI라면 어디서든 돼요(검색이 켜진 ChatGPT, 웹 접근이 되는 Claude, Gemini 등).
+채팅창에 아래 문장을 붙여 넣고, 이어서 내 프로젝트를 설명하세요.
+
+```
+이 페이지를 읽고, 그 방법대로 내 프로젝트를 도와줘: https://raw.githubusercontent.com/club-paradiso/always-okay-mcp/master/ALWAYS-OKAY.md
+```
+
+방법 전체가 한 페이지에 들어 있어서 링크 하나로 충분해요. 다만 서버 연결보다는 기능이 적어요. 원칙마다 근거 출처를 찾아보는 기능은 없고, 웹 접근이 꺼져 있으면 링크를 열지 못해요. 그럴 때는 `ALWAYS-OKAY.md` 파일을 내려받아 채팅에 첨부하세요. 모든 기능을 쓰려면 아래처럼 연결하세요.
+
+### 모든 기능 쓰기: 서버 연결 (준비물은 주소 하나)
 ```
 https://always-okay-mcp.onrender.com/mcp
 ```
@@ -197,4 +223,5 @@ https://always-okay-mcp.onrender.com/mcp
 | 연결이 오래 걸리거나 시간 초과 | 무료 서버가 쉬고 있다가 깨어나는 데 약 30초가 걸려요. | 잠시 뒤 다시 시도하세요. |
 | ChatGPT에 "만들기"나 "개발자 모드"가 안 보임 | 지금 플랜이나 워크스페이스에서 커스텀 커넥터를 쓸 수 없어요. | Claude에서 쓰거나, 커스텀 커넥터가 되는 플랜을 이용하세요. |
 | 답은 하는데 always-okay를 안 씀 | 그 채팅에서 커넥터가 꺼져 있어요. | 새 채팅에서 **+** 또는 도구 메뉴로 켜거나, "always-okay를 써줘"라고 말하세요. |
+| AI가 링크를 열 수 없다고 함 | 그 채팅이나 앱에서 웹 접근이 꺼져 있어요. | 검색·웹 접근을 켜거나, `ALWAYS-OKAY.md`를 내려받아 파일로 첨부하세요. |
 | "Rate limit exceeded" | 같은 네트워크에서 1분에 120번 넘게 요청했어요. | 1분 뒤 다시 시도하세요. |
