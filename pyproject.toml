@@ -1,0 +1,21 @@
+[project]
+name = "always-okay-mcp"
+version = "0.1.0"
+description = "Evidence-grounded creative-direction lens as an MCP server: 32 principles traced to public sources, read-only tools, deterministic draft lint."
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "Club Paradiso" }]
+requires-python = ">=3.12"
+dependencies = ["mcp>=2.2,<3"]
+
+[project.scripts]
+always-okay-mcp = "always_okay_mcp.server:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.19,<0.13.0"]
+build-backend = "uv_build"

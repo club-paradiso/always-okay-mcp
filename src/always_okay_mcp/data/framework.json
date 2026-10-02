@@ -1,0 +1,1058 @@
+{
+ "version": "1.1",
+ "stages": [
+  {
+   "id": "I",
+   "name": "Frame",
+   "question": "Why must this exist, for whom, against what?"
+  },
+  {
+   "id": "II",
+   "name": "Conceive",
+   "question": "What is the idea, and where does it come from?"
+  },
+  {
+   "id": "III",
+   "name": "Edit",
+   "question": "What stays, what goes, and is the newness real?"
+  },
+  {
+   "id": "IV",
+   "name": "Identity & language",
+   "question": "How is it named, marked and spoken about?"
+  },
+  {
+   "id": "V",
+   "name": "Product",
+   "question": "What does the object or service do in someone's hands?"
+  },
+  {
+   "id": "VI",
+   "name": "Launch",
+   "question": "In what order, at what moment, through which sense is it met?"
+  },
+  {
+   "id": "VII",
+   "name": "Direct people",
+   "question": "How do specialists and performers get the idea without losing their own?"
+  },
+  {
+   "id": "VIII",
+   "name": "Business & organisation",
+   "question": "What structure, budget and proof make it possible and durable?"
+  }
+ ],
+ "principles": [
+  {
+   "id": "P01",
+   "stage": "I",
+   "title": "Start from the reason the work must exist",
+   "rule": "Name the purpose before ideation — why this project must exist and what gap it fills — and use it as the test for every later choice; when execution drifts from it, correct toward it rather than accept the drift.",
+   "claims": [
+    "MHJ-CL-002",
+    "MHJ-CL-003",
+    "MHJ-CL-137"
+   ],
+   "limits": "Purpose is the user's; the lens can sharpen it, never invent it. 'Go back to the start' is one 2015 remark, not a documented routine.",
+   "guards_against": "Ideation from an aimless reference pile; drift during production.",
+   "tensions": [
+    "MHJ-CX-34"
+   ],
+   "status": "core",
+   "support": {
+    "units": 10,
+    "nondispute_units": 5,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E5",
+     "E7",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P02",
+   "stage": "I",
+   "title": "Treat the brief's category words as questions",
+   "rule": "Interrogate stock words in the brief (\"trendy\", \"Gen Z\", \"premium\", \"girl group\", \"worldview\") until each carries a specific idea; industry vocabulary can hide what people actually experience.",
+   "claims": [
+    "MHJ-CL-005",
+    "MHJ-CL-139",
+    "MHJ-CL-140",
+    "MHJ-CL-073"
+   ],
+   "limits": "Do not rename things for novelty; legal, administrative or regulated terms keep their official wording.",
+   "guards_against": "Executing a cliché literally.",
+   "tensions": [],
+   "status": "core",
+   "support": {
+    "units": 13,
+    "nondispute_units": 8,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E1",
+     "E2",
+     "E3",
+     "E5",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P03",
+   "stage": "I",
+   "title": "Find the meaning the project already owns",
+   "rule": "Look first for meaning in what the project already has — its name, its core activity, its people's real but under-shown traits, the archetype of its main object — before importing an outside theme.",
+   "claims": [
+    "MHJ-CL-006",
+    "MHJ-CL-007",
+    "MHJ-CL-046"
+   ],
+   "limits": "A tendency, not a law: she has also chosen a name for how the letters look and attached meanings afterwards (ooak, 2026). Archetype is a starting point, not a period costume (P11).",
+   "guards_against": "Decorative themes with no root in the subject.",
+   "tensions": [
+    "MHJ-CX-32"
+   ],
+   "status": "core",
+   "support": {
+    "units": 12,
+    "nondispute_units": 9,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E7",
+     "E8"
+    ]
+   }
+  },
+  {
+   "id": "P04",
+   "stage": "I",
+   "title": "Size the audience by who does not yet care",
+   "rule": "Aim growth at people outside the category, not only at existing fans; design for a specific, true emotion that can travel across age, gender and genre rather than for a demographic, and treat 'what the public wants' as an assumption to test.",
+   "claims": [
+    "MHJ-CL-092",
+    "MHJ-CL-093",
+    "MHJ-CL-098",
+    "MHJ-CL-099"
+   ],
+   "limits": "Her premise that fans would 'come anyway' rested on attention her name already had (MHJ-CL-083); without that, plan how the first audience is reached.",
+   "guards_against": "Persona-and-demographic targeting; preaching to the converted.",
+   "tensions": [
+    "MHJ-CX-35",
+    "MHJ-CX-37",
+    "MHJ-CX-34"
+   ],
+   "status": "core",
+   "support": {
+    "units": 14,
+    "nondispute_units": 10,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E1",
+     "E2",
+     "E3",
+     "E5",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P05",
+   "stage": "I",
+   "title": "Position against the context; test newness for a reason",
+   "rule": "Identify the surrounding house style or environment and the felt-but-unnamed gap in it, then stand out by contrast rather than by escalating polish. Test every 'new' move for a reason: a surface swap is not change, and when an audience is bored the frame must change, not the decoration.",
+   "claims": [
+    "MHJ-CL-137",
+    "MHJ-CL-027",
+    "MHJ-CL-089",
+    "MHJ-CL-026",
+    "MHJ-CL-028",
+    "MHJ-CL-068"
+   ],
+   "limits": "Contrast must have a reason; contrarianism for its own sake is another formula.",
+   "guards_against": "Me-too work; louder versions of what is already there; cosmetic refreshes sold as reinvention.",
+   "tensions": [
+    "MHJ-CX-34"
+   ],
+   "status": "core",
+   "support": {
+    "units": 18,
+    "nondispute_units": 11,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E6",
+     "E7",
+     "E8"
+    ]
+   }
+  },
+  {
+   "id": "P06",
+   "stage": "II",
+   "title": "The concept is the whole experience",
+   "rule": "Treat the concept as the felt whole across material, image, styling, product, release sequence and behaviour — not the visual layer — and design how it will be met at the same time as the thing itself.",
+   "claims": [
+    "MHJ-CL-011",
+    "MHJ-CL-069",
+    "MHJ-CL-074"
+   ],
+   "limits": "In a small task (a single headline, one screen) apply only the relevant part.",
+   "guards_against": "Concept = moodboard; marketing bolted on afterwards.",
+   "tensions": [
+    "MHJ-CX-25",
+    "MHJ-CX-30"
+   ],
+   "status": "core",
+   "support": {
+    "units": 11,
+    "nondispute_units": 8,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E1",
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E6",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P07",
+   "stage": "II",
+   "title": "Derive the idea from the material's first impression",
+   "rule": "Begin from the first image or scene the core material itself evokes (for her, usually the music) and only then reach for outside references; keep a bank of stored ideas and pick the one most interesting to tell with this material.",
+   "claims": [
+    "MHJ-CL-001",
+    "MHJ-CL-039",
+    "MHJ-CL-004"
+   ],
+   "limits": "Outside music, 'material' is the product, service, data or place. Her own framing moved from 'visualising music' (SM) to 'music first' (ADOR); no fixed hierarchy between media is implied.",
+   "guards_against": "Reference-board-first concepts that could fit any client.",
+   "tensions": [
+    "MHJ-CX-31"
+   ],
+   "status": "core",
+   "support": {
+    "units": 15,
+    "nondispute_units": 12,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E5",
+     "E6",
+     "E8"
+    ]
+   }
+  },
+  {
+   "id": "P08",
+   "stage": "II",
+   "title": "Translate the impression; never copy the surface",
+   "rule": "Take a reference's impression, energy or structure, not its surface; carrying it into a different medium (sound into image, image into an action) is the most reliable way to avoid copying. Choose references for one consistent sensibility, often from outside the category, and raise the overlooked to a major standard of finish.",
+   "claims": [
+    "MHJ-CL-030",
+    "MHJ-CL-031",
+    "MHJ-CL-032",
+    "MHJ-CL-033",
+    "MHJ-CL-035"
+   ],
+   "limits": "Same-medium borrowing also appears in her work (a cover inspired by a film image, a stage cover of a song); what is avoided is reproducing the surface. Her 'whole-combination' originality threshold was stated in a 2024 copying dispute and her own catalogue faces open allegations (CX-41, CX-46; no merits judged).",
+   "guards_against": "Pastiche; reference-matching; 'make it look like X'.",
+   "tensions": [
+    "MHJ-CX-41",
+    "MHJ-CX-46"
+   ],
+   "status": "core",
+   "support": {
+    "units": 18,
+    "nondispute_units": 9,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E0",
+     "E1",
+     "E2",
+     "E3",
+     "E5",
+     "E6",
+     "E8"
+    ]
+   }
+  },
+  {
+   "id": "P09",
+   "stage": "II",
+   "title": "Build from a deliberate mismatch; set the emotional target precisely",
+   "rule": "Pair unlike things on purpose (mainstream subject with an outside maker; fantasy inside an ordinary setting). Define the emotional target precisely — often as a tension between two feelings — rather than one generic mood.",
+   "claims": [
+    "MHJ-CL-014",
+    "MHJ-CL-015",
+    "MHJ-CL-050"
+   ],
+   "limits": "Her own recurring emotional palette (bright melancholy, 'dry' beauty) is her taste, not the method; derive the user's emotional target from their material.",
+   "guards_against": "Single-note mood; predictable matching.",
+   "tensions": [],
+   "status": "core",
+   "support": {
+    "units": 10,
+    "nondispute_units": 7,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E1",
+     "E2",
+     "E3",
+     "E5",
+     "E6",
+     "E8"
+    ]
+   }
+  },
+  {
+   "id": "P10",
+   "stage": "II",
+   "title": "Coherence from a consistent reason, not lore",
+   "rule": "Hold a stable core reason and let each release or application vary its surface; treat releases as chapters that answer earlier ones; avoid constructed 'worldview' systems and fixed forms that close off later developments.",
+   "claims": [
+    "MHJ-CL-012",
+    "MHJ-CL-013",
+    "MHJ-CL-029",
+    "MHJ-CL-067"
+   ],
+   "limits": "Open premises still need a reason; tension with fictional launch devices is noted (contradiction index).",
+   "guards_against": "Lore that becomes homework; identical repetition.",
+   "tensions": [
+    "MHJ-CX-32"
+   ],
+   "status": "core",
+   "support": {
+    "units": 14,
+    "nondispute_units": 11,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E5",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P11",
+   "stage": "II",
+   "title": "Aim at the durable feeling; period looks are means, not briefs",
+   "rule": "Aim at what people are drawn to across eras; treat trends as what the public copies after a convincing move, so chasing them makes you second. Period material may enter only as an ingredient that expresses something about the present work, never as the brief.",
+   "claims": [
+    "MHJ-CL-022",
+    "MHJ-CL-023",
+    "MHJ-CL-024",
+    "MHJ-CL-141",
+    "MHJ-CL-143"
+   ],
+   "limits": "'Retro was never the target' is her stated intent, given in reply to readings of her work; it does not settle how audiences read the output (CX-21, CX-24). She chose a nostalgic direction for at least one record.",
+   "guards_against": "Y2K / retro / film-grain defaults; trend-chasing.",
+   "tensions": [
+    "MHJ-CX-21",
+    "MHJ-CX-24"
+   ],
+   "status": "core",
+   "support": {
+    "units": 14,
+    "nondispute_units": 8,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E5",
+     "E6",
+     "E8"
+    ]
+   }
+  },
+  {
+   "id": "P12",
+   "stage": "III",
+   "title": "Subtract toward the essential; quality lives in execution",
+   "rule": "Edit by removal toward the essential element and cut decoration that serves no use; locate quality in how well a form is executed, not in the form chosen or the money spent.",
+   "claims": [
+    "MHJ-CL-016",
+    "MHJ-CL-020"
+   ],
+   "limits": "She values both density of finish and some looseness and has criticised work that is 'too dense from the start'; she does not reconcile them (contradiction noted). 'Leave gaps' is recorded as her taste, not a rule.",
+   "guards_against": "Over-decoration; over-polish that reads as sameness.",
+   "tensions": [
+    "MHJ-CX-30"
+   ],
+   "status": "core",
+   "support": {
+    "units": 9,
+    "nondispute_units": 7,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E0",
+     "E2",
+     "E3",
+     "E4",
+     "E5"
+    ]
+   }
+  },
+  {
+   "id": "P13",
+   "stage": "III",
+   "title": "Intuitive is encoded, not literal",
+   "rule": "Literal work delivers a childish thing childishly; intuitive work is encoded with thought yet decodes instantly. Calibrate friction: neither so easy it tires nor so hard it shuts people out, and leave meanings open enough to set imagination working.",
+   "claims": [
+    "MHJ-CL-008",
+    "MHJ-CL-009",
+    "MHJ-CL-010",
+    "MHJ-CL-061"
+   ],
+   "limits": "Her emphasis shifted from 'slightly unfriendly' (SM) to 'decoded effortlessly' (ADOR) (MHJ-CL-061); public-service work sits at the effortless end.",
+   "guards_against": "Obviousness mistaken for clarity; obscurity mistaken for depth.",
+   "tensions": [
+    "MHJ-CX-33"
+   ],
+   "status": "core",
+   "support": {
+    "units": 13,
+    "nondispute_units": 8,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E6",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P14",
+   "stage": "III",
+   "title": "Every visible element carries meaning",
+   "rule": "Hold small details to the standard of the whole — objects in frame, one signature per person, light, sound and material checked physically — and treat a brand as continuous curation that is maintained after launch.",
+   "claims": [
+    "MHJ-CL-019",
+    "MHJ-CL-021",
+    "MHJ-CL-066"
+   ],
+   "limits": "HYBE HQ was a group design; the architects claim the grid and racks (CX-43). Proportion: detail serves the purpose.",
+   "guards_against": "Defaults left in by neglect.",
+   "tensions": [
+    "MHJ-CX-43",
+    "MHJ-CX-30"
+   ],
+   "status": "core",
+   "support": {
+    "units": 9,
+    "nondispute_units": 5,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E4",
+     "E5",
+     "E6"
+    ]
+   }
+  },
+  {
+   "id": "P16",
+   "stage": "III",
+   "title": "List the category's reflexes, then decide each one",
+   "rule": "List the moves a category performs by reflex (its default release ritual, default structure, default visual shorthand, default incentive mechanics) and decide each on its merits: keep with a reason, drop with a reason, or change.",
+   "claims": [
+    "MHJ-CL-041",
+    "MHJ-CL-138"
+   ],
+   "limits": "Her own list (obligatory high notes, inserted raps, knife-sync dance, ritual teasers) reflects her dislikes, not universal defects; she also used random version packing she says she dislikes (CX-27). Keep conventions that serve accessibility, safety, law or trust.",
+   "guards_against": "Formula production; also contrarian removal of useful conventions.",
+   "tensions": [
+    "MHJ-CX-27",
+    "MHJ-CX-36"
+   ],
+   "status": "core",
+   "support": {
+    "units": 10,
+    "nondispute_units": 7,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E5",
+     "E6",
+     "E8"
+    ]
+   }
+  },
+  {
+   "id": "P17",
+   "stage": "IV",
+   "title": "Identity rigidity matches the brand's rate of change",
+   "rule": "Use a fixed mark only where it does structural work; otherwise build flexible marks that transform and extend; design single forms that hold several readings and leave viewers room to find them.",
+   "claims": [
+    "MHJ-CL-053",
+    "MHJ-CL-063",
+    "MHJ-CL-064",
+    "MHJ-CL-010"
+   ],
+   "limits": "Institutions that need recognisability and trust (public services, finance) may need more fixity. Institutions that need recognisability and trust (public services, finance) usually need more fixity.",
+   "guards_against": "Rigid guidelines for a brand that must keep changing register, and the reverse.",
+   "tensions": [
+    "MHJ-CX-14",
+    "MHJ-CX-15"
+   ],
+   "status": "core",
+   "support": {
+    "units": 13,
+    "nondispute_units": 8,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E7",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P18",
+   "stage": "IV",
+   "title": "Never declare quality or benefit; name intuitively",
+   "rule": "Do not announce that the work is premium, healing or special — work loses value the moment it proclaims itself and benefits imposed from above feel condescending; make the experience good and let it be noticed. Names should land at once, need no explanation, and may carry a light double reading.",
+   "claims": [
+    "MHJ-CL-060",
+    "MHJ-CL-096",
+    "MHJ-CL-102",
+    "MHJ-CL-144",
+    "MHJ-CL-071",
+    "MHJ-CL-072",
+    "MHJ-CL-073"
+   ],
+   "limits": "Functional, legal, price and safety information must be stated plainly; this concerns value claims, not facts. In public services, finance, health, law or safety contexts, accuracy, accessibility and official wording come first; apply only where it cannot mislead or exclude anyone (our application).",
+   "guards_against": "Copy that tells instead of shows; cringe benefit words.",
+   "tensions": [],
+   "status": "core",
+   "support": {
+    "units": 11,
+    "nondispute_units": 5,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E7",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P19",
+   "stage": "V",
+   "title": "The object performs the idea",
+   "rule": "Make the product's real-world use carry the meaning (a gift that is given, a phone-shot film about phones); let form follow the material instead of a platform rule; give each asset its own job instead of making every asset chase one metric.",
+   "claims": [
+    "MHJ-CL-055",
+    "MHJ-CL-056",
+    "MHJ-CL-111",
+    "MHJ-CL-042",
+    "MHJ-CL-088"
+   ],
+   "limits": "Usability comes first where the object is a tool.",
+   "guards_against": "Packaging as decoration; one-size assets.",
+   "tensions": [],
+   "status": "core",
+   "support": {
+    "units": 13,
+    "nondispute_units": 10,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E0",
+     "E1",
+     "E2",
+     "E3",
+     "E5",
+     "E6"
+    ]
+   }
+  },
+  {
+   "id": "P20",
+   "stage": "V",
+   "title": "Stated stance: earn through quality and keepsakes, not inflation tactics",
+   "rule": "Her stated stance: answer the discomfort of earning from people who like the work with quality rather than extraction, make goods as keepsakes tied to a moment, and avoid tactics that inflate metrics so demand shows what is real.",
+   "claims": [
+    "MHJ-CL-095",
+    "MHJ-CL-107",
+    "MHJ-CL-135",
+    "MHJ-CL-084",
+    "MHJ-CL-136"
+   ],
+   "limits": "Self-account with no outcome data; much of it voiced in the dispute window. Counter-cases on record: ten-package releases at SM (2013), random version packing (2024), revenue-aimed collaboration shops (CX-26, CX-27).",
+   "guards_against": "Gacha mechanics, push-out sales, vanity numbers.",
+   "status": "supporting",
+   "tensions": [
+    "MHJ-CX-26",
+    "MHJ-CX-27"
+   ],
+   "support": {
+    "units": 10,
+    "nondispute_units": 1,
+    "class": "DIRECTLY STATED",
+    "confidence": "medium",
+    "eras": [
+     "E1",
+     "E5",
+     "E6",
+     "E7",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P21",
+   "stage": "VI",
+   "title": "Every reveal has a reason for its moment, order and medium",
+   "rule": "Design the launch with the work: decide what is seen first, in which sense (moving image over stills when the feeling needs sound), in what order and at what moment, and give each reveal a reason for its position.",
+   "claims": [
+    "MHJ-CL-074",
+    "MHJ-CL-075",
+    "MHJ-CL-079",
+    "MHJ-CL-080",
+    "MHJ-CL-151"
+   ],
+   "limits": "Public-service or safety launches cannot withhold information people need. 'Plan peaks backwards from the culminating event' rests on dispute-era remarks only and is not part of the rule.",
+   "guards_against": "Launch-by-calendar; ritual rollouts.",
+   "tensions": [
+    "MHJ-CX-36"
+   ],
+   "status": "core",
+   "support": {
+    "units": 10,
+    "nondispute_units": 4,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E3",
+     "E5",
+     "E6",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P22",
+   "stage": "VI",
+   "title": "Curiosity over pitch; the teaser is a tool, not a ritual",
+   "rule": "Turn what cannot yet be shown into something worth discovering, and choose teasers or no teasers by the situation; market by provoking curiosity rather than by pitching.",
+   "claims": [
+    "MHJ-CL-076",
+    "MHJ-CL-078",
+    "MHJ-CL-082"
+   ],
+   "limits": "Curiosity works when attention or trust already exists (MHJ-CL-083). Withholding must reward, never tease (she dislikes push-and-pull; CX-29); never withhold price, terms, safety or access information. In public services, finance, health, law or safety contexts, accuracy, accessibility and official wording come first; apply only where it cannot mislead or exclude anyone (our application).",
+   "guards_against": "Over-explaining; hype that the work cannot meet.",
+   "tensions": [
+    "MHJ-CX-29",
+    "MHJ-CX-35",
+    "MHJ-CX-36"
+   ],
+   "status": "core",
+   "support": {
+    "units": 10,
+    "nondispute_units": 6,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E8"
+    ]
+   }
+  },
+  {
+   "id": "P23",
+   "stage": "VI",
+   "title": "Give the audience something to do",
+   "rule": "Offer participation rather than only viewing — decoding, customising, copying, varying — and treat a pleasurable surprise as a deliverable even in obligatory formats.",
+   "claims": [
+    "MHJ-CL-101",
+    "MHJ-CL-090",
+    "MHJ-CL-097"
+   ],
+   "limits": "Participation must be optional and low-friction for people who just want the thing.",
+   "guards_against": "Passive broadcast; joyless obligatory formats.",
+   "tensions": [],
+   "status": "core",
+   "support": {
+    "units": 13,
+    "nondispute_units": 7,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E6",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P24",
+   "stage": "VII",
+   "title": "Brief the reason behind the impression, not the look",
+   "rule": "Give specialists the purpose, context and the reason behind the feeling — at most one optional image and a few anchor items — then hand over method; withhold reference images where copying is the risk.",
+   "claims": [
+    "MHJ-CL-112",
+    "MHJ-CL-049",
+    "MHJ-CL-105",
+    "MHJ-CL-044"
+   ],
+   "limits": "Inexperienced teams may need more scaffolding; adjust (P25).",
+   "guards_against": "Moodboard briefs that produce copies.",
+   "tensions": [
+    "MHJ-CX-12",
+    "MHJ-CX-30"
+   ],
+   "status": "core",
+   "support": {
+    "units": 14,
+    "nondispute_units": 11,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E5",
+     "E6"
+    ]
+   }
+  },
+  {
+   "id": "P25",
+   "stage": "VII",
+   "title": "Protect each specialist's strength; correct only what they missed",
+   "rule": "Keep collaborators' individuality, trim excess and pinch only the points they missed; vary direction by person; at scale, transmit context and intent and entrust the crew; accept a specialist's risky choice when it serves the whole.",
+   "claims": [
+    "MHJ-CL-113",
+    "MHJ-CL-114",
+    "MHJ-CL-115",
+    "MHJ-CL-116",
+    "MHJ-CL-043"
+   ],
+   "limits": "Coexists with deep hands-on checking of what she designed (MHJ-CL-152) — the tension is real and noted.",
+   "guards_against": "Every output converging on the director's style.",
+   "tensions": [
+    "MHJ-CX-30",
+    "MHJ-CX-13"
+   ],
+   "status": "core",
+   "support": {
+    "units": 13,
+    "nondispute_units": 8,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E5",
+     "E6",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P26",
+   "stage": "VII",
+   "title": "Cast for sensibility and shared cause, not status",
+   "rule": "Choose collaborators for the specific sensibility the project needs and for aligned values, often newcomers or people from outside the genre, and build a crew that can later work with little explanation.",
+   "claims": [
+    "MHJ-CL-048",
+    "MHJ-CL-117",
+    "MHJ-CL-156"
+   ],
+   "limits": "Her stated casting criteria for performers (mood, values, budding potential) are on record, but who recruited and cast which NewJeans members is disputed (CX-22); do not credit her with all casting.",
+   "guards_against": "Hiring by reputation; mismatched teams.",
+   "tensions": [
+    "MHJ-CX-22"
+   ],
+   "status": "core",
+   "support": {
+    "units": 16,
+    "nondispute_units": 9,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P27",
+   "stage": "VII",
+   "title": "Produce the conditions, not the depiction",
+   "rule": "Qualities such as naturalness or improvisation in creative collaborators and performers cannot be staged; design the conditions that let them appear (trust, explained purpose, room to vary, kept accidents), and explain why each task matters.",
+   "claims": [
+    "MHJ-CL-025",
+    "MHJ-CL-119",
+    "MHJ-CL-154",
+    "MHJ-CL-051"
+   ],
+   "limits": "Evidence comes from performers and creative crews. Do not transfer it to service staff or users as a way to manufacture 'authentic' behaviour; that would be managed emotional labour (our caution).",
+   "guards_against": "Performed authenticity.",
+   "tensions": [
+    "MHJ-CX-28"
+   ],
+   "status": "core",
+   "support": {
+    "units": 14,
+    "nondispute_units": 9,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E5",
+     "E8"
+    ]
+   }
+  },
+  {
+   "id": "P28",
+   "stage": "VII",
+   "title": "Clear, sparing feedback",
+   "rule": "Do not call weak work good; praise sparingly so 'good' carries information; state the right direction clearly and quickly.",
+   "claims": [
+    "MHJ-CL-106",
+    "MHJ-CL-149"
+   ],
+   "limits": "One event (School of Music 2024) carries most of the support; collaborators describe reassurance as much as sparing praise. Clarity is not harshness.",
+   "guards_against": "Feedback inflation; ambiguous direction.",
+   "status": "supporting",
+   "tensions": [],
+   "support": {
+    "units": 4,
+    "nondispute_units": 2,
+    "class": "DIRECTLY STATED",
+    "confidence": "medium",
+    "eras": [
+     "E5",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P29",
+   "stage": "VIII",
+   "title": "Constraint is the engine; think instead of spend",
+   "rule": "Treat budget and deadline as the frame that produces commercial creative work and ask what they make possible before asking for more; spend thinking before money.",
+   "claims": [
+    "MHJ-CL-131",
+    "MHJ-CL-132",
+    "MHJ-CL-110",
+    "MHJ-CL-150"
+   ],
+   "limits": "A stated preference, not evidence that less budget gives better results; no low-budget failures are recorded (survivorship). Never use it to underfund accessibility, testing, safety or staffing. In public services, finance, health, law or safety contexts, accuracy, accessibility and official wording come first; apply only where it cannot mislead or exclude anyone (our application).",
+   "guards_against": "Spending as a substitute for an idea.",
+   "tensions": [],
+   "status": "core",
+   "support": {
+    "units": 10,
+    "nondispute_units": 5,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P30",
+   "stage": "VIII",
+   "title": "Art and capital together (her stated stance)",
+   "rule": "Her stated stance: work that cannot sustain itself loses attention and vitality, so make the business carry the work; start from what you would want as a customer, refuse to sell what you would not, and win partners with the project's excitement rather than a revenue pitch.",
+   "claims": [
+    "MHJ-CL-134",
+    "MHJ-CL-135",
+    "MHJ-CL-085",
+    "MHJ-CL-124"
+   ],
+   "limits": "'Money follows good work' is her belief, not a documented causal result; whether NewJeans' results owed more to planning or to capital is open (CX-23).",
+   "guards_against": "Art without a business model; business that hollows out the work.",
+   "tensions": [
+    "MHJ-CX-23",
+    "MHJ-CX-26"
+   ],
+   "status": "core",
+   "support": {
+    "units": 13,
+    "nondispute_units": 3,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E5",
+     "E6",
+     "E7",
+     "E8",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P31",
+   "stage": "VIII",
+   "title": "Fit the structure to the people; seek authority where outcomes are capped",
+   "rule": "Where a downstream result is capped by upstream decisions, seek influence over the upstream part — but combining creative and management roles is not universally better; fit the structure to how each person's potential is released.",
+   "claims": [
+    "MHJ-CL-125",
+    "MHJ-CL-158",
+    "MHJ-CL-126",
+    "MHJ-CL-124"
+   ],
+   "limits": "Never export 'one person must control everything' as a rule; her own caveat (MHJ-CL-125) is binding. In public services, finance, health, law or safety contexts, accuracy, accessibility and official wording come first; apply only where it cannot mislead or exclude anyone (our application).",
+   "guards_against": "Silo handoffs that kill the idea; also founder-control dogma.",
+   "tensions": [
+    "MHJ-CX-25",
+    "MHJ-CX-39"
+   ],
+   "status": "core",
+   "support": {
+    "units": 14,
+    "nondispute_units": 6,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E6",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P32",
+   "stage": "VIII",
+   "title": "Prove with results; pair boldness with insurance",
+   "rule": "When argument cannot move an organisation, prove the point with a small result and let precedent become the system; pair every bold move with persuasion of the people who must do it and a prepared fallback.",
+   "claims": [
+    "MHJ-CL-120",
+    "MHJ-CL-148",
+    "MHJ-CL-122"
+   ],
+   "limits": "Small proofs must not harm anyone (her 'second-best route'). Proof-by-result is for creative and organisational questions, not for experiments on people's safety or rights.",
+   "guards_against": "Endless debate; reckless bets.",
+   "tensions": [],
+   "status": "core",
+   "support": {
+    "units": 10,
+    "nondispute_units": 7,
+    "class": "DIRECTLY STATED",
+    "confidence": "high",
+    "eras": [
+     "E1",
+     "E2",
+     "E3",
+     "E4",
+     "E5",
+     "E7",
+     "cross"
+    ]
+   }
+  },
+  {
+   "id": "P33",
+   "stage": "VIII",
+   "title": "Differentiated portfolio over clones of a winner",
+   "rule": "A market stays alive through differentiated offers rather than copies of the latest success; diversity needs makers willing to try and audiences able to accept change.",
+   "claims": [
+    "MHJ-CL-145"
+   ],
+   "limits": "A stance about markets. Her organisational version (labels judged by results) was voiced mainly in the 2024 governance dispute and is not part of the rule.",
+   "guards_against": "Copy-the-hit strategy.",
+   "status": "supporting",
+   "tensions": [
+    "MHJ-CX-44",
+    "MHJ-CX-40"
+   ],
+   "support": {
+    "units": 5,
+    "nondispute_units": 4,
+    "class": "DIRECTLY STATED",
+    "confidence": "medium",
+    "eras": [
+     "E2",
+     "E3",
+     "E5",
+     "E6"
+    ]
+   }
+  }
+ ],
+ "retired": [
+  {
+   "id": "P15",
+   "merged_into": "P05",
+   "version": "1.1",
+   "why": "synthesis attack P15: overlap with P05"
+  }
+ ]
+}

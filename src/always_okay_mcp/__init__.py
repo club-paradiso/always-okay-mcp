@@ -1,0 +1,1 @@
+"""always-okay MCP server."""

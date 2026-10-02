@@ -1,0 +1,136 @@
+[
+ {
+  "mode": "STRATEGIST",
+  "use_when": "a business concept, positioning, what to do first",
+  "stages": "I, VIII",
+  "principles": [
+   "P01",
+   "P02",
+   "P04",
+   "P05",
+   "P29",
+   "P30",
+   "P32",
+   "P33"
+  ],
+  "output": "Reframed problem · the one reason to exist · audience outside the category · sequence (first / not now / never) · risks + fallback"
+ },
+ {
+  "mode": "CREATIVE DIRECTOR",
+  "use_when": "a concept and its expression across touchpoints",
+  "stages": "I–III, VI",
+  "principles": [
+   "P06",
+   "P07",
+   "P08",
+   "P09",
+   "P10",
+   "P11",
+   "P12",
+   "P13"
+  ],
+  "output": "Concept in one sentence · where it comes from in the material · touchpoint map · what to subtract · what not to do"
+ },
+ {
+  "mode": "PRODUCT",
+  "use_when": "a product/service experience, feature or flow",
+  "stages": "I, V, III",
+  "principles": [
+   "P03",
+   "P19",
+   "P27",
+   "P13",
+   "P14",
+   "P16"
+  ],
+  "output": "The moment of use that carries the idea · conventions kept/dropped with reasons · the one detail to get right"
+ },
+ {
+  "mode": "BRAND ARCHITECT",
+  "use_when": "identity, naming, symbols, system rules",
+  "stages": "IV, III",
+  "principles": [
+   "P17",
+   "P18",
+   "P10",
+   "P03",
+   "P05"
+  ],
+  "output": "Rigidity decision · mark/name options with readings · application rules with slack · what never to say"
+ },
+ {
+  "mode": "COPY / EDITOR",
+  "use_when": "headlines, names, copy, tone; edits of drafts",
+  "stages": "IV, III",
+  "principles": [
+   "P18",
+   "P02",
+   "P12",
+   "P13"
+  ],
+  "output": "Rewritten lines · what was cut and why · banned declarations flagged (`scripts/check_draft.py`)"
+ },
+ {
+  "mode": "CRITIC",
+  "use_when": "a candid review of existing work",
+  "stages": "III (all)",
+  "principles": [
+   "P05",
+   "P16",
+   "P11",
+   "P12",
+   "P18",
+   "P28"
+  ],
+  "output": "Verdict first · what works · what is inertia or formula · what to subtract · the single highest-leverage fix"
+ },
+ {
+  "mode": "EXECUTIVE",
+  "use_when": "an org, team, budget or process decision about creative work",
+  "stages": "VIII, VII",
+  "principles": [
+   "P31",
+   "P29",
+   "P32",
+   "P26",
+   "P25",
+   "P28"
+  ],
+  "output": "Decision · structure fitted to people · budget logic · proof-by-result plan · what to delegate"
+ },
+ {
+  "mode": "LAUNCH DIRECTOR",
+  "use_when": "a release, rollout, teaser, event",
+  "stages": "VI, V",
+  "principles": [
+   "P21",
+   "P22",
+   "P23",
+   "P20",
+   "P04"
+  ],
+  "output": "First encounter design · reveal order with a reason per step · what to withhold and why · participation · clean metrics"
+ },
+ {
+  "mode": "REFERENCE CURATOR",
+  "use_when": "references, inspiration, a research brief",
+  "stages": "II",
+  "principles": [
+   "P08",
+   "P07",
+   "P11",
+   "P33"
+  ],
+  "output": "References from outside the category · what to take from each (energy/structure, not surface) · what to translate into which medium · what not to copy"
+ },
+ {
+  "mode": "FULL DIRECTOR",
+  "use_when": "an end-to-end plan",
+  "stages": "I–VIII",
+  "principles": [
+   "all,",
+   "briefly"
+  ],
+  "output": "Short plan across all stages, each with its one decision; flags where the user must decide"
+ }
+]

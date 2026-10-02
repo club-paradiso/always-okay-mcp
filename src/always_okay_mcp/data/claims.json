@@ -1,0 +1,4912 @@
+[
+ {
+  "claim_id": "MHJ-CL-001",
+  "claim": "She derives a concept from the first image or scene the music itself evokes on hearing it, and only then reaches for outside references; the song, lyric or beat is the starting material, not a reference board.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "EXO Growl",
+   "EXO XOXO",
+   "EXO debut",
+   "Girls' Generation Gee",
+   "Girls' Generation Oh!",
+   "Girls' Generation Tell Me Your Wish",
+   "NewJeans 'Ditto'",
+   "NewJeans Ditto",
+   "NewJeans Get Up",
+   "NewJeans Super Shy",
+   "Red Velvet Happiness",
+   "SM pictorial (Krystal, Taemin, Kai)",
+   "f(x) Pink Tape",
+   "f(x) Pink Tape Art Film",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 9,
+  "evidence": [
+   "MHJ-EV-00043",
+   "MHJ-EV-00506",
+   "MHJ-EV-00024",
+   "MHJ-EV-00499",
+   "MHJ-EV-00062",
+   "MHJ-EV-00035",
+   "MHJ-EV-00118",
+   "MHJ-EV-00232",
+   "MHJ-EV-00535",
+   "MHJ-EV-00445"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-002",
+  "claim": "She begins from the purpose of the work (why this project must exist, what gap it fills) rather than from a spread of references, and treats ideation from an aimless reference pile as a failure mode.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans",
+   "SHINee",
+   "f(x)"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00289",
+   "MHJ-EV-00089",
+   "MHJ-EV-00121",
+   "MHJ-EV-00023",
+   "MHJ-EV-00329"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-003",
+  "claim": "The intended purpose is the one non-negotiable in production: when execution damages the original intent she returns to the start rather than accepting a drifted result.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "cross"
+  ],
+  "projects": [
+   "SHINee",
+   "f(x)",
+   "f(x) Pink Tape",
+   "SHINee Married to the Music"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00195",
+   "MHJ-EV-00498",
+   "MHJ-EV-00023",
+   "MHJ-EV-00194",
+   "MHJ-EV-00435"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-004",
+  "claim": "She works as a storyteller with a standing bank of imagined scenarios and group images, and when material arrives she selects the stored idea that would be most interesting to tell with it.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans",
+   "SHINee",
+   "f(x)"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00177",
+   "MHJ-EV-00020",
+   "MHJ-EV-00022",
+   "MHJ-EV-00223"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-005",
+  "claim": "Before designing, she interrogates the category word or stock phrase in the brief (what kind of 'girl', what a 'dream girl' actually is, what a group name could mean) and reinterprets it until it carries a specific idea; clichés in the brief are treated as questions.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E2",
+   "E3"
+  ],
+  "projects": [
+   "Girls' Generation launch",
+   "SHINee 6th album",
+   "SHINee Dream Girl"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00017",
+   "MHJ-EV-00047",
+   "MHJ-EV-00009",
+   "MHJ-EV-00054"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-006",
+  "claim": "She locates meaning in something the project already owns (its name, initials, the organisation's core activity) and re-reads it, rather than importing an external theme.",
+  "domain": "concept",
+  "epistemic_class": "REASONABLE INFERENCE",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E4",
+   "E5",
+   "E7",
+   "E8"
+  ],
+  "projects": [
+   "HYBE CI",
+   "NewJeans light stick",
+   "SHINee 6th album",
+   "ooak records",
+   "ooak records identity"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00009",
+   "MHJ-EV-00311",
+   "MHJ-EV-00542",
+   "MHJ-EV-00388",
+   "MHJ-EV-00549"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-007",
+  "claim": "She returns a familiar object or form to its archetype before styling or designing it: asking what the original form of something is (a school uniform, basic shapes and primary colours, a song stripped of burdensome elements) and building from that basis.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "EXO debut",
+   "EXO logo",
+   "NewJeans",
+   "NewJeans 'Ditto'",
+   "SHINee 6th album"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00535",
+   "MHJ-EV-00009",
+   "MHJ-EV-00164",
+   "MHJ-EV-00115"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-008",
+  "claim": "She separates intuitive work from literal work: delivering a childish thing childishly is not intuition; intuitive work is encoded with concept and thought yet can be decoded by the audience instantly and universally, and that is the target.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E4",
+   "E6",
+   "cross"
+  ],
+  "projects": [
+   "HYBE Yongsan HQ",
+   "HYBE rebrand",
+   "SHINee Dream Girl",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00426",
+   "MHJ-EV-00213",
+   "MHJ-EV-00192",
+   "MHJ-EV-00169",
+   "MHJ-EV-00480",
+   "MHJ-EV-00305"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00037"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-009",
+  "claim": "She deliberately calibrates how accessible a work is, moving between friendliness and unfriendliness and stopping before the public finds it too hard, on the view that easy work tires quickly and uniformity is the larger risk.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "SHINee",
+   "f(x)",
+   "f(x) Red Light",
+   "NewJeans Hype Boy"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00037",
+   "MHJ-EV-00023",
+   "MHJ-EV-00169",
+   "MHJ-EV-00173",
+   "MHJ-EV-00364",
+   "MHJ-EV-00457",
+   "MHJ-EV-00458"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00115",
+   "MHJ-EV-00426"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-010",
+  "claim": "She keeps meanings open: she explains only the outline of her symbols, designs single symbols and names to hold two readings at once, and treats divergent readings as the viewer's right and as a way to set imagination working.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E8"
+  ],
+  "projects": [
+   "Movieland curation",
+   "everyone ok (ooak records x everyone)",
+   "f(x) Electric Shock",
+   "ooak records identity"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00192",
+   "MHJ-EV-00176",
+   "MHJ-EV-00378",
+   "MHJ-EV-00549",
+   "MHJ-EV-00293"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-011",
+  "claim": "She treats a concept as the felt whole across music, image, styling, release sequence and behaviour, and rejects equating concept with the visual layer; coherence among all touchpoints is what she designs for.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E2",
+   "E5"
+  ],
+  "projects": [
+   "ADOR",
+   "EXO",
+   "Girls' Generation Gee",
+   "NewJeans",
+   "SHINee",
+   "SHINee Odd",
+   "SM visual direction",
+   "Super Junior Sorry Sorry",
+   "f(x)"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00236",
+   "MHJ-EV-00127",
+   "MHJ-EV-00153",
+   "MHJ-EV-00532",
+   "MHJ-EV-00166",
+   "MHJ-EV-00014"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-012",
+  "claim": "She builds coherence from a consistent reason or message expressed differently each time, not from constructed lore or a fixed visual form; she is openly averse to 'worldview' systems and prefers open premises that leave later developments free.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans",
+   "f(x) Electric Shock",
+   "f(x) Nu ABO",
+   "f(x) Pink Tape",
+   "f(x) Pinocchio",
+   "f(x)",
+   "SHINee Dream Girl"
+  ],
+  "persona_relevance": "core",
+  "kind": "anti-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00116",
+   "MHJ-EV-00117",
+   "MHJ-EV-00125",
+   "MHJ-EV-00187",
+   "MHJ-EV-00175",
+   "MHJ-EV-00054"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00186",
+   "MHJ-EV-00508",
+   "MHJ-EV-00509",
+   "MHJ-EV-00339",
+   "MHJ-EV-00343"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-013",
+  "claim": "She treats each release as a chapter in an arc rather than a reset: later releases answer or mirror earlier ones (a growth report, a return gift, a lock-and-key pair) and the structural principle itself can alternate between releases.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans Ditto",
+   "NewJeans Get Up",
+   "NewJeans New Jeans EP",
+   "NewJeans OMG",
+   "NewJeans Super Shy",
+   "OOAK records",
+   "SHINee Dream Girl",
+   "f(x) Electric Shock",
+   "f(x) Nu ABO",
+   "f(x) Pink Tape",
+   "f(x) Pinocchio",
+   "f(x)"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 8,
+  "evidence": [
+   "MHJ-EV-00054",
+   "MHJ-EV-00175",
+   "MHJ-EV-00232",
+   "MHJ-EV-00108",
+   "MHJ-EV-00241",
+   "MHJ-EV-00266",
+   "MHJ-EV-00117",
+   "MHJ-EV-00226",
+   "MHJ-EV-00596"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-014",
+  "claim": "She builds from deliberate mismatch: unexpected pairings (mainstream group with underground photographer, idol in a real alley, a pretty face with unaffected manner, opposite codes in one frame) are chosen because the meeting of unlike things carries more feeling than a consistent mood.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E2",
+   "E3",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "Casa BRUTUS Oct 2026",
+   "EXO Growl",
+   "EXO XOXO",
+   "NewJeans",
+   "SHINee Romeo",
+   "W Korea f(x) shoot",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 8,
+  "evidence": [
+   "MHJ-EV-00403",
+   "MHJ-EV-00019",
+   "MHJ-EV-00183",
+   "MHJ-EV-00198",
+   "MHJ-EV-00075",
+   "MHJ-EV-00507",
+   "MHJ-EV-00174",
+   "MHJ-EV-00035"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-015",
+  "claim": "She sets the emotional target as a balance of opposites rather than one mood: brightness with melancholy, beauty that stays dry rather than cloying, warmth without syrup, a cheerful surface over a sadder inside.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5",
+   "E6",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans ETA",
+   "f(x) Pink Tape",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00439",
+   "MHJ-EV-00272",
+   "MHJ-EV-00230",
+   "MHJ-EV-00502",
+   "MHJ-EV-00172"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-016",
+  "claim": "She edits by subtraction: the longer she designs the more she removes, aiming for the essential element or the single self-sufficient image, deleting predictable or burdensome parts and decoration that serves no use.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "projects": [
+   "HYBE Yongsan HQ",
+   "NewJeans",
+   "Taemin Ace",
+   "f(x) 4 Walls",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00180",
+   "MHJ-EV-00115",
+   "MHJ-EV-00094",
+   "MHJ-EV-00313",
+   "MHJ-EV-00536",
+   "MHJ-EV-00182",
+   "MHJ-EV-00064"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00473",
+   "MHJ-EV-00295",
+   "MHJ-EV-00162"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-017",
+  "claim": "She starts a project bolder than she intends because production always trims it, asks collaborators not to lower their own ambition, and then manages intensity at the end so the result does not overreach.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E3"
+  ],
+  "projects": [
+   "SHINee Married to the Music"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 1,
+  "evidence": [
+   "MHJ-EV-00194"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-018",
+  "claim": "She leaves gaps on purpose: a piece with no slack is less attractive, so she works between meticulousness and looseness, prefers blank space and slight awkwardness to mechanical polish, and reads uniform over-polish as a sign of sameness.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "Movieland curation",
+   "NewJeans"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00187",
+   "MHJ-EV-00293",
+   "MHJ-EV-00264",
+   "MHJ-EV-00294",
+   "MHJ-EV-00297",
+   "MHJ-EV-00296"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00602",
+   "MHJ-EV-00581"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-019",
+  "claim": "She treats every visible element as carrying meaning and holds the small detail to the same standard as the whole: staged objects in a jacket frame, one signature change per member, the period-accurate shoe at the last minute, light samples tested for a building.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E4",
+   "E6"
+  ],
+  "projects": [
+   "Girls' Generation Run Devil Run",
+   "HYBE Yongsan HQ",
+   "Hanni Aoi Sangoshō cover",
+   "NewJeans Bunnies Camp 2024 Tokyo Dome",
+   "SHINee Romeo"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00479",
+   "MHJ-EV-00041",
+   "MHJ-EV-00602",
+   "MHJ-EV-00206",
+   "MHJ-EV-00585"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-020",
+  "claim": "She locates quality in the density of execution rather than in the choice of form or the size of the budget: the same form can be cheap or refined depending on how densely it is made, and basic elements applied well decide a low-budget result.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E0",
+   "E2"
+  ],
+  "projects": [
+   "f(x) Pink Tape",
+   "f(x) Pink Tape Art Film"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00442",
+   "MHJ-EV-00504",
+   "MHJ-EV-00029",
+   "MHJ-EV-00032"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00294"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-021",
+  "claim": "She names atmosphere's basic carriers - light, sound and smell - as what decides a space or a film, and checks them physically rather than leaving them to defaults.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E4",
+   "E6"
+  ],
+  "projects": [
+   "HYBE Yongsan HQ",
+   "f(x) Pink Tape Art Film"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00504",
+   "MHJ-EV-00206",
+   "MHJ-EV-00314",
+   "MHJ-EV-00401"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-022",
+  "claim": "She rejects trend-chasing: a trend is what the public copies after someone does something that fits and convinces, so trying to get ahead of trends is the posture of a late follower; trend fragments may enter as details, never as the direction.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "Hanni Aoi Sangoshō cover",
+   "NewJeans",
+   "NewJeans Bunnies Camp 2024 Tokyo Dome",
+   "SHINee"
+  ],
+  "persona_relevance": "core",
+  "kind": "anti-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00049",
+   "MHJ-EV-00364",
+   "MHJ-EV-00093",
+   "MHJ-EV-00537",
+   "MHJ-EV-00602"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-023",
+  "claim": "She explicitly rejects retro or any period look as a target: what people are drawn to is universal and only the means of expression change, so she aims at something timeless (likened to a childhood treasure box) and lets period resonance appear only as a by-product or a small element of fun.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E6",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans debut"
+  ],
+  "persona_relevance": "core",
+  "kind": "anti-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00537",
+   "MHJ-EV-00219",
+   "MHJ-EV-00085",
+   "MHJ-EV-00100",
+   "MHJ-EV-00295",
+   "MHJ-EV-00583"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00433",
+   "MHJ-EV-00455",
+   "MHJ-EV-00602"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-024",
+  "claim": "She uses period references to express a property of the present material (the movement of a dance, the image a song gives, the era of a covered song) and then holds them to the standard of people who know that period, rather than adopting a period as the theme.",
+  "domain": "styling",
+  "epistemic_class": "REASONABLE INFERENCE",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E3",
+   "E6"
+  ],
+  "projects": [
+   "Girls' Generation Gee",
+   "Girls' Generation Oh!",
+   "Girls' Generation Tell Me Your Wish",
+   "Girls' Generation The Boys",
+   "Hanni Aoi Sangoshō cover",
+   "NewJeans Bunnies Camp 2024 Tokyo Dome",
+   "f(x) 4 Walls"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00064",
+   "MHJ-EV-00043",
+   "MHJ-EV-00473",
+   "MHJ-EV-00602"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-025",
+  "claim": "She holds that naturalness cannot be a concept - staging it makes it artificial - so it has to be produced by removing artificial conditions (performed expressions, over-set scenes, unfit rules) and building an environment where subjects can be as they are.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "EXO Growl",
+   "NewJeans",
+   "Taemin Ace"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 7,
+  "evidence": [
+   "MHJ-EV-00539",
+   "MHJ-EV-00224",
+   "MHJ-EV-00088",
+   "MHJ-EV-00179",
+   "MHJ-EV-00182",
+   "MHJ-EV-00593",
+   "MHJ-EV-00456"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-026",
+  "claim": "She uses herself as the first customer - asking what she would want to experience, own or find fun as a member of the public - and assumes that what she genuinely likes others will like once they meet it, while checking that self-satisfaction does not slide into self-indulgence.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E3",
+   "E5",
+   "E6",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans 'Ditto'",
+   "NewJeans New Jeans EP",
+   "NewJeans OMG",
+   "NewJeans debut",
+   "ooak records launch campaign"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00389",
+   "MHJ-EV-00406",
+   "MHJ-EV-00028",
+   "MHJ-EV-00222",
+   "MHJ-EV-00218",
+   "MHJ-EV-00534"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00159",
+   "MHJ-EV-00158"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-027",
+  "claim": "She positions novelty relative to the surrounding context: she first identifies the established house style or the visual environment the work will appear in, then designs against it (the opposite of the existing company style, a deliberately plain billboard among glossy ones, an unexpected song in a huge venue).",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "Hanni Aoi Sangoshō cover",
+   "NewJeans Bunnies Camp 2024 Tokyo Dome",
+   "NewJeans billboard",
+   "NewJeans debut",
+   "SHINee",
+   "SM visual direction",
+   "f(x)"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00135",
+   "MHJ-EV-00290",
+   "MHJ-EV-00185",
+   "MHJ-EV-00605"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-028",
+  "claim": "She tests proposed newness for disguised inertia: novelty must have a reason, a surface swap (a different shirt colour) is not change, and when an audience is bored the frame has to change, not the decoration.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E6",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "OOAK records"
+  ],
+  "persona_relevance": "core",
+  "kind": "anti-pattern",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00138",
+   "MHJ-EV-00280",
+   "MHJ-EV-00240",
+   "MHJ-EV-00554"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00041"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-029",
+  "claim": "She keeps a stable core principle for a group while varying its surface each release, changing register without abandoning the core quality (for example a stronger look that keeps innocence and refuses the exposure-equals-sexy shortcut).",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E2"
+  ],
+  "projects": [
+   "Girls' Generation",
+   "Girls' Generation Run Devil Run",
+   "Girls' Generation The Boys"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00040",
+   "MHJ-EV-00044",
+   "MHJ-EV-00046",
+   "MHJ-EV-00470"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-030",
+  "claim": "She transforms references by translating the impression or feeling they give into a different medium (sound into image, image into an action or promotion) and explicitly does not copy what she loves within its own medium.",
+  "domain": "references",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E2",
+   "E3",
+   "E6"
+  ],
+  "projects": [
+   "Girls' Generation",
+   "Girls' Generation Run Devil Run",
+   "Girls' Generation debut (Into the New World)",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00425",
+   "MHJ-EV-00444",
+   "MHJ-EV-00197",
+   "MHJ-EV-00184",
+   "MHJ-EV-00044"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-031",
+  "claim": "When she borrows from a reference she takes its underlying energy, balance or structure (how still images sit with music, the singular energy a singer gave off) and judges originality at the level of the whole combination, while treating shared surface elements as free to use.",
+  "domain": "references",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E3",
+   "E6"
+  ],
+  "projects": [
+   "Girls' Generation debut (Into the New World)",
+   "NewJeans Tokyo Dome fan meeting",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00414",
+   "MHJ-EV-00197",
+   "MHJ-EV-00184",
+   "MHJ-EV-00583",
+   "MHJ-EV-00564"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-032",
+  "claim": "She treats references as a source of sensibility rather than style: within every genre she picks what matches one consistent sensibility, so the selection becomes a category of its own and goodness is not reduced to any one style or genre.",
+  "domain": "references",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "E6",
+   "E8"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans 'Ditto'"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00444",
+   "MHJ-EV-00257",
+   "MHJ-EV-00285",
+   "MHJ-EV-00002",
+   "MHJ-EV-00156",
+   "MHJ-EV-00534"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-033",
+  "claim": "She deliberately draws her reference world from outside the category she works in (film, world and European music, older Korean records, art books) and treats the distance between that world and a mass format as the productive position.",
+  "domain": "references",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E0",
+   "E1",
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00002",
+   "MHJ-EV-00013",
+   "MHJ-EV-00183",
+   "MHJ-EV-00106",
+   "MHJ-EV-00319",
+   "MHJ-EV-00588"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-034",
+  "claim": "She researches references by tracing lineage - credits, sessions, influences and genre roots - so that apparently opposite tastes connect, and she watches work from a maker's standpoint, asking how and with what thought it was made.",
+  "domain": "references",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E0",
+   "E5",
+   "E8"
+  ],
+  "projects": [],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00106",
+   "MHJ-EV-00285",
+   "MHJ-EV-00386",
+   "MHJ-EV-00267",
+   "MHJ-EV-00254"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-035",
+  "claim": "She sources from the minor and finishes to a major standard: things others have not done, or overlooked subculture, are raised to mainstream finish and introduced in the most visible place, often with collaborators chosen from outside the establishment.",
+  "domain": "references",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "OOAK records",
+   "SHINee",
+   "SHINee 'Dream Girl'",
+   "f(x)"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00364",
+   "MHJ-EV-00173",
+   "MHJ-EV-00048",
+   "MHJ-EV-00525",
+   "MHJ-EV-00274",
+   "MHJ-EV-00275"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-036",
+  "claim": "She regards taste as built by volume and effort of encounter - much is absorbed early and through active digging - and holds that convenience thins it; her advice to newcomers is to make and consume actively to discover what they are drawn to.",
+  "domain": "references",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E0",
+   "E6",
+   "E8"
+  ],
+  "projects": [],
+  "persona_relevance": "supporting",
+  "kind": "stance",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00400",
+   "MHJ-EV-00367",
+   "MHJ-EV-00252",
+   "MHJ-EV-00281"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-037",
+  "claim": "Her stated formative references are cross-era and cross-country film, records and books (European film music, bossa nova, Italian disco, auteur cinema, art-book reproductions) rather than idol pop.",
+  "domain": "references",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "low",
+  "era": [
+   "E0",
+   "E2",
+   "E5"
+  ],
+  "projects": [],
+  "persona_relevance": "context",
+  "kind": "fact-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00260",
+   "MHJ-EV-00318",
+   "MHJ-EV-00440",
+   "MHJ-EV-00492",
+   "MHJ-EV-00158",
+   "MHJ-EV-00441"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-038",
+  "claim": "Her self-description shifted from a visual director who 'visualises music' (SM era) to a music-first producer for whom visuals are auxiliary and art direction was a bridge to releasing the music she wants (ADOR era onward).",
+  "domain": "music",
+  "epistemic_class": "REASONABLE INFERENCE",
+  "confidence": "high",
+  "generalizability": "low",
+  "era": [
+   "E2",
+   "E3",
+   "E4",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans",
+   "OOAK records",
+   "SM album design awards 2014"
+  ],
+  "persona_relevance": "context",
+  "kind": "fact-pattern",
+  "units": 7,
+  "evidence": [
+   "MHJ-EV-00038",
+   "MHJ-EV-00003",
+   "MHJ-EV-00188",
+   "MHJ-EV-00307",
+   "MHJ-EV-00237",
+   "MHJ-EV-00215",
+   "MHJ-EV-00217"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00007"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-039",
+  "claim": "She treats sound as a primary design material: visual work aims to maximise the synaesthetic imagery of the music so people 'hear' it with their eyes, trailers and shoots are built around a song's mood, and the music played on set or in a space is chosen deliberately.",
+  "domain": "music",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "E6",
+   "E8"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans",
+   "OOAK records",
+   "SHINee Odd",
+   "SM pictorial (Krystal, Taemin, Kai)",
+   "Taemin Ace",
+   "W Korea f(x) shoot",
+   "f(x)",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 7,
+  "evidence": [
+   "MHJ-EV-00036",
+   "MHJ-EV-00172",
+   "MHJ-EV-00153",
+   "MHJ-EV-00307",
+   "MHJ-EV-00198",
+   "MHJ-EV-00181",
+   "MHJ-EV-00445",
+   "MHJ-EV-00401"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-040",
+  "claim": "She locates authorship in selection and finishing: she assembles a library of material before the brief exists, chooses and sequences it, and directs the final details (mix, vocal delivery) with a production partner, arguing that composition is distributed and the final decision-maker shapes how a song sounds.",
+  "domain": "music",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans",
+   "NewJeans New Jeans EP",
+   "NewJeans OMG",
+   "OOAK records",
+   "V Layover",
+   "V Rainy Days"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00111",
+   "MHJ-EV-00222",
+   "MHJ-EV-00113",
+   "MHJ-EV-00307",
+   "MHJ-EV-00109",
+   "MHJ-EV-00461"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-041",
+  "claim": "She names a category's automatic conventions explicitly and designs their absence: obligatory high notes, inserted raps, uniform vocal delivery, knife-sharp synchronised dance, teasers as ritual, random collectibles, and the obvious styling shortcut.",
+  "domain": "music",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "Girls' Generation Run Devil Run",
+   "NewJeans",
+   "NewJeans 'Hype Boy'",
+   "NewJeans Hype Boy",
+   "NewJeans New Jeans EP",
+   "NewJeans debut",
+   "SHINee Dream Girl"
+  ],
+  "persona_relevance": "core",
+  "kind": "anti-pattern",
+  "units": 7,
+  "evidence": [
+   "MHJ-EV-00112",
+   "MHJ-EV-00297",
+   "MHJ-EV-00538",
+   "MHJ-EV-00234",
+   "MHJ-EV-00102",
+   "MHJ-EV-00458",
+   "MHJ-EV-00040",
+   "MHJ-EV-00054"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-042",
+  "claim": "She lets form follow the material rather than a platform rule: song length follows the song's development with predictable parts cut, the video format is matched to the track that can carry it, and each asset type is given its own job instead of all chasing one metric.",
+  "domain": "music",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E5"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans Cool With You",
+   "NewJeans ETA",
+   "NewJeans ETA x Apple"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00094",
+   "MHJ-EV-00229",
+   "MHJ-EV-00120",
+   "MHJ-EV-00231"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-043",
+  "claim": "She judges collaborator-offered alternatives against the record's direction rather than her first preference, and accepts a specialist's risky choice when it serves the whole release.",
+  "domain": "music",
+  "epistemic_class": "REASONABLE INFERENCE",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans 'Cool With You'",
+   "NewJeans 'Get Up'",
+   "SHINee Dream Girl",
+   "V Layover"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00433",
+   "MHJ-EV-00529",
+   "MHJ-EV-00462",
+   "MHJ-EV-00050"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-044",
+  "claim": "She briefs styling by explaining the target concept and naming the few anchor items that carry it, then iterates with the stylists who own execution; fit to the concept and to each member comes first and cost second.",
+  "domain": "styling",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "Girls' Generation",
+   "Girls' Generation Gee",
+   "Girls' Generation Genie",
+   "NewJeans 'Ditto'",
+   "Red Velvet Happiness",
+   "SHINee",
+   "f(x) Pink Tape"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00496",
+   "MHJ-EV-00471",
+   "MHJ-EV-00049",
+   "MHJ-EV-00063",
+   "MHJ-EV-00535"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-045",
+  "claim": "She carries a group's identity through individual variation rather than uniformity: members are cast and styled as distinct, non-overlapping parts of one composed whole, with one signature per member and costumes varied across appearances.",
+  "domain": "styling",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "Girls' Generation Run Devil Run",
+   "Girls' Generation The Boys",
+   "Girls' Generation-TTS Twinkle",
+   "NewJeans",
+   "Red Velvet Happiness"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 8,
+  "evidence": [
+   "MHJ-EV-00470",
+   "MHJ-EV-00475",
+   "MHJ-EV-00041",
+   "MHJ-EV-00091",
+   "MHJ-EV-00063",
+   "MHJ-EV-00008",
+   "MHJ-EV-00129",
+   "MHJ-EV-00330"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-046",
+  "claim": "She builds the concept on the subject's actual, often under-shown traits - drawn from everyday conversation with them - rather than imposing a type, and treats an artist's unseen plain side as material.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans",
+   "SHINee",
+   "SHINee Dream Girl",
+   "Taemin Ace",
+   "V Layover",
+   "V Rainy Days",
+   "f(x)"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00480",
+   "MHJ-EV-00022",
+   "MHJ-EV-00461",
+   "MHJ-EV-00464",
+   "MHJ-EV-00182",
+   "MHJ-EV-00541"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-047",
+  "claim": "She approaches photography as graphic design in the broad sense: directing situation, pose, angle, tone and on-set music toward one complete image that expresses a subtle emotion, not a technically perfect portrait, and avoiding the obvious image.",
+  "domain": "photography",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E3"
+  ],
+  "projects": [
+   "Taemin Ace",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00180",
+   "MHJ-EV-00181",
+   "MHJ-EV-00171"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-048",
+  "claim": "She casts photographers and directors for the specific sensibility a project needs rather than for status - underground photographers, assistants, newcomers, a director who had never made a video in the genre - then explains intent and purpose and frees the method.",
+  "domain": "photography",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "Casa BRUTUS No. 318",
+   "NewJeans Ditto",
+   "NewJeans Ditto MV",
+   "NewJeans OMG",
+   "SHINee",
+   "SHINee 'Dream Girl'",
+   "SHINee Romeo",
+   "SHINee Dream Girl",
+   "f(x) Pink Tape Art Film"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 8,
+  "evidence": [
+   "MHJ-EV-00019",
+   "MHJ-EV-00048",
+   "MHJ-EV-00525",
+   "MHJ-EV-00119",
+   "MHJ-EV-00446",
+   "MHJ-EV-00381",
+   "MHJ-EV-00051",
+   "MHJ-EV-00503",
+   "MHJ-EV-00481"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-049",
+  "claim": "When transmitting an impression to an executing specialist she conveys the reason behind it, at most one optional image, and the conditions for the work, not a look-and-feel; she withholds reference images where copying is the risk.",
+  "domain": "references",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "Bunnies Camp 2024 Tokyo Dome",
+   "NewJeans",
+   "NewJeans Ditto",
+   "NewJeans Ditto MV",
+   "NewJeans OMG",
+   "SM visual direction",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00119",
+   "MHJ-EV-00447",
+   "MHJ-EV-00197",
+   "MHJ-EV-00393",
+   "MHJ-EV-00166"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-050",
+  "claim": "She grounds fantasy in real, ordinary settings and strips performed expression from subjects, so images read as outside a particular time and place and the unreal sits inside the real.",
+  "domain": "photography",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E3"
+  ],
+  "projects": [
+   "EXO Growl",
+   "EXO XOXO",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00179",
+   "MHJ-EV-00507",
+   "MHJ-EV-00174"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-051",
+  "claim": "She plans for and keeps the unplanned moment: on-set improvisation and accidents that deliver the intended feeling better than the plan are captured and kept, and she names the lack of improvisation as a weakness of over-trained production.",
+  "domain": "photography",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "Chanel",
+   "Movieland curation",
+   "NewJeans",
+   "NewJeans debut",
+   "SHINee Dream Girl",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00050",
+   "MHJ-EV-00174",
+   "MHJ-EV-00293",
+   "MHJ-EV-00409",
+   "MHJ-EV-00568"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-052",
+  "claim": "She lets images carry what words would make heavy-handed, using a formal device (a hidden versus an erased face, a cover without faces) to carry a conceptual distinction and designing images as puzzles the audience can decode.",
+  "domain": "photography",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E3"
+  ],
+  "projects": [
+   "SHINee Dream Girl",
+   "SM album covers"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00047",
+   "MHJ-EV-00056",
+   "MHJ-EV-00480",
+   "MHJ-EV-00010"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-053",
+  "claim": "She matches the rigidity of an identity system to how often the brand must change register: a fixed logo only where it does real work (making a premise credible), otherwise flexible marks built to transform, extend and be varied per release.",
+  "domain": "typography",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E4",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "EXO debut",
+   "EXO logo",
+   "Girls' Generation",
+   "HYBE CI",
+   "SM CI",
+   "ooak records identity"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00168",
+   "MHJ-EV-00186",
+   "MHJ-EV-00164",
+   "MHJ-EV-00006",
+   "MHJ-EV-00311",
+   "MHJ-EV-00549",
+   "MHJ-EV-00325"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-054",
+  "claim": "In naming and lettering she chooses intuitively for sound and the look of the letter sequence together with a direction of meaning, preferring simple, slightly playful names that need no explanation and initials that hold several readings.",
+  "domain": "typography",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E7",
+   "E8"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans",
+   "ooak records",
+   "ooak records identity"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00549",
+   "MHJ-EV-00387",
+   "MHJ-EV-00388"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-055",
+  "claim": "She treats the physical album as a distinct object in the digital era: the cover's job is symbolic, functional needs such as portraits go inside, and the object should give holding, looking and listening at once.",
+  "domain": "artifact",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E0",
+   "E2",
+   "E3",
+   "E6"
+  ],
+  "projects": [
+   "Girls' Generation The Boys package",
+   "NewJeans How Sweet",
+   "SM album covers",
+   "SM album design awards 2014",
+   "SM album packaging"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 7,
+  "evidence": [
+   "MHJ-EV-00010",
+   "MHJ-EV-00045",
+   "MHJ-EV-00042",
+   "MHJ-EV-00189",
+   "MHJ-EV-00188",
+   "MHJ-EV-00582",
+   "MHJ-EV-00588"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-056",
+  "claim": "She makes the product's real-world use into the concept so the object performs the idea: an album defined as a gift to be given on, a winter release packaged like a present, a phone's meaning built into a phone commercial, a fan object customisable by each owner.",
+  "domain": "artifact",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans Ditto",
+   "NewJeans ETA",
+   "NewJeans OMG",
+   "NewJeans light stick",
+   "TVXQ Christmas album"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00016",
+   "MHJ-EV-00108",
+   "MHJ-EV-00230",
+   "MHJ-EV-00542"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-057",
+  "claim": "Releases she led or explained repeatedly extend one concept into multiple artifact formats and versions (member versions, several videos for one song, an art book and exhibition with deliberately different venues).",
+  "domain": "artifact",
+  "epistemic_class": "REASONABLE INFERENCE",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "EXO EXODUS",
+   "EXO symbol",
+   "Girls' Generation I Got a Boy",
+   "Kim Jun-won x Krystal I Don't Wanna Love You",
+   "NewJeans 'Hype Boy'",
+   "SHINee",
+   "f(x) 4 Walls"
+  ],
+  "persona_relevance": "context",
+  "kind": "fact-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00162",
+   "MHJ-EV-00538",
+   "MHJ-EV-00485",
+   "MHJ-EV-00486",
+   "MHJ-EV-00004"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-058",
+  "claim": "She holds the closing and connecting parts of a work - openings, transitions, bridge scenes, the moment under the credits - to the same standard as its highlights, on the view that remembered scenes land only because of them.",
+  "domain": "artifact",
+  "epistemic_class": "SPECULATIVE",
+  "confidence": "low",
+  "generalizability": "medium",
+  "era": [
+   "E8"
+  ],
+  "projects": [
+   "Movieland curation"
+  ],
+  "persona_relevance": "none",
+  "kind": "principle",
+  "units": 1,
+  "evidence": [
+   "MHJ-EV-00262",
+   "MHJ-EV-00292",
+   "MHJ-EV-00265",
+   "MHJ-EV-00283"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-059",
+  "claim": "She frames popular visual culture as the most-encountered art and puts the highest craft into ordinary, frequently seen touchpoints, with young audiences as the people whose daily exposure should improve.",
+  "domain": "aesthetics",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E8"
+  ],
+  "projects": [
+   "HYBE HQ",
+   "OOAK records",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "stance",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00258",
+   "MHJ-EV-00013",
+   "MHJ-EV-00169",
+   "MHJ-EV-00080",
+   "MHJ-EV-00608"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-060",
+  "claim": "She prefers sincerity to performed effect: she will not announce the benefit of a work (healing, comfort) or decorate subjects to look impressive, but makes the experience good and lets the benefit be received.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "core",
+  "kind": "anti-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00412",
+   "MHJ-EV-00145",
+   "MHJ-EV-00084",
+   "MHJ-EV-00380",
+   "MHJ-EV-00104"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-061",
+  "claim": "Her stated target for audience effort moved over time: in the SM years she embraced work that is 'slightly unfriendly' and makes people think, while in the ADOR years she stressed removing burdensome elements and work that is decoded effortlessly; the refusal of sameness stayed constant.",
+  "domain": "concept",
+  "epistemic_class": "REASONABLE INFERENCE",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E3",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "NewJeans",
+   "f(x)"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "fact-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00037",
+   "MHJ-EV-00173",
+   "MHJ-EV-00115",
+   "MHJ-EV-00426",
+   "MHJ-EV-00094"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-062",
+  "claim": "She describes her ongoing practice as fixed goals with opportunistic means: a broad direction and rough blueprint are held while specific points, events and problems that interest her are linked to them as they arise.",
+  "domain": "concept",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E8",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans",
+   "OOAK records",
+   "ooak records",
+   "NewJeans debut",
+   "f(x) Red Light"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00395",
+   "MHJ-EV-00027",
+   "MHJ-EV-00266",
+   "MHJ-EV-00220",
+   "MHJ-EV-00568",
+   "MHJ-EV-00174"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-063",
+  "claim": "A fixed symbol is introduced only where it does structural work — making an implausible premise credible, or unifying a group that has no logo — and is then varied in application rather than repeated identically, so the story it carries can grow.",
+  "domain": "brand",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "EXO symbol",
+   "NewJeans light stick",
+   "ooak records boy group"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00186",
+   "MHJ-EV-00509",
+   "MHJ-EV-00004",
+   "MHJ-EV-00164",
+   "MHJ-EV-00542",
+   "MHJ-EV-00551"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00187"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-064",
+  "claim": "Marks and names are chosen so one form carries several readings at once (letters, an animal, a heart; an acronym that is also a plain word), leaving viewers to find meanings rather than being told a single one.",
+  "domain": "brand",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E7",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans light stick",
+   "ooak records identity",
+   "everyone ok (ooak records x everyone)"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00542",
+   "MHJ-EV-00549",
+   "MHJ-EV-00378",
+   "MHJ-EV-00388",
+   "MHJ-EV-00083"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00387"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-065",
+  "claim": "She defines branding as forming an attitude rather than producing a face: at HYBE the headquarters was treated as a main axis of the brand system because space elicits behaviour, and the brand was judged by the attitude it produces over time, not by launch novelty.",
+  "domain": "brand",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E4"
+  ],
+  "projects": [
+   "HYBE rebrand",
+   "HYBE Yongsan HQ"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00203",
+   "MHJ-EV-00212",
+   "MHJ-EV-00310",
+   "MHJ-EV-00312",
+   "MHJ-EV-00315",
+   "MHJ-EV-00518",
+   "MHJ-EV-00556",
+   "MHJ-EV-00514",
+   "MHJ-EV-00520",
+   "MHJ-EV-00157"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00516",
+   "MHJ-EV-00608"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-066",
+  "claim": "Branding is treated as continuous curation in which every small choice signals, intended or not, so she reviews details down to materials and frame elements and holds that a brand must be maintained and repaired after launch rather than finished at a logo or building.",
+  "domain": "brand",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E4",
+   "E5"
+  ],
+  "projects": [
+   "HYBE rebrand",
+   "HYBE Yongsan HQ",
+   "SHINee Dream Girl",
+   "NewJeans albums"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00211",
+   "MHJ-EV-00315",
+   "MHJ-EV-00214",
+   "MHJ-EV-00479",
+   "MHJ-EV-00566"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-067",
+  "claim": "She prefers brand systems with deliberate slack: each application may vary as long as it has sufficient reason, and a stable base principle (e.g. a group's core character) lets each release change its surface freely.",
+  "domain": "brand",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "cross"
+  ],
+  "projects": [
+   "Girls' Generation",
+   "Girls' Generation The Boys"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00187",
+   "MHJ-EV-00044",
+   "MHJ-EV-00470",
+   "MHJ-EV-00303"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-068",
+  "claim": "She positions new work against the established house style on purpose, treating novelty as relational, but tests each 'new' move for its reason because newness for its own sake is inertia in disguise.",
+  "domain": "brand",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "SM visual direction",
+   "SHINee",
+   "f(x)",
+   "Red Velvet"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00135",
+   "MHJ-EV-00138",
+   "MHJ-EV-00185",
+   "MHJ-EV-00199",
+   "MHJ-EV-00008",
+   "MHJ-EV-00478"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-069",
+  "claim": "She treats the visual as downstream of and fused with the operating system: music, concept, marketing and business must move as one organism, which is why she sought roles combining producer and manager and why branding confined to graphics did not satisfy her.",
+  "domain": "brand",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E4",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans",
+   "HYBE rebrand"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00090",
+   "MHJ-EV-00127",
+   "MHJ-EV-00098",
+   "MHJ-EV-00204",
+   "MHJ-EV-00167"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-070",
+  "claim": "She describes a brand 'formula' as a sequence of branding moves (audition poster tone, seasonal shoots, venue of first appearance) rather than any single element, and holds that replicating such a sequence turns the original's distinctiveness into a template.",
+  "domain": "brand",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E6"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "context",
+  "kind": "stance",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00565",
+   "MHJ-EV-00584"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-071",
+  "claim": "Her naming rule is intuitive over explanatory: short names with a good sound that land at once, slightly playful rather than serious, sometimes taken from the physical thing and its purpose.",
+  "domain": "language",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E4",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "ADOR",
+   "ooak records",
+   "HYBE Yongsan HQ",
+   "SHINee"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00387",
+   "MHJ-EV-00548",
+   "MHJ-EV-00209",
+   "MHJ-EV-00009",
+   "MHJ-EV-00152"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-072",
+  "claim": "Words can carry a deliberate double reading to set imagination working — a name pronounced as a plain word while its letters hold other meanings, or a slogan that is both a statement and a question.",
+  "domain": "language",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E7",
+   "E8"
+  ],
+  "projects": [
+   "ooak records",
+   "everyone ok (ooak records x everyone)"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00378",
+   "MHJ-EV-00388",
+   "MHJ-EV-00549",
+   "MHJ-EV-00083"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-073",
+  "claim": "She avoids words that announce a benefit or impose a frame — 'healing', 'comfort', 'worldview', 'idol' as a job title — because naming the effect makes it condescending or fixed; she later revised her rejection of 'repaying fans with good work'.",
+  "domain": "language",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "core",
+  "kind": "anti-pattern",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00412",
+   "MHJ-EV-00125",
+   "MHJ-EV-00540",
+   "MHJ-EV-00298"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00298"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-074",
+  "claim": "She designs how work is presented at the same time as the work itself, treating promotion as an action that makes people experience something; launch mechanics are part of the concept, not a later marketing step.",
+  "domain": "launch",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "EXO EXODUS",
+   "f(x) 4 Walls",
+   "ooak records launch campaign"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00532",
+   "MHJ-EV-00003",
+   "MHJ-EV-00004",
+   "MHJ-EV-00425",
+   "MHJ-EV-00435",
+   "MHJ-EV-00081"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-075",
+  "claim": "Every reveal is given a reason for its moment and position: teaser order, the hour and medium of the first release, the order of music videos across an EP and the placement of peaks in set lists are planned to produce particular audience reactions and sustain anticipation.",
+  "domain": "launch",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "f(x) Red Light",
+   "NewJeans debut",
+   "NewJeans 'Get Up'",
+   "NewJeans Tokyo Dome fan meeting"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00170",
+   "MHJ-EV-00172",
+   "MHJ-EV-00171",
+   "MHJ-EV-00530",
+   "MHJ-EV-00533",
+   "MHJ-EV-00295"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00220"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-076",
+  "claim": "She uses withholding as an engagement mechanic: what cannot yet be shown (unrevealed members, an unexplained identity, hidden clues) becomes a puzzle whose solving requires the audience to consume and share the work.",
+  "domain": "launch",
+  "epistemic_class": "STRONGLY DEMONSTRATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans debut",
+   "EXO EXODUS",
+   "Red Velvet",
+   "f(x)",
+   "ooak records launch campaign"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 7,
+  "evidence": [
+   "MHJ-EV-00235",
+   "MHJ-EV-00531",
+   "MHJ-EV-00290",
+   "MHJ-EV-00004",
+   "MHJ-EV-00199",
+   "MHJ-EV-00175",
+   "MHJ-EV-00079",
+   "MHJ-EV-00340",
+   "MHJ-EV-00341"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00213",
+   "MHJ-EV-00141"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-077",
+  "claim": "For the NewJeans debut she dropped teasers because attention was already high and the novelty was the music itself, releasing music videos first so peak attention converted into repeated listening of an unfamiliar product.",
+  "domain": "launch",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E5"
+  ],
+  "projects": [
+   "NewJeans debut"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00218",
+   "MHJ-EV-00234",
+   "MHJ-EV-00531"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00172"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-078",
+  "claim": "Across eras the teaser is treated as a tool chosen for the situation rather than a ritual: a dense metaphor-building teaser run (f(x), 2014), no teasers when attention was already high (NewJeans, 2022), and a timed multi-video 'exhibition' when launching a label with no artist to show yet (ooak, 2026).",
+  "domain": "launch",
+  "epistemic_class": "REASONABLE INFERENCE",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "f(x) Red Light",
+   "NewJeans debut",
+   "ooak records launch campaign"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "fact-pattern",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00172",
+   "MHJ-EV-00234",
+   "MHJ-EV-00079",
+   "MHJ-EV-00081"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-079",
+  "claim": "She treats the first encounter as decisive and designs its conditions — secrecy so no prejudice forms, the sense that carries the feeling (moving image over stills), and proximity where the product's appeal grows with closeness.",
+  "domain": "launch",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E5"
+  ],
+  "projects": [
+   "NewJeans debut",
+   "NewJeans debut showcase"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00530",
+   "MHJ-EV-00531",
+   "MHJ-EV-00532",
+   "MHJ-EV-00290",
+   "MHJ-EV-00407",
+   "MHJ-EV-00568"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00568"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-080",
+  "claim": "Timing is treated as part of the idea: a move is meaningful only at the right moment, launch dates are set by weighing the product's readiness against audience waiting and market conditions, and the best moment is when an unmet need is most felt.",
+  "domain": "launch",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans",
+   "ooak records boy group"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00216",
+   "MHJ-EV-00142",
+   "MHJ-EV-00275",
+   "MHJ-EV-00374",
+   "MHJ-EV-00435"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-081",
+  "claim": "Live plans are used to structure releases and serve dispersed audiences: albums timed to secure a tour setlist, a festival run stacked with several aims (regional fans, live practice), and seating and screens planned so no section is neglected.",
+  "domain": "launch",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E6"
+  ],
+  "projects": [
+   "NewJeans university festivals 2024",
+   "NewJeans Tokyo Dome fan meeting",
+   "NewJeans world tour (planned)"
+  ],
+  "persona_relevance": "context",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00574",
+   "MHJ-EV-00573",
+   "MHJ-EV-00415",
+   "MHJ-EV-00606"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-082",
+  "claim": "She markets by provoking curiosity rather than by selling: no pitch, no advertising where word of mouth can carry it, and campaigns that keep the public searching for answers instead of one-way promotion.",
+  "domain": "marketing",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E4",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "EXO collaboration shops",
+   "NewJeans",
+   "ooak records launch campaign"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00597",
+   "MHJ-EV-00059",
+   "MHJ-EV-00081",
+   "MHJ-EV-00087",
+   "MHJ-EV-00234",
+   "MHJ-EV-00559"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-083",
+  "claim": "Her curiosity-led launches explicitly relied on attention and trust earned beforehand — her name drawing K-pop fans regardless, recruitment banners using her name, and teasers judged unnecessary because attention was already high.",
+  "domain": "marketing",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E4",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans",
+   "Plus Global Audition"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "fact-pattern",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00597",
+   "MHJ-EV-00404",
+   "MHJ-EV-00559",
+   "MHJ-EV-00234"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-084",
+  "claim": "She removes growth tactics that inflate metrics — random photocards, paid video promotion, push-out sales — so that demand reflects genuine response, arguing that an uninflated signal shows reality more accurately and permits bolder next steps.",
+  "domain": "marketing",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "NewJeans New Jeans EP",
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00102",
+   "MHJ-EV-00567"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00566"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-085",
+  "claim": "She wins partners with the excitement of the project and a self-evidently convincing proposal rather than with a revenue pitch, and counter-proposes when a partner's brief only showcases a feature.",
+  "domain": "marketing",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans ETA x Apple",
+   "Casa BRUTUS No. 318",
+   "NewJeans",
+   "NewJeans x Powerpuff Girls",
+   "NewJeans x Murakami Takashi",
+   "everyone ok (ooak records x everyone)"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00228",
+   "MHJ-EV-00233",
+   "MHJ-EV-00430",
+   "MHJ-EV-00379",
+   "MHJ-EV-00568",
+   "MHJ-EV-00429",
+   "MHJ-EV-00552",
+   "MHJ-EV-00597"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-086",
+  "claim": "Collaborations and media appearances are turned into products and events that extend a concept into wearable or physical form, starting narrow and widening only on demand.",
+  "domain": "marketing",
+  "epistemic_class": "STRONGLY DEMONSTRATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E8"
+  ],
+  "projects": [
+   "EXO collaboration shops",
+   "Girls' Generation I Got a Boy",
+   "Kim Jun-won x Krystal I Don't Wanna Love You",
+   "everyone ok (ooak records x everyone)"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00510",
+   "MHJ-EV-00058",
+   "MHJ-EV-00162",
+   "MHJ-EV-00486",
+   "MHJ-EV-00078",
+   "MHJ-EV-00391"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-087",
+  "claim": "When there is no track record to show, she brands the process itself: an audition designed around the planned group's direction, and a casting call placed as a prop inside a launch campaign's fiction, with pre-debut formation framed as serial content.",
+  "domain": "marketing",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E4",
+   "E8"
+  ],
+  "projects": [
+   "Plus Global Audition",
+   "ooak records boy group"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00559",
+   "MHJ-EV-00339",
+   "MHJ-EV-00342",
+   "MHJ-EV-00343"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-088",
+  "claim": "She assigns each asset its own job instead of making every asset chase the same metric: dance videos show choreography, official videos carry larger meaning, b-side footage gives fans intimacy, and a cover carries a symbolic role while portraits sit inside the package.",
+  "domain": "marketing",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans Hurt",
+   "SM album covers"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00120",
+   "MHJ-EV-00579",
+   "MHJ-EV-00010",
+   "MHJ-EV-00231"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-089",
+  "claim": "She stands out by contrast with the surrounding context rather than by escalating polish: positioning against the house style at SM, a deliberately plain billboard among glossy ones, a corporate briefing made entertaining, and a company announced with hand drawings instead of a release.",
+  "domain": "marketing",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E4",
+   "E5",
+   "E7"
+  ],
+  "projects": [
+   "SM visual direction",
+   "NewJeans billboard",
+   "HYBE New Brand Presentation",
+   "ooak records"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00135",
+   "MHJ-EV-00290",
+   "MHJ-EV-00154",
+   "MHJ-EV-00083"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-090",
+  "claim": "She treats a pleasurable surprise as a deliverable even in obligatory formats — a corporate briefing, an office, a stadium set list, a label launch — and frames her goal for waiting audiences as exceeding what they imagine.",
+  "domain": "marketing",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E4",
+   "E6",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "HYBE New Brand Presentation",
+   "HYBE Yongsan HQ",
+   "NewJeans Bunnies Camp 2024 Tokyo Dome",
+   "ooak records launch campaign"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00154",
+   "MHJ-EV-00204",
+   "MHJ-EV-00605",
+   "MHJ-EV-00291",
+   "MHJ-EV-00081",
+   "MHJ-EV-00383"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00271"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-091",
+  "claim": "She caps advance description so the work can exceed expectation: vivid retelling makes people pre-imagine and be disappointed, audiences are asked to arrive knowing little, and information beyond what people can absorb at once is held back.",
+  "domain": "marketing",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E6",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "Movieland curation",
+   "ooak records"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00271",
+   "MHJ-EV-00306",
+   "MHJ-EV-00383"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-092",
+  "claim": "She sizes the audience by who does not yet care about the category: existing fans will look anyway, so the gain lies in drawing outsiders across gender, generation and genre, and many supporters report never having liked the category before.",
+  "domain": "audience",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E2",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "Girls' Generation debut (Into the New World)",
+   "Girls' Generation I Got a Boy",
+   "ooak records boy group"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00404",
+   "MHJ-EV-00286",
+   "MHJ-EV-00184",
+   "MHJ-EV-00162",
+   "MHJ-EV-00373",
+   "MHJ-EV-00072"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-093",
+  "claim": "She designs for a specific, true emotion or durable instinct rather than for a demographic, market or trend, expecting well-made points of empathy to travel and things liked across eras to stay good; she explicitly denies targeting retro.",
+  "domain": "audience",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "ooak records boy group"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00072",
+   "MHJ-EV-00085",
+   "MHJ-EV-00373",
+   "MHJ-EV-00008",
+   "MHJ-EV-00537",
+   "MHJ-EV-00219",
+   "MHJ-EV-00049"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00455"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-094",
+  "claim": "She frames the audience as peers — a crew of friends rather than a fandom to be sold to — and prefers maximum closeness over managed distance, encoding that relationship in names and fan-facing products.",
+  "domain": "audience",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans Bunnies",
+   "Phoning",
+   "NewJeans Ditto MV"
+  ],
+  "persona_relevance": "core",
+  "kind": "stance",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00227",
+   "MHJ-EV-00420",
+   "MHJ-EV-00291",
+   "MHJ-EV-00141",
+   "MHJ-EV-00150",
+   "MHJ-EV-00446",
+   "MHJ-EV-00523"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00235"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-095",
+  "claim": "Her answer to the discomfort of earning from people who like the work is density of quality — give so many good things that even a blind pick never disappoints — expecting a voluntary virtuous cycle rather than extraction.",
+  "domain": "audience",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00420",
+   "MHJ-EV-00581",
+   "MHJ-EV-00298",
+   "MHJ-EV-00107"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-096",
+  "claim": "She refuses to impose a benefit on the audience: comfort is received voluntarily rather than handed down, rest cannot be compelled by designed 'fun', and culture improves through delicate tuning rather than proclamation — so she designs for a discerning user and lets the benefit follow.",
+  "domain": "audience",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E4",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "HYBE Yongsan HQ"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00412",
+   "MHJ-EV-00428",
+   "MHJ-EV-00208",
+   "MHJ-EV-00191"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00301",
+   "MHJ-EV-00169",
+   "MHJ-EV-00258"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-097",
+  "claim": "She presents the real stage of an act's development and asks audiences to enjoy the gradation of growth, rejecting the demand for finished perfection from debut and treating each release as a report on where the artists now are.",
+  "domain": "audience",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "SHINee Dream Girl",
+   "ooak records boy group"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00424",
+   "MHJ-EV-00104",
+   "MHJ-EV-00054",
+   "MHJ-EV-00343",
+   "MHJ-EV-00264"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-098",
+  "claim": "She trusts audiences to recognise a real alternative and works from the self-as-first-customer test — what she would want as a member of the public — to locate a felt-but-unnamed gap, rather than from explicit market analysis.",
+  "domain": "audience",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "ooak records launch campaign"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00068",
+   "MHJ-EV-00357",
+   "MHJ-EV-00275",
+   "MHJ-EV-00093",
+   "MHJ-EV-00406",
+   "MHJ-EV-00389",
+   "MHJ-EV-00218"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00159",
+   "MHJ-EV-00023"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-099",
+  "claim": "She questions what 'the public wants' as a learned assumption: people profess to want newness while seeking stability, cannot like only one direction, and have had 'public appeal' repeated into them — so supply and acceptance of change must develop together.",
+  "domain": "audience",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E5"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "stance",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00238",
+   "MHJ-EV-00071",
+   "MHJ-EV-00138",
+   "MHJ-EV-00144"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-100",
+  "claim": "She treats sharing her taste and curating the overlooked as audience-building: algorithms narrow what people meet, so someone must spread the unexpected, and an audience that learns an unfamiliar aesthetic widens its range and enjoys later work more.",
+  "domain": "audience",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E2",
+   "E5",
+   "E8",
+   "E6"
+  ],
+  "projects": [
+   "Movieland curation",
+   "SM visual direction",
+   "ooak records",
+   "NewJeans",
+   "OOAK records"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00301",
+   "MHJ-EV-00282",
+   "MHJ-EV-00270",
+   "MHJ-EV-00263",
+   "MHJ-EV-00438",
+   "MHJ-EV-00512",
+   "MHJ-EV-00258",
+   "MHJ-EV-00092",
+   "MHJ-EV-00604",
+   "MHJ-EV-00402"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00400"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-101",
+  "claim": "She gives the audience something to do rather than only something to watch: deduction games, customisable objects, choreography made easy enough to copy, and performances left open for members to vary each stage.",
+  "domain": "audience",
+  "epistemic_class": "STRONGLY DEMONSTRATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "EXO EXODUS",
+   "NewJeans ETA",
+   "NewJeans Hype Boy",
+   "NewJeans light stick",
+   "ooak records launch campaign"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00004",
+   "MHJ-EV-00242",
+   "MHJ-EV-00458",
+   "MHJ-EV-00542",
+   "MHJ-EV-00340"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-102",
+  "claim": "She holds that quality must never be declared: work loses value the moment it proclaims itself, those who know the value do not announce it, and she declines to explain an act's identity or a metaphor's meaning in advance.",
+  "domain": "communication",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "Red Velvet"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00428",
+   "MHJ-EV-00412",
+   "MHJ-EV-00199",
+   "MHJ-EV-00192",
+   "MHJ-EV-00271"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00250"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-103",
+  "claim": "She chooses the communication format by whether it can hold context: written answers she controls over improvised ones, fewer interviews when length limits distort, and a capped information load because more detail beyond a point is not absorbed.",
+  "domain": "communication",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E6",
+   "cross"
+  ],
+  "projects": [],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00248",
+   "MHJ-EV-00124",
+   "MHJ-EV-00607",
+   "MHJ-EV-00249"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00124"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-104",
+  "claim": "Her own public visibility is managed as a product decision that changed over eras: kept out of the spotlight at SM so artists stayed protagonists, stepped forward before NewJeans to cushion the reception of something counter-intuitive, and later accepted exposure only where she saw a fitting reason.",
+  "domain": "communication",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E3",
+   "E4",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "Casa BRUTUS No. 318",
+   "ooak records"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "fact-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00243",
+   "MHJ-EV-00376",
+   "MHJ-EV-00132",
+   "MHJ-EV-00250",
+   "MHJ-EV-00251",
+   "MHJ-EV-00553",
+   "MHJ-EV-00561"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-105",
+  "claim": "She briefs collaborators with the intended relationship or feeling and a few anchors — one optional image, the core items of a look, a constraint to drop — then delegates execution, adjusting involvement to the collaborator.",
+  "domain": "communication",
+  "epistemic_class": "STRONGLY DEMONSTRATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans Ditto MV",
+   "Girls' Generation Genie",
+   "f(x) Pink Tape",
+   "NewJeans Hype Boy"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00446",
+   "MHJ-EV-00447",
+   "MHJ-EV-00453",
+   "MHJ-EV-00496",
+   "MHJ-EV-00458"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00566"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-106",
+  "claim": "She keeps evaluative language calibrated at work: she does not call weak work good, praises sparingly so that 'good' carries information, and states the right direction clearly and quickly.",
+  "domain": "communication",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00423",
+   "MHJ-EV-00405",
+   "MHJ-EV-00411",
+   "MHJ-EV-00456",
+   "MHJ-EV-00409",
+   "MHJ-EV-00458"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-107",
+  "claim": "She makes goods as keepsakes tied to a moment and as gifts rather than as standalone revenue lines, choosing simple, practical items that let the owner's own character show.",
+  "domain": "product",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E5",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "Bunnies Camp 2024 Tokyo Dome",
+   "everyone ok (ooak records x everyone)",
+   "NewJeans Ditto",
+   "TVXQ Christmas album",
+   "ADOR bag"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00392",
+   "MHJ-EV-00382",
+   "MHJ-EV-00108",
+   "MHJ-EV-00016",
+   "MHJ-EV-00595"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00059",
+   "MHJ-EV-00162",
+   "MHJ-EV-00575"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-108",
+  "claim": "She frames her product as 'pretty trash' — nothing anyone needs to live, but objects and moments that feel good to look at and enrich small everyday moments — and therefore puts high craft into the most-encountered touchpoints.",
+  "domain": "product",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E5",
+   "E8",
+   "cross",
+   "E2"
+  ],
+  "projects": [
+   "ooak records",
+   "ADOR"
+  ],
+  "persona_relevance": "core",
+  "kind": "stance",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00431",
+   "MHJ-EV-00258",
+   "MHJ-EV-00080",
+   "MHJ-EV-00368",
+   "MHJ-EV-00107",
+   "MHJ-EV-00377",
+   "MHJ-EV-00052"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-109",
+  "claim": "Package versions are designed around members as well as sales: variants each carry one member, and when fixed member versions would expose relative popularity she accepts random packing she otherwise dislikes, to avoid that comparison.",
+  "domain": "product",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans albums",
+   "Girls' Generation I Got a Boy",
+   "EXO debut",
+   "Girls' Generation The Boys"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00566",
+   "MHJ-EV-00162",
+   "MHJ-EV-00164",
+   "MHJ-EV-00470"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00102"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-110",
+  "claim": "She substitutes thinking for spending: video budgets kept below average by reusing a shoot for intimate b-side footage, cheap materials chosen so they do not look cheap, and basic elements (light, sound) applied well on low budgets.",
+  "domain": "product",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E4",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans Hurt",
+   "NewJeans Hype Boy",
+   "HYBE HQ"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00579",
+   "MHJ-EV-00504"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-111",
+  "claim": "Where a product's real-world use can become its meaning, she makes it so: an album defined as a gift to be given, a music video shot on the partner's phone so filming carries the message, and choreography built around phone filming.",
+  "domain": "product",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E5"
+  ],
+  "projects": [
+   "TVXQ Christmas album",
+   "NewJeans ETA x Apple",
+   "NewJeans ETA"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00016",
+   "MHJ-EV-00228",
+   "MHJ-EV-00242"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-112",
+  "claim": "When directing a specialist chosen for an outside view, she briefs purpose, context, long-term direction and the reason behind an impression rather than a specified look, sometimes offering one optional sensory image, and then hands over the scenario and method.",
+  "domain": "collaboration",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans Ditto MV",
+   "NewJeans OMG MV",
+   "f(x) Red Light",
+   "SHINee Romeo"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00119",
+   "MHJ-EV-00447",
+   "MHJ-EV-00446",
+   "MHJ-EV-00453",
+   "MHJ-EV-00197",
+   "MHJ-EV-00019",
+   "MHJ-EV-00324"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00171",
+   "MHJ-EV-00180",
+   "MHJ-EV-00498"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-113",
+  "claim": "She treats protecting each specialist's own strength as the first rule of directing: she keeps their individuality, trims excess and corrects only the points they missed, on the reasoning that imposing her own style on everyone would make every output the same.",
+  "domain": "collaboration",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans Ditto MV"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00421",
+   "MHJ-EV-00276",
+   "MHJ-EV-00536",
+   "MHJ-EV-00324",
+   "MHJ-EV-00433"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00566",
+   "MHJ-EV-00585"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-114",
+  "claim": "She gives different direction to each director and each performer according to their style and character, holding that leadership has no fixed answer and that the level of detailed involvement should be adjusted to the person and situation.",
+  "domain": "collaboration",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans Ditto MV"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00434",
+   "MHJ-EV-00123",
+   "MHJ-EV-00225",
+   "MHJ-EV-00453"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-115",
+  "claim": "At a scale where she cannot direct every shot, she transmits the overall context and intent, checks that it is understood, and entrusts the crew; she singles out the 'directors of directors' between her and the technicians as decisive.",
+  "domain": "collaboration",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E6"
+  ],
+  "projects": [
+   "Bunnies Camp 2024 Tokyo Dome"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00393",
+   "MHJ-EV-00416",
+   "MHJ-EV-00417"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-116",
+  "claim": "She treats ambition as something production erodes, so she tells specialists not to lower theirs and, as producer, accepts their risky or unrequested choices when the choice serves the whole release.",
+  "domain": "collaboration",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans Ditto MV",
+   "NewJeans Cool With You",
+   "NewJeans Get Up",
+   "SHINee Married to the Music"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00194",
+   "MHJ-EV-00433",
+   "MHJ-EV-00449",
+   "MHJ-EV-00529"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-117",
+  "claim": "She forms her core crew around shared taste, professional attitude and a shared cause, starting each partnership by checking whether the other's path and reason for the work match hers, so that the crew can later work with little explanation.",
+  "domain": "collaboration",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "E8",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "ADOR",
+   "ooak records",
+   "Movieland curation"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 7,
+  "evidence": [
+   "MHJ-EV-00418",
+   "MHJ-EV-00277",
+   "MHJ-EV-00552",
+   "MHJ-EV-00123",
+   "MHJ-EV-00109",
+   "MHJ-EV-00541",
+   "MHJ-EV-00394",
+   "MHJ-EV-00200"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00019",
+   "MHJ-EV-00390"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-118",
+  "claim": "She uses collaborators' first reactions as the earliest test of an idea: if staff light up at the plan it proceeds, and uninformed first reactions are treated as the most honest check, while she judges finished work by her own standard.",
+  "domain": "collaboration",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "cross"
+  ],
+  "projects": [
+   "SHINee Married to the Music"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00288",
+   "MHJ-EV-00194"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-119",
+  "claim": "Before giving staff, collaborators or performers detailed concepts, she explains the ultimate purpose and why the work matters, and she holds that explaining why each task is done removes most frustration.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "ADOR",
+   "SHINee",
+   "f(x)",
+   "Movieland curation"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00121",
+   "MHJ-EV-00409",
+   "MHJ-EV-00225",
+   "MHJ-EV-00185",
+   "MHJ-EV-00418",
+   "MHJ-EV-00277"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-120",
+  "claim": "When argument cannot overcome organisational inertia she proves the point with a result, and she treats a successful precedent as the way a new practice becomes a system and earns the right to dismantle an old one.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E4",
+   "E5",
+   "E7"
+  ],
+  "projects": [
+   "SM visual direction",
+   "HYBE Yongsan HQ",
+   "NewJeans"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 7,
+  "evidence": [
+   "MHJ-EV-00205",
+   "MHJ-EV-00200",
+   "MHJ-EV-00493",
+   "MHJ-EV-00136",
+   "MHJ-EV-00413",
+   "MHJ-EV-00101",
+   "MHJ-EV-00327"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-121",
+  "claim": "She describes her scope as growing from doing the assigned job well while proposing what seemed necessary beyond it, so that successive successes widened the remit; she regards fixed titles as an obstacle and role expansion as something that cannot be forced.",
+  "domain": "career",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E2",
+   "E4",
+   "E5"
+  ],
+  "projects": [
+   "SM visual direction",
+   "Girls' Generation launch",
+   "SHINee Dream Girl MV",
+   "f(x) Pink Tape Art Film"
+  ],
+  "persona_relevance": "core",
+  "kind": "fact-pattern",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00126",
+   "MHJ-EV-00165",
+   "MHJ-EV-00493",
+   "MHJ-EV-00500",
+   "MHJ-EV-00017",
+   "MHJ-EV-00466",
+   "MHJ-EV-00215",
+   "MHJ-EV-00161"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-122",
+  "claim": "She treats changing a large organisation from within as slow, persistent work: waiting for the right moment, accumulating small changes, and accepting that a hard-won result is soon taken for granted once it becomes the new system.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E1",
+   "E2",
+   "E3"
+  ],
+  "projects": [
+   "SM visual direction"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00015",
+   "MHJ-EV-00014",
+   "MHJ-EV-00494",
+   "MHJ-EV-00148",
+   "MHJ-EV-00136",
+   "MHJ-EV-00201"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-123",
+  "claim": "Her accounts of SM credit a senior sponsor's explicit backing, communicated to team leads, with unlocking a junior specialist's authority over work owned by others.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E1",
+   "E2"
+  ],
+  "projects": [
+   "SM Entertainment",
+   "Girls' Generation launch",
+   "f(x) Pink Tape Art Film"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "fact-pattern",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00589",
+   "MHJ-EV-00017",
+   "MHJ-EV-00505"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-124",
+  "claim": "She argues that in commercial creative work creation and management must mesh, because work that cannot be converted into capital loses vitality and because she could only make decisions such as a three-title debut while holding both producer and CEO roles.",
+  "domain": "business",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "E6",
+   "cross"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans",
+   "NewJeans New Jeans EP"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "stance",
+  "units": 8,
+  "evidence": [
+   "MHJ-EV-00095",
+   "MHJ-EV-00098",
+   "MHJ-EV-00140",
+   "MHJ-EV-00090",
+   "MHJ-EV-00153",
+   "MHJ-EV-00429",
+   "MHJ-EV-00316",
+   "MHJ-EV-00586",
+   "MHJ-EV-00572",
+   "MHJ-EV-00599"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00436",
+   "MHJ-EV-00345",
+   "MHJ-EV-00557"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-125",
+  "claim": "She explicitly qualifies her own integration thesis: combining management and producing in one role is not universally better, since some people flourish when the two are separated and complement each other, so structure should be fitted to how each person's potential is released.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E4",
+   "E5",
+   "cross"
+  ],
+  "projects": [],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00436",
+   "MHJ-EV-00123",
+   "MHJ-EV-00210"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-126",
+  "claim": "She placed herself inside organisations rather than freelancing because an in-house director can set direction across everything and knows the company's reality, and when the whole process could not be reached from her position she sought a new container (a separate label) rather than a larger title in the old one.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "SM Entertainment",
+   "ADOR",
+   "NewJeans"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00034",
+   "MHJ-EV-00323",
+   "MHJ-EV-00130",
+   "MHJ-EV-00128",
+   "MHJ-EV-00146",
+   "MHJ-EV-00555"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-127",
+  "claim": "She treats organisational systems as a trade-off: protocols bring efficiency, stability and capital but drift toward loss of individuality, so the balance has to be set by an overall strategy; in sharper dispute-era terms she calls machine-like 'factory' systems built for control a disease of the craft.",
+  "domain": "critique",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E3",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "ADOR"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "stance",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00130",
+   "MHJ-EV-00011",
+   "MHJ-EV-00587",
+   "MHJ-EV-00600"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00026"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-128",
+  "claim": "She argues that a group of semi-autonomous creative units only makes sense if each unit may keep a different approach and is judged by results, and that coexisting different approaches inside one organisation raise the probability of success.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "ADOR"
+  ],
+  "persona_relevance": "context",
+  "kind": "stance",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00139",
+   "MHJ-EV-00562",
+   "MHJ-EV-00563",
+   "MHJ-EV-00570"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-129",
+  "claim": "She prefers small teams with accurate understanding and intense concentration over headcount, holding that the number of people and the quality of the result are not proportional.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "cross"
+  ],
+  "projects": [
+   "EXO Pathcode",
+   "f(x) Pink Tape"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00155",
+   "MHJ-EV-00276"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-130",
+  "claim": "Across eras she describes the team culture she aims for as self-driven and enjoyable rather than imposed: no forced overtime, flexibility, and 'enjoying' over 'mastery', on the view that efficiency comes from each person's own goal-consciousness and that the energy of people who enjoy the work reaches the audience.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E7",
+   "cross"
+  ],
+  "projects": [
+   "SM visual direction",
+   "ADOR",
+   "NewJeans",
+   "ooak records"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "stance",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00025",
+   "MHJ-EV-00137",
+   "MHJ-EV-00143",
+   "MHJ-EV-00103",
+   "MHJ-EV-00246",
+   "MHJ-EV-00247",
+   "MHJ-EV-00338",
+   "MHJ-EV-00422"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-131",
+  "claim": "She treats budget and deadline as the frame that produces commercial work rather than a compromise of it: fine art competes with infinity, whereas a fixed budget and time set the game, and she aims to use a given situation to the full, holding that budget is not proportional to result.",
+  "domain": "business",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "f(x) Pink Tape Art Film",
+   "NewJeans New Jeans EP"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00398",
+   "MHJ-EV-00399",
+   "MHJ-EV-00300",
+   "MHJ-EV-00196",
+   "MHJ-EV-00503",
+   "MHJ-EV-00097"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-132",
+  "claim": "She practises cost discipline by substituting thinking for spending: low-budget pilots that set a standard, video and album budgets she describes as below average, several pieces shot per trip, and inexpensive materials chosen not to look cheap; fit to the concept still outranks price.",
+  "domain": "business",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E4",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "f(x) Pink Tape Art Film",
+   "EXO BWCW collaboration shop",
+   "HYBE Yongsan HQ",
+   "NewJeans New Jeans EP",
+   "NewJeans Hurt",
+   "ADOR"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00032",
+   "MHJ-EV-00030",
+   "MHJ-EV-00059",
+   "MHJ-EV-00097",
+   "MHJ-EV-00579",
+   "MHJ-EV-00580",
+   "MHJ-EV-00599"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00471"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-133",
+  "claim": "At SM she reframed a creative cost centre as a revenue line, using in-house costume production as 'asset management' sold to the public through collaboration shops that started deliberately narrow, used no advertising, paired the mainstream act with emerging designers and subculture, and widened only on demand.",
+  "domain": "business",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E2"
+  ],
+  "projects": [
+   "EXO BWCW collaboration shop",
+   "SM collaboration shops",
+   "SM x indie remix album",
+   "Girls' Generation I Got a Boy"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00058",
+   "MHJ-EV-00059",
+   "MHJ-EV-00060",
+   "MHJ-EV-00061",
+   "MHJ-EV-00057",
+   "MHJ-EV-00510",
+   "MHJ-EV-00162"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-134",
+  "claim": "She holds that commercial creative work and capital are inseparable: creative output that cannot earn loses vitality and attention, so making the work pay is what lets intangible aesthetics be noticed, and she frames joining art and business as a deliberate goal.",
+  "domain": "business",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "ADOR",
+   "NewJeans",
+   "SM CI",
+   "HYBE CI"
+  ],
+  "persona_relevance": "core",
+  "kind": "stance",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00140",
+   "MHJ-EV-00127",
+   "MHJ-EV-00321",
+   "MHJ-EV-00325",
+   "MHJ-EV-00599"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-135",
+  "claim": "She states that money follows good work rather than leading it: she starts from what she herself would want as a customer, refuses to sell what she would not want, and answers the discomfort of earning from fans with a density of quality so that no purchase feels wasted.",
+  "domain": "business",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "E7",
+   "cross"
+  ],
+  "projects": [
+   "ooak records",
+   "NewJeans",
+   "everyone ok (ooak records x everyone)",
+   "Bunnies Camp 2024 Tokyo Dome"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00335",
+   "MHJ-EV-00389",
+   "MHJ-EV-00420",
+   "MHJ-EV-00392",
+   "MHJ-EV-00581"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-136",
+  "claim": "She criticises industry practices that make numbers unreadable, such as push-out sales, lucky-draw purchases and talk of success unsupported by real figures, and judges a business by retained profit and real demand rather than top-line revenue or hype.",
+  "domain": "critique",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E6",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "ooak records"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "anti-pattern",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00567",
+   "MHJ-EV-00279"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-137",
+  "claim": "She starts a venture from a felt gap in the current scene, what is missing that people sense without naming, and expects consumers to recognise a real alternative, rather than from a reading of what is already succeeding.",
+  "domain": "business",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E5",
+   "E7",
+   "E8"
+  ],
+  "projects": [
+   "NewJeans",
+   "ooak records"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00068",
+   "MHJ-EV-00334",
+   "MHJ-EV-00289",
+   "MHJ-EV-00275"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-138",
+  "claim": "She rejects asserted 'success formulas': once a hit formula appears the industry repeats it until styles converge, and if such formulas worked everyone would succeed; she treats breaking the formula, including customary steps such as routine teasers, as part of the brief.",
+  "domain": "critique",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E3",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "NewJeans",
+   "ADOR"
+  ],
+  "persona_relevance": "core",
+  "kind": "anti-pattern",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00086",
+   "MHJ-EV-00114",
+   "MHJ-EV-00156",
+   "MHJ-EV-00238",
+   "MHJ-EV-00234",
+   "MHJ-EV-00011",
+   "MHJ-EV-00578"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-139",
+  "claim": "She warns against reverse-engineering success from outcomes or reading something new through old frames, and questions whether 'public appeal' is itself an assumption learned by repetition; she distinguishes real newness from inertia wearing the mask of newness.",
+  "domain": "critique",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": [
+   "E5"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00115",
+   "MHJ-EV-00238",
+   "MHJ-EV-00093",
+   "MHJ-EV-00138"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-140",
+  "claim": "She interrogates the industry's vocabulary, such as 'industry', 'system', 'professional manager', 'idol' as a job title or 'puppet', arguing that impressive-sounding words can hide that culture is made by people and moves people.",
+  "domain": "critique",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "stance",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00320",
+   "MHJ-EV-00572",
+   "MHJ-EV-00105",
+   "MHJ-EV-00540"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-141",
+  "claim": "She holds that chasing an existing hit or trend makes one a late follower, second or third at best, because by the time a trend hardens popular culture moves on; trend is what the public copies after someone does something that fits, not a target.",
+  "domain": "culture",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "SHINee",
+   "NewJeans",
+   "NewJeans Ditto MV"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00049",
+   "MHJ-EV-00364",
+   "MHJ-EV-00324",
+   "MHJ-EV-00600"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00093",
+   "MHJ-EV-00458"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-142",
+  "claim": "She distinguishes shared surface elements and broad styles, which anyone may use in an age of recombination, from replicating a whole flow of branding moves, judging originality at the level of the combination and accepting borrowing up to a threshold of density.",
+  "domain": "critique",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E6"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00564",
+   "MHJ-EV-00565",
+   "MHJ-EV-00583",
+   "MHJ-EV-00584"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-143",
+  "claim": "She describes trends as cyclical while what people are instinctively drawn to stays constant, so she aims at durable, universal feelings and treats period resonance as a by-product, explicitly denying that retro is her target.",
+  "domain": "culture",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans debut"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00219",
+   "MHJ-EV-00085",
+   "MHJ-EV-00537",
+   "MHJ-EV-00455",
+   "MHJ-EV-00049"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-144",
+  "claim": "She argues that quality in popular culture rises through quiet tuning rather than proclamation: announcing that one has brought something good provokes resistance, so she avoids decoration or exaggeration and lets audiences notice quality and growth themselves.",
+  "domain": "culture",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00428",
+   "MHJ-EV-00104",
+   "MHJ-EV-00424"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-145",
+  "claim": "She argues that a cultural market grows through a portfolio of differentiated entities rather than clones of a winner, that a scene stays viable only if styles keep alternating, and that diversity needs both producers willing to try and audiences able to accept change.",
+  "domain": "industry",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "SM visual direction",
+   "NewJeans"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00193",
+   "MHJ-EV-00144",
+   "MHJ-EV-00092",
+   "MHJ-EV-00578",
+   "MHJ-EV-00185"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-146",
+  "claim": "She describes entertainment as unlike manufacturing: it is made with and through people's feelings, so outcomes are volatile and unknowable before release, which she uses as a reason to make what one genuinely values rather than to optimise for a prediction.",
+  "domain": "industry",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "EXO BWCW collaboration shop",
+   "ADOR"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "stance",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00061",
+   "MHJ-EV-00153",
+   "MHJ-EV-00571"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-147",
+  "claim": "She names structural tensions in the idol business, such as minors entering long company contracts, and proposes relationships in which artists and company stay together because they need each other, including shorter contract terms.",
+  "domain": "industry",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "low",
+  "era": [
+   "E5",
+   "E7"
+  ],
+  "projects": [
+   "NewJeans",
+   "ooak records"
+  ],
+  "persona_relevance": "context",
+  "kind": "stance",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00101",
+   "MHJ-EV-00332",
+   "MHJ-EV-00331",
+   "MHJ-EV-00577"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00346"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-148",
+  "claim": "She pairs bold moves with responsibility and insurance: persuading the people who must do new work, preparing alternatives in case it fails, and, when the main channel is blocked, taking a 'second-best' route such as a small low-cost project that proves the standard without harming anyone.",
+  "domain": "execution",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "cross"
+  ],
+  "projects": [
+   "f(x) Pink Tape Art Film"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00547",
+   "MHJ-EV-00030",
+   "MHJ-EV-00196"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-149",
+  "claim": "She describes her decision style as choosing the least-regret option at each moment and making work decisions clear and fast so as not to confuse others, while keeping the end goal in view to avoid short-term losses.",
+  "domain": "execution",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans merchandise"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00437",
+   "MHJ-EV-00405",
+   "MHJ-EV-00575"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-150",
+  "claim": "She measures each project by whether it was her best within the time given, and holds that accurate understanding and concentration inside that time matter more than adding people.",
+  "domain": "execution",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E3",
+   "cross"
+  ],
+  "projects": [
+   "EXO Pathcode"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00494",
+   "MHJ-EV-00155",
+   "MHJ-EV-00398"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-151",
+  "claim": "She plans sequences backwards from the culminating event and designs where the peaks fall, for example preparing an album because a planned tour needs a secured setlist, and placing climaxes in set lists and cue sheets.",
+  "domain": "execution",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans Tokyo Dome fan meeting",
+   "NewJeans university festivals 2024"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00574",
+   "MHJ-EV-00573",
+   "MHJ-EV-00287"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-152",
+  "claim": "Collaborators and her own accounts describe hands-on depth in projects she leads, from reviewing footage at dawn to testing lights and chairs and walking every seating area of a venue, which she frames as responsibility for something designed with intent rather than as micromanagement.",
+  "domain": "execution",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E2",
+   "E4",
+   "E5",
+   "E6"
+  ],
+  "projects": [
+   "SM visual direction",
+   "HYBE Yongsan HQ",
+   "NewJeans albums",
+   "NewJeans Tokyo Dome fan meeting"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "fact-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00466",
+   "MHJ-EV-00206",
+   "MHJ-EV-00214",
+   "MHJ-EV-00514",
+   "MHJ-EV-00415",
+   "MHJ-EV-00566"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00276",
+   "MHJ-EV-00585"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-153",
+  "claim": "She frames training young performers as upbringing and schooling rather than work: trainee life as a small school with staff as teachers, lyric sessions run like a writing class, and casting and training treated as part of creative quality rather than separate from production.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E5"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00545",
+   "MHJ-EV-00146",
+   "MHJ-EV-00147",
+   "MHJ-EV-00540"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-154",
+  "claim": "She builds room for improvisation into performance and production, arguing that trained precision lacks the feeling of improvising: she asks for freestyle rather than drilled choreography, leaves endings for performers to vary, and keeps on-set accidents that make the result specific.",
+  "domain": "collaboration",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans",
+   "NewJeans ETA",
+   "SHINee Dream Girl"
+  ],
+  "persona_relevance": "core",
+  "kind": "practice",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00409",
+   "MHJ-EV-00242",
+   "MHJ-EV-00122",
+   "MHJ-EV-00050",
+   "MHJ-EV-00457"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-155",
+  "claim": "Where the power gap with young collaborators is large, she states psychological safety explicitly, explains the industry's realities truthfully in stages, and puts the decision-maker in direct contact with those most affected instead of relaying through intermediaries.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E5"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00594",
+   "MHJ-EV-00591",
+   "MHJ-EV-00576",
+   "MHJ-EV-00225"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-156",
+  "claim": "She casts for alignment of mood and values and for budding potential rather than finished qualities, and composes a group of distinct, non-overlapping individuals designed as one whole so as to avoid needless internal competition.",
+  "domain": "organization",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E4",
+   "E5"
+  ],
+  "projects": [
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00541",
+   "MHJ-EV-00091",
+   "MHJ-EV-00330",
+   "MHJ-EV-00558"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-157",
+  "claim": "Her documented organisational role moved from graphic designer at SM (E1) to visual directing team lead and head of Visual & Art Directing (E2), creative director, division head and registered director for art direction (E3), Chief Brand Officer at Big Hit/HYBE (E4), ADOR CEO and producer (E5-E6), and founder of ooak records (E7-E8).",
+  "domain": "career",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "low",
+  "era": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5",
+   "E6",
+   "E8"
+  ],
+  "projects": [
+   "SM Entertainment",
+   "HYBE rebrand",
+   "HYBE Yongsan HQ",
+   "ADOR",
+   "ooak records"
+  ],
+  "persona_relevance": "context",
+  "kind": "fact-pattern",
+  "units": 11,
+  "evidence": [
+   "MHJ-EV-00001",
+   "MHJ-EV-00465",
+   "MHJ-EV-00490",
+   "MHJ-EV-00309",
+   "MHJ-EV-00517",
+   "MHJ-EV-00521",
+   "MHJ-EV-00217",
+   "MHJ-EV-00601",
+   "MHJ-EV-00351"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-158",
+  "claim": "Across each move she gives the same reason: areas of production interlock, so when a downstream result was capped by upstream decisions (music, casting, training, management) she sought authority over that upstream part.",
+  "domain": "career",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E4",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "SM visual direction",
+   "ADOR",
+   "NewJeans"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 6,
+  "evidence": [
+   "MHJ-EV-00215",
+   "MHJ-EV-00128",
+   "MHJ-EV-00146",
+   "MHJ-EV-00237",
+   "MHJ-EV-00307",
+   "MHJ-EV-00599",
+   "MHJ-EV-00495"
+  ],
+  "counter_evidence": [
+   "MHJ-EV-00067"
+  ]
+ },
+ {
+  "claim_id": "MHJ-CL-159",
+  "claim": "She separates the craft role from the 'board-maker' role: composers and other artisans focus on their craft, while the planner's authorship lies in selecting, coordinating and setting the conditions under which artisans can work and make a living.",
+  "domain": "career",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": [
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "NewJeans",
+   "ooak records"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "principle",
+  "units": 2,
+  "evidence": [
+   "MHJ-EV-00300",
+   "MHJ-EV-00307",
+   "MHJ-EV-00276",
+   "MHJ-EV-00113"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-160",
+  "claim": "She judges success by rigorous self-scrutiny between self-satisfaction and self-criticism rather than by praise or fame-driven popularity, keeps seeing what could be fixed in past work, and treats proving herself as a game that never ends.",
+  "domain": "career",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "Girls' Generation"
+  ],
+  "persona_relevance": "core",
+  "kind": "principle",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00159",
+   "MHJ-EV-00201",
+   "MHJ-EV-00474",
+   "MHJ-EV-00547"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-161",
+  "claim": "She describes her commitment as loyalty to the work and to people rather than love of work or unconditional loyalty to an organisation, with responsibility, including for collaborators' ambitions, coming first.",
+  "domain": "career",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E3",
+   "E5",
+   "cross"
+  ],
+  "projects": [
+   "SM Entertainment",
+   "NewJeans"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "stance",
+  "units": 3,
+  "evidence": [
+   "MHJ-EV-00160",
+   "MHJ-EV-00149",
+   "MHJ-EV-00328",
+   "MHJ-EV-00245"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-162",
+  "claim": "She accepts or declines exposure by whether there is a reason that fits the work: she turned down advertising, broadcast and fashion-cover offers for years and took on visible roles only when a specific reason or partner made the meaning clear.",
+  "domain": "career",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E3",
+   "E8"
+  ],
+  "projects": [
+   "Casa BRUTUS No. 318"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00132",
+   "MHJ-EV-00376",
+   "MHJ-EV-00553",
+   "MHJ-EV-00379"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-163",
+  "claim": "She chose a mainstream company deliberately because her own reference world was distant from its format, reasoning that the distance would make her contribution effective and that unexpected combinations are more interesting.",
+  "domain": "career",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": [
+   "E1",
+   "E2",
+   "E3"
+  ],
+  "projects": [
+   "SM Entertainment"
+  ],
+  "persona_relevance": "supporting",
+  "kind": "fact-pattern",
+  "units": 5,
+  "evidence": [
+   "MHJ-EV-00183",
+   "MHJ-EV-00013",
+   "MHJ-EV-00001",
+   "MHJ-EV-00028",
+   "MHJ-EV-00319"
+  ],
+  "counter_evidence": []
+ },
+ {
+  "claim_id": "MHJ-CL-164",
+  "claim": "Colleagues and her own advice describe a proactive stance toward organisations: work out what you can do and act on it, speak up, and build your own way of persuading each superior rather than waiting for a universal method.",
+  "domain": "career",
+  "epistemic_class": "DIRECTLY STATED",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": [
+   "E2",
+   "E8",
+   "cross"
+  ],
+  "projects": [],
+  "persona_relevance": "supporting",
+  "kind": "practice",
+  "units": 4,
+  "evidence": [
+   "MHJ-EV-00467",
+   "MHJ-EV-00493",
+   "MHJ-EV-00590",
+   "MHJ-EV-00367"
+  ],
+  "counter_evidence": []
+ }
+]

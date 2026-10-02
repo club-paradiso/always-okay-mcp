@@ -1,0 +1,17 @@
+{
+ "export_date": "2026-10-03",
+ "framework_version": "1.1",
+ "counts": {
+  "principles": 32,
+  "claims": 164,
+  "notes": 598,
+  "sources": 125,
+  "tensions": 44,
+  "modes": 10
+ },
+ "excluded": [
+  "quarantined, excluded and duplicate ledger records",
+  "contradiction entries on the dispute record and criticism (MHJ-CX-45..47)",
+  "any transcript, article text or media"
+ ]
+}
