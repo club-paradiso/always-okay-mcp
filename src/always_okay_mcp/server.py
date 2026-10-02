@@ -12,6 +12,9 @@ from functools import lru_cache
 from importlib import resources
 
 from mcp.server.mcpserver import MCPServer
+from mcp_types import ToolAnnotations
+
+RO = ToolAnnotations(read_only_hint=True, destructive_hint=False, idempotent_hint=True, open_world_hint=False)
 
 INSTRUCTIONS = """\
 always-okay is a creative-direction LENS built from public-record research. Use it to frame a
@@ -69,7 +72,7 @@ def _sources():
     return {s["source_id"]: s for s in _data("sources.json")}
 
 
-@server.tool(description="Overview of the lens: the Frame → Make → Edit → Deliver loop, the eight stages and "
+@server.tool(annotations=RO, description="Overview of the lens: the Frame → Make → Edit → Deliver loop, the eight stages and "
              "every principle's id, title, status and evidence support. Call first when starting creative work.")
 def get_framework() -> dict:
     fw = _framework()
@@ -86,7 +89,7 @@ def get_framework() -> dict:
     }
 
 
-@server.tool(description="Full text of one principle (e.g. 'P08'): the rule, its limits, what it guards against, "
+@server.tool(annotations=RO, description="Full text of one principle (e.g. 'P08'): the rule, its limits, what it guards against, "
              "known tensions, evidence support and the claim IDs behind it.")
 def get_principle(principle_id: str) -> dict:
     p = _principle(principle_id)
@@ -95,7 +98,7 @@ def get_principle(principle_id: str) -> dict:
     return p
 
 
-@server.tool(description="Search the evidence notes (paraphrased statements with source and locator). Filter by "
+@server.tool(annotations=RO, description="Search the evidence notes (paraphrased statements with source and locator). Filter by "
              "free text, optional domain (e.g. 'launch', 'brand', 'collaboration'), optional era (E0–E8 or 'cross'). "
              "Use to answer 'what is the evidence for…'. Returns at most `limit` notes.")
 def search_evidence(query: str = "", domain: str = "", era: str = "", limit: int = 10) -> dict:
@@ -121,7 +124,7 @@ def search_evidence(query: str = "", domain: str = "", era: str = "", limit: int
             "note": "Notes are paraphrases. dispute_context=true marks statements from the 2024–2026 dispute window."}
 
 
-@server.tool(description="Trace a principle (P##) or claim (MHJ-CL-###) down to its evidence notes and public sources. "
+@server.tool(annotations=RO, description="Trace a principle (P##) or claim (MHJ-CL-###) down to its evidence notes and public sources. "
              "Use when the user asks why a recommendation holds or where it comes from.")
 def trace(item_id: str) -> dict:
     claims, notes, src = _claims(), _notes(), _sources()
@@ -153,7 +156,7 @@ def trace(item_id: str) -> dict:
     return {**head, "chain": chain}
 
 
-@server.tool(description="Documented tensions, contradictions and myths the lens keeps open (e.g. retro rejected "
+@server.tool(annotations=RO, description="Documented tensions, contradictions and myths the lens keeps open (e.g. retro rejected "
              "as a target vs a nostalgic record; creative–management integration vs 'not universal'). Pass a "
              "principle id to get only its tensions, or a text query.")
 def list_tensions(principle_id: str = "", query: str = "") -> dict:
@@ -168,7 +171,7 @@ def list_tensions(principle_id: str = "", query: str = "") -> dict:
     return {"count": len(tens), "tensions": tens}
 
 
-@server.tool(description="Working mode guide. Modes: STRATEGIST, CREATIVE DIRECTOR, PRODUCT, BRAND ARCHITECT, "
+@server.tool(annotations=RO, description="Working mode guide. Modes: STRATEGIST, CREATIVE DIRECTOR, PRODUCT, BRAND ARCHITECT, "
              "COPY / EDITOR, CRITIC, EXECUTIVE, LAUNCH DIRECTOR, REFERENCE CURATOR, FULL DIRECTOR. Empty = list all.")
 def get_mode(mode: str = "") -> dict:
     modes = _data("modes.json")
@@ -179,7 +182,7 @@ def get_mode(mode: str = "") -> dict:
     return {"modes": m} if m else {"error": f"unknown mode {mode}", "available": [x["mode"] for x in modes]}
 
 
-@server.tool(description="Return a working checklist as text: 'brief' (brief interrogation), 'concept', "
+@server.tool(annotations=RO, description="Return a working checklist as text: 'brief' (brief interrogation), 'concept', "
              "'signature' (signature device test), 'edit' (critique pass), 'launch', 'briefing' (briefing a "
              "specialist), 'conventions', 'taste', 'language' (copy rules KO/EN) or 'limits'.")
 def get_checklist(kind: str = "brief") -> str:
@@ -219,7 +222,7 @@ _RULES = {
 }
 
 
-@server.tool(description="Deterministic lint for a creative draft (no model call): flags declared quality/benefit "
+@server.tool(annotations=RO, description="Deterministic lint for a creative draft (no model call): flags declared quality/benefit "
              "words, buzzword filler, template phrasing, borrowed aesthetic tropes and any wording that speaks as or "
              "for Min Hee-jin. Reports only; never edits. Works for Korean and English.")
 def check_draft(text: str) -> dict:
@@ -229,6 +232,71 @@ def check_draft(text: str) -> dict:
         found[k] = hits
     return {"counts": {k: len(v) for k, v in found.items()}, "hits": found,
             "advice": "Rewrite flagged lines unless the word is quoted in order to reject it."}
+
+
+# --- OpenAI connector compatibility: `search` and `fetch` ----------------------------------------
+# ChatGPT chat/deep-research connectors expect exactly these two tools: `search` returns
+# {"results": [{"id", "title", "url"}]} and `fetch` returns {"id", "title", "text", "url", "metadata"}.
+
+REPO = "https://github.com/club-paradiso/always-okay-mcp"
+
+
+def _documents():
+    fw = _framework()
+    docs = []
+    for p in fw["principles"]:
+        text = (f"{p['id']} {p['title']}\n\nRule: {p['rule']}\n\nLimits: {p['limits']}\n\nGuards against: "
+                f"{p['guards_against']}\n\nKnown tensions: {', '.join(p.get('tensions') or []) or 'none'}\n\n"
+                f"Evidence: {p['support']['class']}, {p['support']['confidence']} confidence, "
+                f"{p['support']['units']} independent sources; claims {', '.join(p['claims'])}")
+        docs.append({"id": f"principle:{p['id']}", "title": f"{p['id']} {p['title']}", "text": text,
+                     "url": f"{REPO}#tools", "metadata": {"type": "principle", "stage": p["stage"],
+                                                         "status": p.get("status", "core")}})
+    src = _sources()
+    for n in _data("notes.json"):
+        s = src.get(n["source_id"], {})
+        docs.append({"id": f"note:{n['note_id']}", "title": f"{n['note_id']} ({s.get('publication')}, {s.get('date')})",
+                     "text": n["claim"], "url": s.get("url") or REPO,
+                     "metadata": {"type": "evidence_note", "era": n.get("era"), "domains": n.get("domains"),
+                                  "dispute_context": n.get("dispute_context"), "locator": n.get("locator")}})
+    for t in _data("tensions.json"):
+        docs.append({"id": f"tension:{t['id']}", "title": f"{t['id']} {t['title']}", "text": t["body"],
+                     "url": f"{REPO}#tools", "metadata": {"type": "tension"}})
+    for k in ("brief", "concept", "signature", "edit", "launch", "briefing", "conventions", "taste"):
+        docs.append({"id": f"checklist:{k}", "title": f"Checklist: {k}", "text": get_checklist(k),
+                     "url": f"{REPO}#tools", "metadata": {"type": "checklist"}})
+    return docs
+
+
+@lru_cache(maxsize=1)
+def _doc_index():
+    return {d["id"]: d for d in _documents()}
+
+
+@server.tool(annotations=RO, description="Search the always-okay lens (principles, evidence notes, tensions, "
+             "checklists) for creative-direction guidance. Returns result ids to pass to `fetch`.")
+def search(query: str) -> dict:
+    words = [w for w in re.split(r"\s+", query.lower()) if w]
+    scored = []
+    for d in _doc_index().values():
+        hay = (d["title"] + " " + d["text"]).lower()
+        score = sum(hay.count(w) for w in words)
+        if d["id"].startswith(("principle:", "checklist:")):
+            score *= 2
+        if score:
+            scored.append((score, d))
+    scored.sort(key=lambda x: -x[0])
+    return {"results": [{"id": d["id"], "title": d["title"], "url": d["url"]} for _, d in scored[:10]]}
+
+
+@server.tool(annotations=RO, description="Fetch the full text of one always-okay document by the id returned "
+             "from `search` (e.g. 'principle:P08', 'note:MHJ-EV-00412', 'checklist:launch').")
+def fetch(id: str) -> dict:
+    d = _doc_index().get(id)
+    if not d:
+        return {"id": id, "title": "not found", "text": "Unknown id; call search first.", "url": REPO,
+                "metadata": {}}
+    return d
 
 
 @server.prompt(description="Start a creative-direction session with the lens on a brief.")

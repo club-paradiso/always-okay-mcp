@@ -39,3 +39,11 @@ def test_check_draft_flags():
 def test_modes_and_checklists():
     assert len(s.get_mode()["modes"]) == 10
     assert "Signature device test" in s.get_checklist("signature")
+
+
+def test_openai_search_fetch():
+    r = s.search("launch teaser reveal")
+    assert r["results"] and all({"id", "title", "url"} <= set(x) for x in r["results"])
+    d = s.fetch(r["results"][0]["id"])
+    assert {"id", "title", "text", "url", "metadata"} <= set(d) and d["text"]
+    assert s.fetch("nope")["title"] == "not found"
