@@ -42,6 +42,8 @@ claude mcp add always-okay -- uvx --from git+https://github.com/club-paradiso/al
 Any MCP client: command `always-okay-mcp` over stdio.
 
 ## Remote use: ChatGPT, claude.ai and other URL-based clients
+
+**Public endpoint:** `https://always-okay-mcp.onrender.com/mcp` (free tier; the first request after idle can take ~30 s).
 The same server runs over Streamable HTTP (stateless, JSON responses, per-IP rate limit):
 ```bash
 uv run always-okay-mcp-http          # http://localhost:8000/mcp
