@@ -41,6 +41,19 @@ claude mcp add always-okay -- uvx --from git+https://github.com/club-paradiso/al
 ```
 Any MCP client: command `always-okay-mcp` over stdio.
 
+## Remote use: ChatGPT, claude.ai and other URL-based clients
+The same server runs over Streamable HTTP (stateless, JSON responses, per-IP rate limit):
+```bash
+uv run always-okay-mcp-http          # http://localhost:8000/mcp
+```
+Deploy with the included `Dockerfile` (`fly.toml` for Fly.io, `render.yaml` for Render). Then add the
+public URL `https://<your-host>/mcp`:
+- **claude.ai / Claude apps:** Settings → Connectors → *Add custom connector* → paste the URL.
+- **ChatGPT:** Settings → Apps & Connectors → developer mode → *Create* connector → paste the URL
+  (no authentication).
+Environment: `PORT`, `ALLOWED_HOSTS` (public hostname; enables DNS-rebinding protection),
+`RATE_LIMIT` (requests/minute/IP, default 120). Health check: `GET /healthz`.
+
 ## Rules the server tells every assistant
 Never speak as or for her · method is not output (no Y2K/retro/NewJeans defaults) · principles are
 defaults with tensions · accuracy and official wording first in public, legal, financial, health or

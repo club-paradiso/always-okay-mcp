@@ -6,10 +6,11 @@ readme = "README.md"
 license = "MIT"
 authors = [{ name = "Club Paradiso" }]
 requires-python = ">=3.12"
-dependencies = ["mcp>=2.2,<3"]
+dependencies = ["mcp>=2.2,<3", "uvicorn>=0.30", "starlette>=0.40"]
 
 [project.scripts]
 always-okay-mcp = "always_okay_mcp.server:main"
+always-okay-mcp-http = "always_okay_mcp.http:main"
 
 [dependency-groups]
 dev = [

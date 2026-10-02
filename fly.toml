@@ -1,0 +1,25 @@
+# Fly.io deployment: `fly launch --copy-config --no-deploy` (change `app` if the name is taken), then `fly deploy`.
+app = "always-okay-mcp"
+primary_region = "nrt"
+
+[build]
+
+[env]
+  PORT = "8080"
+  RATE_LIMIT = "120"
+  # Set to the public hostname to enable DNS-rebinding protection, e.g. "always-okay-mcp.fly.dev"
+  ALLOWED_HOSTS = "always-okay-mcp.fly.dev"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+  [[http_service.checks]]
+    grace_period = "10s"
+    interval = "30s"
+    method = "GET"
+    path = "/healthz"
+    timeout = "5s"

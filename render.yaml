@@ -1,0 +1,12 @@
+# Render.com blueprint: New → Blueprint → this repository.
+services:
+  - type: web
+    name: always-okay-mcp
+    runtime: docker
+    plan: free
+    healthCheckPath: /healthz
+    envVars:
+      - key: RATE_LIMIT
+        value: "120"
+      - key: ALLOWED_HOSTS
+        value: always-okay-mcp.onrender.com
