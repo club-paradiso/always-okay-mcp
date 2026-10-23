@@ -30,10 +30,12 @@ It gives **method**, not her voice and not her look. Every principle traces to s
    청량, pastel) or to NewJeans references. Any look must be derived from the user's material.
 3. **The user's purpose and constraints rule.** In public, legal, financial, health or safety contexts,
    accuracy, accessibility and official wording come before taste (the Limits section below).
-4. **No private life, gossip or dispute commentary.**
+4. **No private life, gossip, dispute commentary or judgments of character** — hers or anyone's.
+   The lens treats her documented method with respect and reports it faithfully: no inflation, no belittling.
 5. **Her taste is not the method.** Her personal dislikes (e.g. high notes, knife-sync dance, ritual
    teasers) and her emotional palette are examples of decisions, not defaults for the user.
-6. **Principles are defaults, not absolutes.** Several carry documented tensions; weigh them against the user's case.
+6. **Principles are defaults, not absolutes.** Several were applied differently by situation; the
+   conditions are in the Tensions section below. Weigh them against the user's case.
 7. **Say UNKNOWN** when the evidence does not cover something; do not invent her views.
 
 ## How to work: Frame → Make → Edit → Deliver
@@ -132,11 +134,11 @@ the Modes section below.
 - **P07 Derive the idea from the material's first impression** — Begin from the first image or scene the core material itself evokes (for her, usually the music) and only then reach for outside references; keep a bank of stored ideas and pick the one most interesting to tell with this material.
   - Limits: Outside music, 'material' is the product, service, data or place. Her own framing moved from 'visualising music' (SM) to 'music first' (ADOR); no fixed hierarchy between media is implied.
 - **P08 Translate the impression; never copy the surface** — Take a reference's impression, energy or structure, not its surface; carrying it into a different medium (sound into image, image into an action) is the most reliable way to avoid copying. Choose references for one consistent sensibility, often from outside the category, and raise the overlooked to a major standard of finish.
-  - Limits: Same-medium borrowing also appears in her work (a cover inspired by a film image, a stage cover of a song); what is avoided is reproducing the surface. Her 'whole-combination' originality threshold was stated in a 2024 copying dispute and her own catalogue faces open allegations (CX-41, CX-46; no merits judged).
+  - Limits: Same-medium borrowing also appears in her work (a cover inspired by a film image, a stage cover of a song); what is avoided is reproducing the surface. Her view that copying concerns the whole combination, not shared elements, predates 2024 (CX-41).
 - **P09 Build from a deliberate mismatch; set the emotional target precisely** — Pair unlike things on purpose (mainstream subject with an outside maker; fantasy inside an ordinary setting). Define the emotional target precisely — often as a tension between two feelings — rather than one generic mood.
   - Limits: Her own recurring emotional palette (bright melancholy, 'dry' beauty) is her taste, not the method; derive the user's emotional target from their material.
 - **P10 Coherence from a consistent reason, not lore** — Hold a stable core reason and let each release or application vary its surface; treat releases as chapters that answer earlier ones; avoid constructed 'worldview' systems and fixed forms that close off later developments.
-  - Limits: Open premises still need a reason; tension with fictional launch devices is noted (contradiction index).
+  - Limits: Open premises still need a reason; where fictional launch devices or symbol systems were used, see CX-32.
 - **P11 Aim at the durable feeling; period looks are means, not briefs** — Aim at what people are drawn to across eras; treat trends as what the public copies after a convincing move, so chasing them makes you second. Period material may enter only as an ingredient that expresses something about the present work, never as the brief.
   - Limits: 'Retro was never the target' is her stated intent, given in reply to readings of her work; it does not settle how audiences read the output (CX-21, CX-24). She chose a nostalgic direction for at least one record.
 
@@ -156,7 +158,7 @@ the Modes section below.
 *How is it named, marked and spoken about?*
 
 - **P17 Identity rigidity matches the brand's rate of change** — Use a fixed mark only where it does structural work; otherwise build flexible marks that transform and extend; design single forms that hold several readings and leave viewers room to find them.
-  - Limits: Institutions that need recognisability and trust (public services, finance) may need more fixity. Institutions that need recognisability and trust (public services, finance) usually need more fixity.
+  - Limits: Institutions that need recognisability and trust (public services, finance) usually need more fixity.
 - **P18 Never declare quality or benefit; name intuitively** — Do not announce that the work is premium, healing or special — work loses value the moment it proclaims itself and benefits imposed from above feel condescending; make the experience good and let it be noticed. Names should land at once, need no explanation, and may carry a light double reading.
   - Limits: Functional, legal, price and safety information must be stated plainly; this concerns value claims, not facts. In public services, finance, health, law or safety contexts, accuracy, accessibility and official wording come first; apply only where it cannot mislead or exclude anyone (our application).
 
@@ -166,7 +168,7 @@ the Modes section below.
 - **P19 The object performs the idea** — Make the product's real-world use carry the meaning (a gift that is given, a phone-shot film about phones); let form follow the material instead of a platform rule; give each asset its own job instead of making every asset chase one metric.
   - Limits: Usability comes first where the object is a tool.
 - **P20 Stated stance: earn through quality and keepsakes, not inflation tactics** *(supporting)* — Her stated stance: answer the discomfort of earning from people who like the work with quality rather than extraction, make goods as keepsakes tied to a moment, and avoid tactics that inflate metrics so demand shows what is real.
-  - Limits: Self-account with no outcome data; much of it voiced in the dispute window. Counter-cases on record: ten-package releases at SM (2013), random version packing (2024), revenue-aimed collaboration shops (CX-26, CX-27).
+  - Limits: Self-account with no outcome data; much of it voiced in 2024–2026. Cases where the stance was applied differently by situation: multi-package releases at SM (2013), version packing (2024), collaboration shops (CX-26, CX-27).
 
 ### Stage VI — Launch
 *In what order, at what moment, through which sense is it met?*

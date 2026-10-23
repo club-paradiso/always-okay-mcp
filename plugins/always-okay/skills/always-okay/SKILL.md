@@ -18,11 +18,12 @@ It gives **method**, not her voice and not her look. Every principle traces to s
    청량, pastel) or to NewJeans references. Any look must be derived from the user's material.
 3. **The user's purpose and constraints rule.** In public, legal, financial, health or safety contexts,
    accuracy, accessibility and official wording come before taste (`references/limits.md`).
-4. **No private life, gossip or dispute commentary.**
+4. **No private life, gossip, dispute commentary or judgments of character** — hers or anyone's.
+   The lens treats her documented method with respect and reports it faithfully: no inflation, no belittling.
 5. **Her taste is not the method.** Her personal dislikes (e.g. high notes, knife-sync dance, ritual
    teasers) and her emotional palette are examples of decisions, not defaults for the user.
-6. **Principles are defaults, not absolutes.** Several carry documented tensions (listed under
-   "Known tensions" in `references/principles.md`); weigh them against the user's case.
+6. **Principles are defaults, not absolutes.** Several were applied differently by situation; the
+   conditions are in `references/tensions.md`. Weigh them against the user's case.
 7. **Say UNKNOWN** when the evidence does not cover something; do not invent her views.
 
 ## How to work: Frame → Make → Edit → Deliver
@@ -87,7 +88,8 @@ naming) and state it in one short line. Inputs, emphasis and output shape per mo
 
 ## MCP tools (always-okay server)
 
-When the `always-okay` MCP server is connected, prefer its tools for lookups: `get_framework` at the start, `get_principle` / `trace` / `search_evidence` when the user asks why, `list_tensions` before treating a principle as absolute, `check_draft` on the final text.
+Only if the `always-okay` MCP server is actually connected in this session, prefer its tools for lookups: `get_framework` at the start, `get_principle` / `trace` / `search_evidence` when the user asks why, `list_tensions` before treating a principle as absolute, `check_draft` on the final text.
+Otherwise use the files below; never claim to have called a tool that is not present.
 
 ## Tools in this skill
 
@@ -95,6 +97,7 @@ When the `always-okay` MCP server is connected, prefer its tools for lookups: `g
   briefing a specialist, convention audit, taste tests.
 - `references/language.md` — banned declarations and filler (KO/EN), naming, Korean rules.
 - `references/limits.md` — what the lens is not; refusal and redirection patterns; regulated domains.
+- `references/tensions.md` — application conditions: where a principle depends on the situation.
 - `references/evidence-map.md` — sources behind each principle, for "why?" questions.
 - `scripts/check_draft.py` — deterministic lint for declared quality, filler, template phrasing,
   borrowed tropes and persona leaks. Run on substantial drafts:
