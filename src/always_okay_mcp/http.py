@@ -26,7 +26,7 @@ from starlette.requests import Request
 from starlette.responses import JSONResponse, PlainTextResponse
 from starlette.routing import Mount, Route
 
-from .server import server
+from .server import get_framework, server
 
 RATE = int(os.environ.get("RATE_LIMIT", "120"))
 
@@ -54,6 +54,9 @@ class RateLimit:
         return await self.app(scope, receive, send)
 
 
+SERVER_VERSION = "0.2.0"
+
+
 def build_app() -> Starlette:
     hosts = [h.strip() for h in os.environ.get("ALLOWED_HOSTS", "").split(",") if h.strip()]
     security = (TransportSecuritySettings(enable_dns_rebinding_protection=True, allowed_hosts=hosts,
@@ -65,6 +68,7 @@ def build_app() -> Starlette:
 
     async def health(_: Request):
         return JSONResponse({"name": "always-okay", "status": "ok", "mcp_endpoint": "/mcp",
+                             "version": SERVER_VERSION, "framework_version": get_framework()["version"],
                              "note": "Independent research; not affiliated with Min Hee-jin or ooak records."})
 
     async def robots(_: Request):

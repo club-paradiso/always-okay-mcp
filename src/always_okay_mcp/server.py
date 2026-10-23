@@ -35,7 +35,7 @@ server = MCPServer(
     name="always-okay",
     title="always-okay — evidence-grounded creative lens",
     instructions=INSTRUCTIONS,
-    version="0.1.0",
+    version="0.2.0",
 )
 
 
