@@ -117,6 +117,12 @@ def evidence_map_md():
             more = " …" if len(labels) > MAX_SOURCES else ""
             out.append(f"- **{cid}** ({c['epistemic_class'].lower()}, {c['confidence']}): {c['claim']}\n")
             out.append(f"  - Sources: {'; '.join(labels[:MAX_SOURCES])}{more}\n")
+        extra = [n for n in NOTES.values() if p["id"] in n.get("principles", [])]
+        if extra:
+            out.append("\nAccounts by others and records of the work (added v1.2):\n\n")
+            for n in extra:
+                kind = n["evidence_type"].replace("_", " ").lower()
+                out.append(f"- **{n['note_id']}** ({kind}): {n['claim']} — {src_label(n)}\n")
     return "".join(out)
 
 
