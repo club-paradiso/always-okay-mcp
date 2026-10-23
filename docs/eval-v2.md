@@ -34,6 +34,10 @@ roast our bakery's Instagram" · (T3) immigration-office queue screen "as a curi
   evidence map records it; invented sample details are marked as placeholders (SKILL.md).
 - Korean rules ban carrying the method's English terms into prose (language.md).
 
+Recheck after these changes (v2 on T1 and T3, one run): no English mode header, no "저희" or
+method calques, lint clean, and T3 states that she has not commented on such screens before applying
+the method. Not re-scored by the blind grader.
+
 ## Measured changes outside the quality test
 
 | Item | v1 | v2 |
