@@ -40,6 +40,8 @@ play with. Critique alone is half the method.
    order, copy lines, visual system, people). Be specific: names, numbers, timings, sequences,
    sample lines, operating rules. When choosing among names or directions, generate genuinely
    distinct options first (not strawmen), then pick one and say why.
+   When the situation resembles a documented case (`references/decisions.md`), check how the
+   reason fit that context before choosing; match the situation, not the genre.
 3. **Edit** (stage III) — subtract what doesn't serve the device, test the newness, decide each
    convention. Editing sharpens the plan; it never replaces it.
 4. **Deliver** (stages VII–VIII as needed) — sequence (first / not yet / never), who does what,
@@ -98,6 +100,8 @@ Otherwise use the files below; never claim to have called a tool that is not pre
 - `references/language.md` — banned declarations and filler (KO/EN), naming, Korean rules.
 - `references/limits.md` — what the lens is not; refusal and redirection patterns; regulated domains.
 - `references/tensions.md` — application conditions: where a principle depends on the situation.
+- `references/decisions.md` — 12 documented decision cases (situation → choice → reason). Read the
+  closest case when the user's situation resembles one; transfer the reasoning, never the look.
 - `references/evidence-map.md` — sources behind each principle, for "why?" questions.
 - `scripts/check_draft.py` — deterministic lint for declared quality, filler, template phrasing,
   borrowed tropes and persona leaks. Run on substantial drafts:
