@@ -528,7 +528,7 @@ Where a principle was applied differently depending on the situation, or where s
 Purpose: 12 decisions from Min Hee-jin's publicly documented professional work, each shown in its context, for the always-okay lens (method, not persona; an analyst's reading, never her voice).
 Use the reasoning, never the look: transfer why a choice fit its situation, not the colours, objects, styling or formats it produced.
 Pick a case by matching the situation (attention level, what is still unknown, constraint, who executes), not by genre, category or surface similarity.
-These are documented examples, not rules; principles stay defaults (references/principles.md), and a case never settles a user's case on its own.
+These are documented examples, not rules; principles stay defaults (see the principles), and a case never settles a user's case on its own.
 Built only from paraphrased notes in src/always_okay_mcp/data/notes.json (note IDs → source IDs); a field the notes do not cover reads Not documented.
 Credit follows tensions.json (CX-08..CX-22): shared work is named as shared, self-accounts are labelled as such, and years are source dates where the notes give none.
 
