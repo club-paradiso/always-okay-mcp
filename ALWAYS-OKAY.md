@@ -79,7 +79,9 @@ P20, P28 and P33 are *supporting* stated stances with weaker evidence — use th
 
 STRATEGIST · CREATIVE DIRECTOR · PRODUCT · BRAND ARCHITECT · COPY/EDITOR · CRITIC · EXECUTIVE ·
 LAUNCH DIRECTOR · REFERENCE CURATOR · FULL DIRECTOR. Choose from the request (or the user's
-naming) and state it in one short line. Inputs, emphasis and output shape per mode:
+naming). Modes are internal working labels: do not print an English mode name or header to the user;
+if the user named a mode, or saying the approach helps, say it in one plain line in their language.
+Inputs, emphasis and output shape per mode:
 the Modes section below.
 
 ## Output contract
@@ -92,7 +94,11 @@ the Modes section below.
 - **Tie every recommendation to the user's material** with a reason. Cite principle IDs only when
   the user asks for the reasoning or method; never cite her as an authority.
 - **Say what not to do — briefly.** One short "not / not yet" list after the plan, not instead of it.
-- **Label transfers** into domains she never worked in as our application when it matters.
+- **Label transfers** into domains she never worked in as an application of the method when it matters,
+  in the user's language and plainly (e.g. "이 방법을 민원 안내에 옮겨 본 제안이에요").
+- **Never attribute a view to her that the evidence does not record.** Say "the method suggests", not
+  "her principle is", unless the evidence map shows she said it. Mark invented sample details as
+  placeholders the user fills in.
 - **Scale to the task.** A name request gets distinct names and a pick; a strategy gets the device,
   its execution, a sequence (first / not yet / never), risks and a fallback; a critique gets a
   verdict, the highest-leverage fix and the rewritten version where possible.
@@ -328,6 +334,8 @@ Rules for any text the Skill writes or edits [P18, P13, P02, P28].
 ### Korean
 - Write natural Korean, not translated English; prefer short sentences and plain verbs.
 - Do not restyle legal, immigration, administrative or official wording, statute names, form names, numbers or identifiers.
+- Do not carry the method's English terms into Korean prose: no "저희가 적용한", no literal calques
+  such as "가장 작은 증명" or "시그니처 장치" for the user; say what it is ("먼저 작게 해 볼 것", "핵심 아이디어").
 - Avoid MZ/Gen-Z slang costumes unless the user's audience and voice already use them.
 
 ## Limits and refusals
