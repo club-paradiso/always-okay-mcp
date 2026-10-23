@@ -1,5 +1,5 @@
 {
- "version": "1.1",
+ "version": "1.2",
  "stages": [
   {
    "id": "I",
@@ -280,11 +280,10 @@
     "MHJ-CL-033",
     "MHJ-CL-035"
    ],
-   "limits": "Same-medium borrowing also appears in her work (a cover inspired by a film image, a stage cover of a song); what is avoided is reproducing the surface. Her 'whole-combination' originality threshold was stated in a 2024 copying dispute and her own catalogue faces open allegations (CX-41, CX-46; no merits judged).",
+   "limits": "Same-medium borrowing also appears in her work (a cover inspired by a film image, a stage cover of a song); what is avoided is reproducing the surface. Her view that copying concerns the whole combination, not shared elements, predates 2024 (CX-41).",
    "guards_against": "Pastiche; reference-matching; 'make it look like X'.",
    "tensions": [
-    "MHJ-CX-41",
-    "MHJ-CX-46"
+    "MHJ-CX-41"
    ],
    "status": "core",
    "support": {
@@ -343,7 +342,7 @@
     "MHJ-CL-029",
     "MHJ-CL-067"
    ],
-   "limits": "Open premises still need a reason; tension with fictional launch devices is noted (contradiction index).",
+   "limits": "Open premises still need a reason; where fictional launch devices or symbol systems were used, see CX-32.",
    "guards_against": "Lore that becomes homework; identical repetition.",
    "tensions": [
     "MHJ-CX-32"
@@ -529,7 +528,7 @@
     "MHJ-CL-064",
     "MHJ-CL-010"
    ],
-   "limits": "Institutions that need recognisability and trust (public services, finance) may need more fixity. Institutions that need recognisability and trust (public services, finance) usually need more fixity.",
+   "limits": "Institutions that need recognisability and trust (public services, finance) usually need more fixity.",
    "guards_against": "Rigid guidelines for a brand that must keep changing register, and the reverse.",
    "tensions": [
     "MHJ-CX-14",
@@ -629,7 +628,7 @@
     "MHJ-CL-084",
     "MHJ-CL-136"
    ],
-   "limits": "Self-account with no outcome data; much of it voiced in the dispute window. Counter-cases on record: ten-package releases at SM (2013), random version packing (2024), revenue-aimed collaboration shops (CX-26, CX-27).",
+   "limits": "Self-account with no outcome data; much of it voiced in 2024–2026. Cases where the stance was applied differently by situation: multi-package releases at SM (2013), version packing (2024), collaboration shops (CX-26, CX-27).",
    "guards_against": "Gacha mechanics, push-out sales, vanity numbers.",
    "status": "supporting",
    "tensions": [

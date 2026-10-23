@@ -11321,5 +11321,947 @@
    "audience"
   ],
   "dispute_context": true
+ },
+ {
+  "note_id": "MHJ-EV-00610",
+  "source_id": "MHJ-SRC-000421",
+  "locator": "¶12",
+  "claim": "NewJeans released no pre-debut teasers: a music video came first, without the album title being revealed, and the debut album carried three lead singles.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut",
+   "NewJeans Attention"
+  ],
+  "domains": [
+   "launch"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P16",
+   "P21",
+   "P22"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00611",
+  "source_id": "MHJ-SRC-000421",
+  "locator": "¶8–9",
+  "claim": "ADOR said the 'Attention' video, on a track co-produced by DJ 250, was shot in Spain, and that videos for all four album tracks would follow one by one.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut",
+   "NewJeans Attention"
+  ],
+  "domains": [
+   "launch",
+   "music"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P06",
+   "P21"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00612",
+  "source_id": "MHJ-SRC-000422",
+  "locator": "¶2–3",
+  "claim": "ADOR said it skipped the teaser stage and opened with a music video because the group name, line-up and debut date had all been kept secret; the reporter notes that a rookie's first content being a full video was unusual.",
+  "key_term": null,
+  "evidence_type": "DOCUMENTED_DECISION",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut"
+  ],
+  "domains": [
+   "launch"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P16",
+   "P22"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00613",
+  "source_id": "MHJ-SRC-000422",
+  "locator": "¶12, ¶16",
+  "claim": "Reports that the debut sound used natural engineering that kept each member's own voice, with Min overseeing the whole process from member selection to choreography and producer 250 contributing to three of the four tracks.",
+  "key_term": null,
+  "evidence_type": "DOCUMENTED_DECISION",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut",
+   "NewJeans New Jeans EP"
+  ],
+  "domains": [
+   "music",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P25",
+   "P27"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00614",
+  "source_id": "MHJ-SRC-000422",
+  "locator": "¶14",
+  "claim": "The debut EP gave all four tracks a music video and presented three as joint title tracks, a format the reporter calls rare in Korea.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans New Jeans EP"
+  ],
+  "domains": [
+   "launch",
+   "product"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P16",
+   "P19"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00615",
+  "source_id": "MHJ-SRC-000423",
+  "locator": "¶4–5",
+  "claim": "The 'Hype Boy' video was released as an intro plus four versions in omnibus form, and the intro ended by letting viewers choose which member's version to watch next.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans Hype Boy"
+  ],
+  "domains": [
+   "launch",
+   "audience"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P21",
+   "P23"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00616",
+  "source_id": "MHJ-SRC-000423",
+  "locator": "¶10",
+  "claim": "Contrary to the usual practice of announcing members in advance, the members' names were first revealed inside the 'Hype Boy' intro video, a day after the first video appeared with no prior information.",
+  "key_term": null,
+  "evidence_type": "DOCUMENTED_DECISION",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut",
+   "NewJeans Hype Boy"
+  ],
+  "domains": [
+   "launch"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P21",
+   "P22"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00617",
+  "source_id": "MHJ-SRC-000424",
+  "locator": "¶2–3, ¶10",
+  "claim": "The group's first public signal was a video on outdoor screens at Samseong-dong's K-Pop Square showing only 'ADOR girl group', 'Min Hee-jin girl group' and a date, ending with a rabbit breaking through a frame; name and line-up stayed undisclosed.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut"
+  ],
+  "domains": [
+   "launch",
+   "marketing"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P21",
+   "P22"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00618",
+  "source_id": "MHJ-SRC-000425",
+  "locator": "¶7",
+  "claim": "The magazine notes that NewJeans' official website borrowed the interface design of early mobile phones, part of a debut identity spanning video, social media and web.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut"
+  ],
+  "domains": [
+   "brand",
+   "product"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P06",
+   "P19"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00619",
+  "source_id": "MHJ-SRC-000426",
+  "locator": "¶2",
+  "claim": "The debut EP was issued in three versions: a 'NewJeans Bag' CD-bag edition, a 'Bluebook' edition and a Weverse album edition.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans New Jeans EP"
+  ],
+  "domains": [
+   "product",
+   "artifact"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P19",
+   "P20"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00620",
+  "source_id": "MHJ-SRC-000426",
+  "locator": "¶11",
+  "claim": "Reports that she said on Instagram the CD-bag format came from a childhood memory of needing a bag to carry a CD player.",
+  "key_term": null,
+  "evidence_type": "DIRECT_STATEMENT",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans New Jeans EP"
+  ],
+  "domains": [
+   "product",
+   "references"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P07",
+   "P19"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00621",
+  "source_id": "MHJ-SRC-000427",
+  "locator": "¶17–18",
+  "claim": "Reports that in recording she played songs to the members in listening sessions and asked their opinions rather than simply assigning tracks, and that vocals were recorded without a guide singer so each member could sing in her own way.",
+  "key_term": null,
+  "evidence_type": "DOCUMENTED_DECISION",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans New Jeans EP"
+  ],
+  "domains": [
+   "music",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P27"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00622",
+  "source_id": "MHJ-SRC-000428",
+  "locator": "¶3–7",
+  "claim": "ADOR released two 'Ditto' videos that join into one story, made with Shin Woo-seok's studio, and framed the narrative as unfolding around the fandom and the group.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans Ditto MV"
+  ],
+  "domains": [
+   "launch",
+   "audience"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P10",
+   "P21"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00623",
+  "source_id": "MHJ-SRC-000428",
+  "locator": "¶3–4, ¶9",
+  "claim": "'Ditto' was described as made for the fandom, with lyrics co-written by member Minji with indie acts The Black Skirts and Oohyo; title song 'OMG' had been written while the debut album was being assembled.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans Ditto",
+   "NewJeans OMG"
+  ],
+  "domains": [
+   "music",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P26"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00624",
+  "source_id": "MHJ-SRC-000429",
+  "locator": "¶3–5",
+  "claim": "The 'Ditto' teaser, titled 'NewJeans 6', showed six figures running down a school corridor instead of five, leaving the extra person unexplained before release.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans Ditto MV"
+  ],
+  "domains": [
+   "launch",
+   "marketing"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P22"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00625",
+  "source_id": "MHJ-SRC-000430",
+  "locator": "¶2–4",
+  "claim": "ADOR announced the six-track 'Get Up' EP with three joint title tracks again and a music video for every track, pre-releasing 'New Jeans' with a video made with The Powerpuff Girls.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans 'Get Up'"
+  ],
+  "domains": [
+   "launch"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P19",
+   "P21"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00626",
+  "source_id": "MHJ-SRC-000431",
+  "locator": "¶2–4, ¶7",
+  "claim": "Director Shin Woo-seok shot the whole 'ETA' video on iPhone, with members filming each other, and says shots and scenario were chosen around what the phone could capture (FaceTime, Action mode).",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans ETA x Apple"
+  ],
+  "domains": [
+   "execution",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P19",
+   "P29"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00627",
+  "source_id": "MHJ-SRC-000432",
+  "locator": "¶6",
+  "claim": "Performance director Kim Eun-ju says Min's starting direction for 'Super Shy' was to bring the past trend of the flash mob back in a modern form, which Kim then interpreted as a sleek rather than retro routine that looks hard but makes people want to try it.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans 'Get Up'",
+   "NewJeans Super Shy"
+  ],
+  "domains": [
+   "collaboration",
+   "execution"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P11",
+   "P23",
+   "P24"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00628",
+  "source_id": "MHJ-SRC-000432",
+  "locator": "¶11–12",
+  "claim": "Kim says that for 'Cool With You' Min said she liked the song's new feel and proposed contemporary dance with an image of five scattered petals forming one flower; Kim chose the genre and dropped hip-hop-based moves on that direction.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans 'Cool With You'"
+  ],
+  "domains": [
+   "collaboration",
+   "execution"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P24",
+   "P25"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00629",
+  "source_id": "MHJ-SRC-000433",
+  "locator": "Q3–Q4",
+  "claim": "NewJeans stylist Choi Yu-mi says she began preparing the group's styling direction under Min in 2020, their connection dating to SHINee's styling work around 2008, and that Min offered her the styling-director role.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans"
+  ],
+  "domains": [
+   "styling",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P26"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00630",
+  "source_id": "MHJ-SRC-000433",
+  "locator": "Q5",
+  "claim": "Choi says that when she worried about having little girl-group experience, Min answered that not having done it before might produce something interesting.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans"
+  ],
+  "domains": [
+   "collaboration",
+   "styling"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P26"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00631",
+  "source_id": "MHJ-SRC-000433",
+  "locator": "Q6",
+  "claim": "Choi says Min's starting brief was a single line, roughly 'let's try something cool', and that their overlapping taste lets them understand each other's preferences without long explanation.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans"
+  ],
+  "domains": [
+   "styling",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P24",
+   "P26"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00632",
+  "source_id": "MHJ-SRC-000433",
+  "locator": "Q6 (interviewer, citing Min)",
+  "claim": "Min is quoted as having said that people who are good at their work need only a clear direction and encouragement, and that agreeing on direction makes working together easy.",
+  "key_term": null,
+  "evidence_type": "DIRECT_STATEMENT",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans"
+  ],
+  "domains": [
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P24",
+   "P28"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00633",
+  "source_id": "MHJ-SRC-000434",
+  "locator": "Min section ¶2",
+  "claim": "Says she usually forms the overall picture from her first impression of the music; EXO's songs immediately suggested school and street, and because a uniform was fitting but not new, she gave it a classic treatment, since the first public image should provoke curiosity or surprise.",
+  "key_term": null,
+  "evidence_type": "DIRECT_STATEMENT",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E2",
+  "projects": [
+   "EXO Growl",
+   "EXO XOXO"
+  ],
+  "domains": [
+   "concept",
+   "music"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P05",
+   "P07",
+   "P22"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00634",
+  "source_id": "MHJ-SRC-000434",
+  "locator": "Min section ¶3",
+  "claim": "Says she picks collaborators by fit with the concept, explains the concept and goals in detail beforehand, uses each person's skills and keeps adjusting until the intended result is reached, rather than depending on them.",
+  "key_term": null,
+  "evidence_type": "DIRECT_STATEMENT",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E2",
+  "projects": [
+   "SM visual direction"
+  ],
+  "domains": [
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P24",
+   "P25",
+   "P26"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00635",
+  "source_id": "MHJ-SRC-000434",
+  "locator": "Min section ¶4, ¶7",
+  "claim": "Says the Pink Tape art film was the first video she planned and produced, and that its idea came from watching bubbles in a bath.",
+  "key_term": null,
+  "evidence_type": "DIRECT_STATEMENT",
+  "confidence": "high",
+  "generalizability": "low",
+  "era": "E2",
+  "projects": [
+   "f(x) Pink Tape Art Film"
+  ],
+  "domains": [
+   "concept",
+   "references"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P07"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00636",
+  "source_id": "MHJ-SRC-000434",
+  "locator": "Min section ¶8",
+  "claim": "Names pure intent and purpose as the key to good work.",
+  "key_term": null,
+  "evidence_type": "DIRECT_STATEMENT",
+  "confidence": "high",
+  "generalizability": "high",
+  "era": "E2",
+  "projects": [],
+  "domains": [
+   "concept"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P01"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00637",
+  "source_id": "MHJ-SRC-000435",
+  "locator": "¶1, ¶12",
+  "claim": "Member Luna says that because the previous album had also told a love story, the team chose to show the members' growth instead; the article does not say who led the planning.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "medium",
+  "generalizability": "low",
+  "era": "E2",
+  "projects": [
+   "f(x) Pink Tape"
+  ],
+  "domains": [
+   "concept"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P10"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00638",
+  "source_id": "MHJ-SRC-000446",
+  "locator": "¶6",
+  "claim": "The Pink Tape art film released before the album used album track 'Shadow' rather than the title song.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "low",
+  "era": "E2",
+  "projects": [
+   "f(x) Pink Tape Art Film"
+  ],
+  "domains": [
+   "launch",
+   "music"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P21"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00639",
+  "source_id": "MHJ-SRC-000436",
+  "locator": "interview ¶3 (Shim, Hwang)",
+  "claim": "SM performance directors Shim Jae-won and Hwang Sang-hoon say they conceived the one-take concept of EXO's 'Growl' video, worked with its director and cinematographer, and shot a near-final test for company approval; Min is not mentioned, so the video was a multi-team work.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E2",
+  "projects": [
+   "EXO Growl"
+  ],
+  "domains": [
+   "collaboration",
+   "execution"
+  ],
+  "dispute_context": false,
+  "principles": [],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00640",
+  "source_id": "MHJ-SRC-000437",
+  "locator": "¶4–6",
+  "claim": "f(x)'s '4 Walls' rollout included a week-long Itaewon gallery pop-up, '[4 WALLS] AN EXHIBIT', where one member filled the four walls each day, plus cinemagraph motion teasers; the article credits no individual.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E3",
+  "projects": [
+   "f(x) 4 Walls"
+  ],
+  "domains": [
+   "launch",
+   "artifact"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P19",
+   "P21"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00641",
+  "source_id": "MHJ-SRC-000438",
+  "locator": "¶7–15",
+  "claim": "Smerz say their NewJeans track came from a one- or two-day Copenhagen songwriter-producer camp of mixed groups, where the only direction was loops sent by main producer 250.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans 'Get Up'"
+  ],
+  "domains": [
+   "music",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P24",
+   "P27"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00642",
+  "source_id": "MHJ-SRC-000438",
+  "locator": "¶21–24",
+  "claim": "Smerz say the released version is what they made that afternoon, kept after a quick decision not to revise it; they attribute decisions to organisers and producers and describe no feedback from Min.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans 'Get Up'"
+  ],
+  "domains": [
+   "music",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P27"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00643",
+  "source_id": "MHJ-SRC-000439",
+  "locator": "NewJeans passage",
+  "claim": "Danish singer Erika de Casier was invited in 2022 to a Copenhagen writing session with Smerz and co-wrote four of the six 'Get Up' songs, not knowing at the time that they would be chosen.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans 'Get Up'"
+  ],
+  "domains": [
+   "music",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P26"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00644",
+  "source_id": "MHJ-SRC-000440",
+  "locator": "¶6–8",
+  "claim": "V says he contacted Min first and shared even small details with her; the paper reports their concept brainstorming started from his habit of taking his time, which led to the title 'Layover'.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "V Layover"
+  ],
+  "domains": [
+   "concept",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P03"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00645",
+  "source_id": "MHJ-SRC-000441",
+  "locator": "¶6–7",
+  "claim": "V says Min treated his unhurried speech and manner, which others might see as a weakness, as his signature trait, and that this helped him make the music he wanted.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "V Layover"
+  ],
+  "domains": [
+   "concept",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P03"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00646",
+  "source_id": "MHJ-SRC-000442",
+  "locator": "¶3–4",
+  "claim": "V says Min's working method surprised him: she asked him to come out the next day and immediately had him pose, which felt more like a picnic than a shoot, and the naturalness showed in the photos.",
+  "key_term": null,
+  "evidence_type": "COLLABORATOR_ACCOUNT",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "V Layover"
+  ],
+  "domains": [
+   "photography",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P27"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00647",
+  "source_id": "MHJ-SRC-000443",
+  "locator": "¶5–7",
+  "claim": "Reports that V approached Min after being inspired by f(x)'s 'Pink Tape', and that the album's credits draw on the NewJeans team, including FRNK and lyricist Kim Sim-ya, so it was a shared team effort.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "medium",
+  "generalizability": "low",
+  "era": "E5",
+  "projects": [
+   "V Layover"
+  ],
+  "domains": [
+   "collaboration",
+   "music"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P26"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00648",
+  "source_id": "MHJ-SRC-000444",
+  "locator": "¶5–6",
+  "claim": "BANA producers 250 and FRNK contributed to every track on the 'New Jeans' EP, with 250 as music supervising producer; both had worked with SM acts while she was there (the article also contains speculation, left out here).",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans New Jeans EP"
+  ],
+  "domains": [
+   "music",
+   "collaboration"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P26"
+  ],
+  "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00649",
+  "source_id": "MHJ-SRC-000445",
+  "locator": "¶2–3",
+  "claim": "The 'Supernatural' CD came packaged with a bag in two styles (drawstring and cross-body) carrying Murakami's flowers and member illustrations, the bag format the debut EP had also used; a 'Right Now' teaser joined his flower motif to the earlier Powerpuff Girls styling.",
+  "key_term": null,
+  "evidence_type": "CREATIVE_ARTIFACT",
+  "confidence": "high",
+  "generalizability": "medium",
+  "era": "E6",
+  "projects": [
+   "NewJeans Supernatural"
+  ],
+  "domains": [
+   "product",
+   "artifact"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P10",
+   "P19"
+  ],
+  "added": "v1.2"
  }
 ]

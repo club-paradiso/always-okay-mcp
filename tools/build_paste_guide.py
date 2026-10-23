@@ -51,7 +51,9 @@ def skill_core() -> str:
         text.split("## Requests to redirect", 1)[1]
     text = re.sub(r" \(listed under\s+\"Known tensions\" in `references/principles\.md`\)", "", text)
     text = re.sub(r"\s*\(?`?references/evidence-map\.md`?\)?", "", text)
-    text = re.sub(r"`references/(\w+)\.md`", lambda m: f"the {m.group(1).capitalize()} section below", text)
+    names = {"tensions": "Application conditions", "decisions": "Decision casebook"}
+    text = re.sub(r"`references/(\w+)\.md`",
+                  lambda m: f"the {names.get(m.group(1), m.group(1).capitalize())} section below", text)
     text = re.sub(r"`references/principles\.md`", "the Principles section below", text)
     return text.replace("# always-okay — creative lens", "## The lens", 1)
 
@@ -85,7 +87,9 @@ def build() -> str:
              demote(body(SKILL / "references/modes.md").replace(" (`scripts/check_draft.py`)", "")),
              demote(body(SKILL / "references/checklists.md")),
              demote(lang),
-             demote(body(SKILL / "references/limits.md"))]
+             demote(body(SKILL / "references/limits.md")),
+             demote(body(SKILL / "references/tensions.md")),
+             demote(body(SKILL / "references/decisions.md"))]
     return "\n\n".join(p.strip() for p in parts) + "\n"
 
 

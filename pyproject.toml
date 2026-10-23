@@ -1,6 +1,6 @@
 [project]
 name = "always-okay-mcp"
-version = "0.1.0"
+version = "0.2.0"
 description = "Evidence-grounded creative-direction lens as an MCP server: 32 principles traced to public sources, read-only tools, deterministic draft lint."
 readme = "README.md"
 license = "MIT"

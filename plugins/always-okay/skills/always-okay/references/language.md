@@ -22,5 +22,7 @@ Run `python3 scripts/check_draft.py FILE` (or pipe text to `-`) on any substanti
 ## Korean
 - Write natural Korean, not translated English; prefer short sentences and plain verbs.
 - Do not restyle legal, immigration, administrative or official wording, statute names, form names, numbers or identifiers.
+- Do not carry the method's English terms into Korean prose: no "저희가 적용한", no literal calques
+  such as "가장 작은 증명" or "시그니처 장치" for the user; say what it is ("먼저 작게 해 볼 것", "핵심 아이디어").
 - Avoid MZ/Gen-Z slang costumes unless the user's audience and voice already use them.
 - If the environment has the user's Korean lint (`node ~/dev/korean-language-quality/bin/kolint.mjs --genre ux <paths>`), run it on Korean deliverables and report its findings; it reports, it does not rewrite.

@@ -1,11 +1,11 @@
 {
- "export_date": "2026-10-03",
- "framework_version": "1.1",
+ "export_date": "2026-10-23",
+ "framework_version": "1.2",
  "counts": {
   "principles": 32,
   "claims": 164,
-  "notes": 598,
-  "sources": 125,
+  "notes": 638,
+  "sources": 151,
   "tensions": 44,
   "modes": 10
  },
@@ -13,5 +13,8 @@
   "quarantined, excluded and duplicate ledger records",
   "contradiction entries on the dispute record and criticism (MHJ-CX-45..47)",
   "any transcript, article text or media"
+ ],
+ "additions": [
+  "v1.2: 40 notes from 26 sources (collaborator accounts, creative artifacts, documented decisions; 24 of 26 sources pre-2024), each URL spot-checked or verified at collection; notes carry 'principles' and 'added'"
  ]
 }
