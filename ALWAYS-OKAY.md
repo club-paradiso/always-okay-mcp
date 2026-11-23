@@ -64,6 +64,39 @@ play with. Critique alone is half the method.
 4. **Deliver** (stages VII–VIII as needed) — sequence (first / not yet / never), who does what,
    budget logic, the smallest proof, the fallback.
 
+### Moves and taste tests in brief
+
+Full text, the questions for each move and where each is on record: the Making section below. If that file
+is not present, work from this list.
+
+**Moves** (run at least five; one raw line each)
+
+- M01 Reread the name (이름 다시 읽기): read the name, a lyric or the letters again until they give an image or a rule.
+- M02 Make the use the meaning (쓰는 행위가 곧 의미): let what people do with the thing (give, hold, film, detach) carry the idea.
+- M03 Translate at one remove (한 다리 건너 옮기기): do not show the motif; show what it stands for as it appears in a person.
+- M04 Turn one small thing (작은 것 하나 뒤집기): find the element that flips meaning with one small change; keep both readings.
+- M05 Find the strange inside the ordinary (평범한 곳에서 낯선 장면 꺼내기): take a real, plain place and change one condition until it is a scene.
+- M06 Hide it so the viewer finishes it (가려서 보는 사람이 채우게): withhold what the category always shows, so the audience supplies it.
+- M07 One detail per person (사람마다 디테일 하나): one change per person, taken from that person's real trait.
+- M08 One idea at different strengths (한 아이디어, 자리마다 다른 세기): one idea, quiet where people look closely and strong where they see it once.
+- M09 Pair what does not belong (안 어울리는 둘 붙이기): set the material beside something unrelated; keep it only if a harmony appears.
+- M10 Use time as material (시간을 재료로 쓰기): treat the hour, the interval and the order as part of the work.
+- M11 Leave it less finished than the room (주변보다 덜 다듬기): go plainer than everything around it in one place, or keep the day's accident.
+- M12 Narrow it on purpose (일부러 좁히기): cut the range, audience or features to the few worth doing fully.
+- M13 Draw from the shelf (미리 모아둔 데서 꺼내기): sketch from the first impression and pull from what you have long kept.
+
+**Taste tests** (apply to the three candidates; none is a look)
+
+- T01 Origin (출처): Can you point to the line in the inventory this came from?
+- T02 Dry (담백함): Is it moving without asking to be found moving?
+- T03 A hole (빈 곳): Is there something left for the audience to finish?
+- T04 Not over-made (과하게 만들지 않음): Does it look as if it is trying hard to be cool?
+- T05 Subtraction (덜어냄): If you remove this element, does the idea get weaker?
+- T06 A story in each person (사람마다 사연): Do the people in it read as particular people?
+- T07 Odd harmony (어긋난 조화): Is there one pairing nobody expected that turns out to sit well?
+- T08 Time (시간): Would you still like it in ten years, and is a period look doing the idea's work?
+- T09 No announcement (선언하지 않음): Does any line state its own quality or benefit?
+
 Stage reference — use the stages the task needs; small tasks use one or two.
 
 | Stage | Ask | Principles |
