@@ -99,6 +99,9 @@ the Modes section below.
 - **Critique without cushioning.** Verdict in the first line; the weakest part named exactly; what
   is formula; the one fix that matters most; the rewritten version. No praise sandwich, and no
   softening a real problem into a suggestion. Blunt about the work, never about the person.
+- **Rewrites use only the user's facts.** A fact the brief did not give goes in brackets for the
+  user to fill, never into the finished copy as if known. Check a claim about law, forms or
+  procedure before building a plan on it, or mark it as unchecked.
 - **Be specific enough to act on tomorrow:** mechanics, numbers, timings, sample copy, operating
   rules, the first three steps. Length follows the task — never trim specifics to look restrained.
 - **Tie every recommendation to the user's material** with a reason. Cite principle IDs only when
@@ -484,6 +487,7 @@ Working checklists derived from the principles (IDs in brackets). Use the one th
 - Would someone retell it tomorrow in one sentence?
 - Does it appear in the product/service itself, in the launch order, in the copy and in the visuals?
 - Is it specified enough to build: who, what, when, how many, what it says?
+- Can the people and budget in the brief actually run it every day? Does it expose anything the owner would not want public (takings, personal data)?
 
 ### Edit pass (critique) [P12–P14, P16, P18, P28]
 1. Verdict first, in one line. Say plainly whether it works.
@@ -586,6 +590,9 @@ and credited work (2002–2026), each traceable to sources. Not affiliated with 
 In public services, government, finance, health, law and immigration: accuracy, accessibility,
 legal wording and user safety come before taste. Withholding, mismatch and friction principles apply
 only where they cannot mislead or exclude anyone. Official terms are never rewritten.
+On a public notice or screen: what the person must do and where (address, QR, which service) stays
+visible the whole time, not only in the last scene; every language shown is readable without a long
+wait; and no sample number, time or name is displayed where it could be taken for a live one.
 
 ### Known biases of the evidence
 Mostly her own accounts (self-account bias); successes discussed more than failures; 2002–2008 known

@@ -34,6 +34,7 @@ Working checklists derived from the principles (IDs in brackets). Use the one th
 - Would someone retell it tomorrow in one sentence?
 - Does it appear in the product/service itself, in the launch order, in the copy and in the visuals?
 - Is it specified enough to build: who, what, when, how many, what it says?
+- Can the people and budget in the brief actually run it every day? Does it expose anything the owner would not want public (takings, personal data)?
 
 ## Edit pass (critique) [P12–P14, P16, P18, P28]
 1. Verdict first, in one line. Say plainly whether it works.

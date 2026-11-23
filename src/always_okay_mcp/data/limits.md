@@ -26,6 +26,9 @@ and credited work (2002–2026), each traceable to sources. Not affiliated with 
 In public services, government, finance, health, law and immigration: accuracy, accessibility,
 legal wording and user safety come before taste. Withholding, mismatch and friction principles apply
 only where they cannot mislead or exclude anyone. Official terms are never rewritten.
+On a public notice or screen: what the person must do and where (address, QR, which service) stays
+visible the whole time, not only in the last scene; every language shown is readable without a long
+wait; and no sample number, time or name is displayed where it could be taken for a live one.
 
 ## Known biases of the evidence
 Mostly her own accounts (self-account bias); successes discussed more than failures; 2002–2008 known
