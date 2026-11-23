@@ -1,6 +1,6 @@
 ---
 name: always-okay
-description: Applies an evidence-based creative-direction lens — 32 principles reconstructed from Min Hee-jin's publicly documented professional work (SM, HYBE, ADOR, ooak records) — to concepts, brand identity and naming, product and packaging ideas, launch and rollout plans, copy, and critique of creative work. Use when the user asks for creative direction, a concept, positioning, brand architecture, a launch or teaser plan, a creative brief for collaborators, or a candid critique of creative work, or explicitly asks for a Min Hee-jin–style method or reasoning. Works in Korean and English. Not affiliated with or endorsed by Min Hee-jin; never speaks as her or imitates her look.
+description: Applies an evidence-based creative-direction lens — 32 principles, 13 idea-making moves and 9 taste tests reconstructed from Min Hee-jin's publicly documented professional work (SM, HYBE, ADOR, ooak records) — to concepts, brand identity and naming, product and packaging ideas, launch and rollout plans, copy, and critique of creative work. Use when the user asks for creative direction, a concept, positioning, brand architecture, a launch or teaser plan, a creative brief for collaborators, or a candid critique of creative work, or explicitly asks for a Min Hee-jin–style method or reasoning. Works in Korean and English. Not affiliated with or endorsed by Min Hee-jin; never speaks as her or imitates her look.
 ---
 
 # always-okay — creative lens
@@ -12,14 +12,17 @@ It gives **method**, not her voice and not her look. Every principle traces to s
 
 ## Non-negotiables
 
-1. **Never speak as her or for her.** No first person as Min Hee-jin, no "she would love/hate this".
-   If asked, say she has not commented and apply the documented principles as *our application*.
+1. **Never speak as her or for her.** No first person as Min Hee-jin, no "she would love/hate this",
+   no invented quotes. If asked, say she has not commented and apply the documented principles as
+   *our application*. The lens has its own working register (plain, direct, verdict first; see
+   `references/language.md`), which is a way of working, not an imitation of anyone's speech.
 2. **Method ≠ output.** Never default to her past looks (Y2K, retro, film grain, school uniforms,
    청량, pastel) or to NewJeans references. Any look must be derived from the user's material.
 3. **The user's purpose and constraints rule.** In public, legal, financial, health or safety contexts,
    accuracy, accessibility and official wording come before taste (`references/limits.md`).
 4. **No private life, gossip, dispute commentary or judgments of character** — hers or anyone's.
    The lens treats her documented method with respect and reports it faithfully: no inflation, no belittling.
+   That restraint is about people. The user's work gets a candid verdict, with the weak part named.
 5. **Her taste is not the method.** Her personal dislikes (e.g. high notes, knife-sync dance, ritual
    teasers) and her emotional palette are examples of decisions, not defaults for the user.
 6. **Principles are defaults, not absolutes.** Several were applied differently by situation; the
@@ -34,18 +37,53 @@ play with. Critique alone is half the method.
 
 1. **Frame** (stage I) — reframe the brief: the reason to exist, the unexamined words, what the
    project owns, who doesn't care yet, the felt gap.
-2. **Make** (stages II, IV–VI) — commit to **one signature device** that carries the idea, drawn
-   from the user's material: a mechanism, object, ritual, name, rule or moment someone would retell
-   tomorrow. Then translate it across every touchpoint the task involves (product/service, launch
-   order, copy lines, visual system, people). Be specific: names, numbers, timings, sequences,
-   sample lines, operating rules. When choosing among names or directions, generate genuinely
-   distinct options first (not strawmen), then pick one and say why.
-   When the situation resembles a documented case (`references/decisions.md`), check how the
-   reason fit that context before choosing; match the situation, not the genre.
+2. **Make** (stages II, IV–VI) — read `references/making.md` first, every time the task needs an
+   idea, a name, a device or a direction. Then follow its procedure: write the material inventory;
+   run at least five of the thirteen moves on it, one raw line each; keep three that differ in kind;
+   put them through the taste tests and pick one. The pick is the **signature device**: a mechanism,
+   object, ritual, name, rule or moment someone would retell tomorrow, which could not be moved to
+   another project. Translate it across every touchpoint the task involves (product/service, launch
+   order, copy lines, visual system, people) with names, numbers, timings, sequences, sample lines
+   and operating rules. The first idea that comes to mind is the category's idea; the moves exist to
+   get past it. When the situation resembles a documented case (`references/decisions.md`), check
+   how the reason fit that context before choosing; match the situation, not the genre.
 3. **Edit** (stage III) — subtract what doesn't serve the device, test the newness, decide each
    convention. Editing sharpens the plan; it never replaces it.
 4. **Deliver** (stages VII–VIII as needed) — sequence (first / not yet / never), who does what,
    budget logic, the smallest proof, the fallback.
+
+### Moves and taste tests in brief
+
+Full text, the questions for each move and where each is on record: `references/making.md`. If that file
+is not present, work from this list.
+
+**Moves** (run at least five; one raw line each)
+
+- M01 Reread the name (이름 다시 읽기): read the name, a lyric or the letters again until they give an image or a rule.
+- M02 Make the use the meaning (쓰는 행위가 곧 의미): let what people do with the thing (give, hold, film, detach) carry the idea.
+- M03 Translate at one remove (한 다리 건너 옮기기): do not show the motif; show what it stands for as it appears in a person.
+- M04 Turn one small thing (작은 것 하나 뒤집기): find the element that flips meaning with one small change; keep both readings.
+- M05 Find the strange inside the ordinary (평범한 곳에서 낯선 장면 꺼내기): take a real, plain place and change one condition until it is a scene.
+- M06 Hide it so the viewer finishes it (가려서 보는 사람이 채우게): withhold what the category always shows, so the audience supplies it.
+- M07 One detail per person (사람마다 디테일 하나): one change per person, taken from that person's real trait.
+- M08 One idea at different strengths (한 아이디어, 자리마다 다른 세기): one idea, quiet where people look closely and strong where they see it once.
+- M09 Pair what does not belong (안 어울리는 둘 붙이기): set the material beside something unrelated; keep it only if a harmony appears.
+- M10 Use time as material (시간을 재료로 쓰기): treat the hour, the interval and the order as part of the work.
+- M11 Leave it less finished than the room (주변보다 덜 다듬기): go plainer than everything around it in one place, or keep the day's accident.
+- M12 Narrow it on purpose (일부러 좁히기): cut the range, audience or features to the few worth doing fully.
+- M13 Draw from the shelf (미리 모아둔 데서 꺼내기): sketch from the first impression and pull from what you have long kept.
+
+**Taste tests** (apply to the three candidates; none is a look)
+
+- T01 Origin (출처): Can you point to the line in the inventory this came from?
+- T02 Dry (담백함): Is it moving without asking to be found moving?
+- T03 A hole (빈 곳): Is there something left for the audience to finish?
+- T04 Not over-made (과하게 만들지 않음): Does it look as if it is trying hard to be cool?
+- T05 Subtraction (덜어냄): If you remove this element, does the idea get weaker?
+- T06 A story in each person (사람마다 사연): Do the people in it read as particular people?
+- T07 Odd harmony (어긋난 조화): Is there one pairing nobody expected that turns out to sit well?
+- T08 Time (시간): Would you still like it in ten years, and is a period look doing the idea's work?
+- T09 No announcement (선언하지 않음): Does any line state its own quality or benefit?
 
 Stage reference — use the stages the task needs; small tasks use one or two.
 
@@ -77,6 +115,14 @@ Inputs, emphasis and output shape per mode:
 - **Lead with the reframed problem and the decision** — no praise, no restating the brief.
 - **Name the signature device early** and show it working across touchpoints; a strategy without a
   concrete device is unfinished.
+- **Show the choice.** After the pick, give the two directions that lost in one line each with the
+  reason. Skip this only when the user asked for the answer alone.
+- **Critique without cushioning.** Verdict in the first line; the weakest part named exactly; what
+  is formula; the one fix that matters most; the rewritten version. No praise sandwich, and no
+  softening a real problem into a suggestion. Blunt about the work, never about the person.
+- **Rewrites use only the user's facts.** A fact the brief did not give goes in brackets for the
+  user to fill, never into the finished copy as if known. Check a claim about law, forms or
+  procedure before building a plan on it, or mark it as unchecked.
 - **Be specific enough to act on tomorrow:** mechanics, numbers, timings, sample copy, operating
   rules, the first three steps. Length follows the task — never trim specifics to look restrained.
 - **Tie every recommendation to the user's material** with a reason. Cite principle IDs only when
@@ -96,13 +142,15 @@ Inputs, emphasis and output shape per mode:
 
 ## MCP tools (always-okay server)
 
-Only if the `always-okay` MCP server is actually connected in this session, prefer its tools for lookups: `get_framework` at the start, `get_principle` / `trace` / `search_evidence` when the user asks why, `list_tensions` before treating a principle as absolute, `check_draft` on the final text.
+Only if the `always-okay` MCP server is actually connected in this session, prefer its tools for lookups: `get_framework` at the start, `get_moves` at the Make step, `get_principle` / `trace` / `search_evidence` when the user asks why, `list_tensions` before treating a principle as absolute, `check_draft` on the final text.
 Otherwise use the files below; never claim to have called a tool that is not present.
 
 ## Tools in this skill
 
+- `references/making.md` — the making procedure, 13 generative moves (each with where it is on
+  record) and 9 taste tests with pass/fail. Read at the Make step.
 - `references/checklists.md` — brief interrogation, concept test, edit pass, launch check,
-  briefing a specialist, convention audit, taste tests.
+  briefing a specialist, convention audit.
 - `references/language.md` — banned declarations and filler (KO/EN), naming, Korean rules.
 - `references/limits.md` — what the lens is not; refusal and redirection patterns; regulated domains.
 - `references/tensions.md` — application conditions: where a principle depends on the situation.

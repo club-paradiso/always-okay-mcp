@@ -39,6 +39,7 @@ def test_check_draft_flags():
 def test_modes_and_checklists():
     assert len(s.get_mode()["modes"]) == 10
     assert "Signature device test" in s.get_checklist("signature")
+    assert "T01" in s.get_checklist("taste")
 
 
 def test_openai_search_fetch():
@@ -47,3 +48,27 @@ def test_openai_search_fetch():
     d = s.fetch(r["results"][0]["id"])
     assert {"id", "title", "text", "url", "metadata"} <= set(d) and d["text"]
     assert s.fetch("nope")["title"] == "not found"
+
+
+def test_moves_resolve_and_are_searchable():
+    all_ = s.get_moves()
+    assert len(all_["procedure"]) == 5 and len(all_["moves"]) == 13 and len(all_["taste"]) == 9
+    for m in all_["moves"]:
+        full = s.get_moves(m["id"])
+        assert len(full["instances"]) >= 2 and all(i["source"] and i["note_id"] for i in full["instances"]), m["id"]
+        assert all("rule" in s.get_principle(p) for p in full["principles"]), m["id"]
+    for x in all_["taste"]:
+        assert s.get_moves(x["id"].lower())["evidence"], x["id"]
+    assert "error" in s.get_moves("M99")
+    ids = [r["id"] for r in s.search("reread the name letters initials")["results"]]
+    assert "move:M01" in ids
+    assert s.fetch("taste:T02")["metadata"]["type"] == "taste_test"
+
+
+def test_added_notes_point_at_real_sources_and_principles():
+    notes = [n for n in s._data("notes.json") if n.get("added") == "v1.3"]
+    assert len(notes) == 10
+    src = s._sources()
+    for n in notes:
+        assert src[n["source_id"]]["url"].startswith("https://") and not n["dispute_context"]
+        assert all("rule" in s.get_principle(p) for p in n["principles"])

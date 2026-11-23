@@ -1,0 +1,236 @@
+{
+ "version": "1.3",
+ "purpose": "The making layer. Thirteen generative moves read out of documented decisions, and nine taste tests read out of documented statements of preference. A move is a way of producing an idea from the user's own material; an instance shows where the move is on record, never what the user's idea should look like.",
+ "procedure": [
+  {"step": "Inventory", "do": "Write the material down before any idea: the name and its letters, the core activity, the main object, the people and their real traits, the place, the hour, the constraint. Seven short lines. Ideas come from this list, not from a reference board."},
+  {"step": "Run moves", "do": "Run at least five different moves on the inventory and write one raw idea per move in one line. Aim for ten. Do not judge yet; a bad line often points at the good one."},
+  {"step": "Cut to three", "do": "Keep three that differ in kind: a different move and a different place where the idea lives (the object, the order of events, the name, a rule people follow). Three versions of one idea count as one."},
+  {"step": "Pick one", "do": "Put the three through the taste tests. Pick one, give the reason in a sentence, and say in a line each why the other two lost. Show the user the three and the pick unless they asked for the answer only."},
+  {"step": "Build it", "do": "Carry the picked idea into every touchpoint the task has, with numbers, timings, sample lines and operating rules. An idea that has not changed the product, the order or the words is still a slogan."}
+ ],
+ "moves": [
+  {
+   "id": "M01", "name": "Reread the name", "ko": "이름 다시 읽기",
+   "move": "Take the name, a lyric, a keyword or the letters themselves and read them again until they yield an image or a rule that nobody has used yet.",
+   "ask": ["What does the name literally say if read by someone who has never heard it?", "What shape do the letters or initials make?", "Which word in the project's own text has been treated as a label and never as an instruction?"],
+   "instances": [
+    {"note": "MHJ-EV-00009", "what": "A group name meaning light reread as the one who receives light, which set the colour logic."},
+    {"note": "MHJ-EV-00542", "what": "Two initials resolved into a face that stands for members and fans."},
+    {"note": "MHJ-EV-00062", "what": "A debut concept taken from one word in the song's own lyrics."},
+    {"note": "MHJ-EV-00311", "what": "A music company's mark built from an empty staff."}
+   ],
+   "principles": ["P03", "P18"],
+   "misuse": "A pun that needs explaining. If the reading does not land at once, drop it."
+  },
+  {
+   "id": "M02", "name": "Make the use the meaning", "ko": "쓰는 행위가 곧 의미",
+   "move": "Find what people physically do with the thing (give it, hold it, film with it, take a part off) and make that act carry the idea, so the idea is performed and never announced.",
+   "ask": ["What does a person do with this in the first ten seconds?", "Could that act be the message?", "If a partner wants a feature shown, can the feature become the means of making the work?"],
+   "instances": [
+    {"note": "MHJ-EV-00016", "what": "An album defined as a gift, with the same gift logic running through concept, shoot, set and design."},
+    {"note": "MHJ-EV-00228", "what": "A request to showcase a camera feature turned into shooting the main video on the phone."},
+    {"note": "MHJ-EV-00542", "what": "A symbol with removable parts so each holder makes their own."},
+    {"note": "MHJ-EV-00658", "what": "A design writer's later reading: partners were pulled into the act's world, not the reverse."}
+   ],
+   "principles": ["P19", "P23"],
+   "misuse": "A gimmick bolted on. If the act would be the same for any other project, it is not this project's idea."
+  },
+  {
+   "id": "M03", "name": "Translate at one remove", "ko": "한 다리 건너 옮기기",
+   "move": "Do not show the motif. Ask what it stands for, then what that feels like in a person, and show that. Two steps away from the obvious image is usually where the usable one is.",
+   "ask": ["What is the obvious image?", "What quality does it stand for?", "Where does that quality show up in an ordinary person or moment?"],
+   "instances": [
+    {"note": "MHJ-EV-00024", "what": "An animal motif carried forward as a quality, then as a boy's feeling, told plainly in a school setting."},
+    {"note": "MHJ-EV-00197", "what": "References kept as accumulated feeling, with an explicit instruction not to copy any scene."},
+    {"note": "MHJ-EV-00628", "what": "A choreography brief given as one image of scattered petals forming a flower, left for the choreographer to realise."}
+   ],
+   "principles": ["P08", "P24"],
+   "misuse": "Going so far that the link is lost. Someone should be able to trace it back in one sentence."
+  },
+  {
+   "id": "M04", "name": "Turn one small thing", "ko": "작은 것 하나 뒤집기",
+   "move": "Find the element that changes meaning completely with one small alteration, and build on the two readings sitting in the same object.",
+   "ask": ["What here is harmless from one side and serious from the other?", "What single change (an expression, a word, a setting) flips the reading?", "Can both readings stay visible?"],
+   "instances": [
+    {"note": "MHJ-EV-00176", "what": "A dangerous animal that becomes a child's toy with a small change of expression, to carry a word's two meanings."},
+    {"note": "MHJ-EV-00230", "what": "A track and video kept bright on the surface and different underneath."},
+    {"note": "MHJ-EV-00378", "what": "A phrase printed to read as a statement and as a question."}
+   ],
+   "principles": ["P09"],
+   "misuse": "Irony as a pose. The second reading has to be true of the material."
+  },
+  {
+   "id": "M05", "name": "Find the strange inside the ordinary", "ko": "평범한 곳에서 낯선 장면 꺼내기",
+   "move": "Use a real, plain place or situation and change one condition (who is there, how still they are, what they ignore) until it becomes a scene. No built set, no fantasy backdrop.",
+   "ask": ["Which everyday place does this project already belong to?", "What one thing out of place would make a passer-by stop?", "What should the people in it not react to?"],
+   "instances": [
+    {"note": "MHJ-EV-00174", "what": "Surreal images taken from real, existing places; an unplanned moment kept because it gave the natural result wanted."},
+    {"note": "MHJ-EV-00179", "what": "A street shoot aimed at the feeling of meeting someone you like in your own neighbourhood, with the subjects asked to be indifferent."}
+   ],
+   "principles": ["P09", "P27"],
+   "misuse": "Staged quirkiness. If it needs props brought in, it is a set again."
+  },
+  {
+   "id": "M06", "name": "Hide it so the viewer finishes it", "ko": "가려서 보는 사람이 채우게",
+   "move": "Remove or withhold the thing everyone expects to be shown, so the audience supplies it. What is withheld must be something they can fill in or go and find.",
+   "ask": ["What does this category always show first?", "What happens if that is absent or covered?", "What will people do to fill the gap, and is that enjoyable?"],
+   "instances": [
+    {"note": "MHJ-EV-00056", "what": "Faces hidden in one chapter and erased in the next, so each viewer's own image of the group stands in."},
+    {"note": "MHJ-EV-00010", "what": "A cover treated as a symbol, with the face question set aside."},
+    {"note": "MHJ-EV-00531", "what": "Member details withheld at a debut so people rewatched and searched."},
+    {"note": "MHJ-EV-00657", "what": "A critic's later reading: with no storyline to decode, people outside the fandom could enter."}
+   ],
+   "principles": ["P13", "P22"],
+   "misuse": "Withholding price, terms, safety or access information, or teasing with nothing behind it."
+  },
+  {
+   "id": "M07", "name": "One detail per person", "ko": "사람마다 디테일 하나",
+   "move": "Change one thing per person, chosen from that person's real trait, and hold everything else steady. A trait others call a weakness is a candidate.",
+   "ask": ["What is true of each person that the usual treatment flattens?", "What is the smallest visible change that carries it?", "Which supposed flaw is in fact the signature?"],
+   "instances": [
+    {"note": "MHJ-EV-00041", "what": "A single signature detail per member on a shared base."},
+    {"note": "MHJ-EV-00645", "what": "A collaborator's account: his slow manner was treated as his signature."},
+    {"note": "MHJ-EV-00129", "what": "Her stated thread: each person in the frame should look as if they have their own story."}
+   ],
+   "principles": ["P03", "P25"],
+   "misuse": "Assigning a character from outside. The detail is found in the person, not handed to them."
+  },
+  {
+   "id": "M08", "name": "One idea at different strengths", "ko": "한 아이디어, 자리마다 다른 세기",
+   "move": "Keep one idea and set its strength per channel: quiet where people look closely, strong where they see it once from far away.",
+   "ask": ["Where is this met up close and slowly?", "Where is it met once, fast?", "What is the mildest and the strongest true version of the idea?"],
+   "instances": [
+    {"note": "MHJ-EV-00046", "what": "A lyrical version of an idea on the jacket and a stronger one on stage."},
+    {"note": "MHJ-EV-00174", "what": "Two photo tones and two album designs for one release."}
+   ],
+   "principles": ["P06", "P10"],
+   "misuse": "Different ideas per channel. The reason stays the same; only the strength moves."
+  },
+  {
+   "id": "M09", "name": "Pair what does not belong", "ko": "안 어울리는 둘 붙이기",
+   "move": "Put the material next to something from an unrelated place, period or register and keep the pairing only if an unexpected harmony appears.",
+   "ask": ["What is furthest from this category that I still like on its own?", "What happens when the two share one frame, one sentence, one object?", "Is the result a harmony or only a contrast?"],
+   "instances": [
+    {"note": "MHJ-EV-00198", "what": "A sequence built around an obscure song from another country and era, for the pull of an odd combination."},
+    {"note": "MHJ-EV-00075", "what": "A stated liking for mixing completely different designs for the harmony they produce."},
+    {"note": "MHJ-EV-00654", "what": "A writer's later reading of one video: current sound against imagery from another period."}
+   ],
+   "principles": ["P09", "P08"],
+   "misuse": "Random collision, or reaching for a period look. The pairing must be explainable from the material."
+  },
+  {
+   "id": "M10", "name": "Use time as material", "ko": "시간을 재료로 쓰기",
+   "move": "Treat the hour, the interval and the order as part of the work. Give each release its own moment and a reason for it.",
+   "ask": ["What hour or date belongs to this project?", "What should be met first, and what last?", "What interval keeps attention without wearing it out?"],
+   "instances": [
+    {"note": "MHJ-EV-00170", "what": "Each teaser's moment, order and intended small reaction calculated."},
+    {"note": "MHJ-EV-00533", "what": "A video order planned for a specific reaction, starting with the last track's teaser."},
+    {"note": "MHJ-EV-00079", "what": "A launch released as many short pieces at a fixed interval."},
+    {"note": "MHJ-EV-00082", "what": "A launch time printed on apparel before any explanation."}
+   ],
+   "principles": ["P21", "P22"],
+   "misuse": "Copying a count or an interval. Density follows how much attention already exists."
+  },
+  {
+   "id": "M11", "name": "Leave it less finished than the room", "ko": "주변보다 덜 다듬기",
+   "move": "Look at how polished everything around it is and go plainer on purpose in one place, or keep the accident that happened on the day.",
+   "ask": ["What is the standard finish in this setting?", "Where would a plain, default treatment make people ask what this is?", "What unplanned thing happened that is better than the plan?"],
+   "instances": [
+    {"note": "MHJ-EV-00290", "what": "A pre-debut billboard set in a rough default typeface among glossy ones."},
+    {"note": "MHJ-EV-00050", "what": "On-set improvisations kept because they produced something the group alone had."},
+    {"note": "MHJ-EV-00294", "what": "A stated preference for early clumsiness over work that is dense and professional from the start."}
+   ],
+   "principles": ["P05", "P27"],
+   "misuse": "Sloppiness, or a faked rough look. In anything people must read to act (prices, forms, safety), stay clear."
+  },
+  {
+   "id": "M12", "name": "Narrow it on purpose", "ko": "일부러 좁히기",
+   "move": "Cut the range, the audience or the feature list down to the few things worth doing fully, and say no to the category's standard extra.",
+   "ask": ["What are the two things this could be only?", "Which standard add-on exists to inflate numbers?", "Who is this deliberately not for at first?"],
+   "instances": [
+    {"note": "MHJ-EV-00058", "what": "A shop planned with a deliberately narrow range, widened only when demand asked."},
+    {"note": "MHJ-EV-00102", "what": "No randomised inserts, to see how far the work alone could go."},
+    {"note": "MHJ-EV-00180", "what": "Subtraction toward one image complete on its own."}
+   ],
+   "principles": ["P12", "P20"],
+   "misuse": "Narrowing with no attention to stand on. Check how the first people will find it."
+  },
+  {
+   "id": "M13", "name": "Draw from the shelf", "ko": "미리 모아둔 데서 꺼내기",
+   "move": "Keep a running store of things you like for no assigned purpose, and when the material arrives, sketch the whole from its first impression and pull from the store what fits.",
+   "ask": ["What did the material make me picture in the first minute?", "What have I been keeping that this finally suits?", "What would I want to own myself?"],
+   "instances": [
+    {"note": "MHJ-EV-00222", "what": "Demos collected for years before the group had a name."},
+    {"note": "MHJ-EV-00499", "what": "Video and album design sketched quickly after first hearing the title song, from one symbolic object."},
+    {"note": "MHJ-EV-00447", "what": "A director's account: she passed on the single image she pictured on first hearing, as optional."}
+   ],
+   "principles": ["P07"],
+   "misuse": "Forcing a saved idea onto material it does not fit."
+  }
+ ],
+ "taste": [
+  {
+   "id": "T01", "name": "Origin", "ko": "출처",
+   "test": "Can you point to the line in the inventory this came from?",
+   "pass": "The idea would stop making sense if moved to another project.",
+   "fail": "It came from a reference board and would fit any client.",
+   "evidence": ["MHJ-EV-00289", "MHJ-EV-00043"]
+  },
+  {
+   "id": "T02", "name": "Dry", "ko": "담백함",
+   "test": "Is it moving without asking to be found moving?",
+   "pass": "A fact, an act or an object that people can feel something about on their own. Example of ours: \"문 닫기 10분 전에도 주문 받습니다.\"",
+   "fail": "It tells people what to feel. Example of ours: \"따뜻한 위로를 전합니다.\"",
+   "evidence": ["MHJ-EV-00272", "MHJ-EV-00412"]
+  },
+  {
+   "id": "T03", "name": "A hole", "ko": "빈 곳",
+   "test": "Is there something left for the audience to finish?",
+   "pass": "One thing is unexplained and people can work it out or read it their own way.",
+   "fail": "Everything is explained, labelled and closed.",
+   "evidence": ["MHJ-EV-00293", "MHJ-EV-00187", "MHJ-EV-00192"]
+  },
+  {
+   "id": "T04", "name": "Not over-made", "ko": "과하게 만들지 않음",
+   "test": "Does it look as if it is trying hard to be cool?",
+   "pass": "Something in it is plain, awkward or left as it happened.",
+   "fail": "Every surface is dense and polished; the effort is the first thing you see.",
+   "evidence": ["MHJ-EV-00294", "MHJ-EV-00297"]
+  },
+  {
+   "id": "T05", "name": "Subtraction", "ko": "덜어냄",
+   "test": "If you remove this element, does the idea get weaker?",
+   "pass": "Every remaining element would be missed.",
+   "fail": "Decoration that could go with no loss.",
+   "evidence": ["MHJ-EV-00180", "MHJ-EV-00313"]
+  },
+  {
+   "id": "T06", "name": "A story in each person", "ko": "사람마다 사연",
+   "test": "Do the people in it read as particular people?",
+   "pass": "Each person shown or addressed has one trait of their own.",
+   "fail": "Interchangeable faces, a persona, a demographic.",
+   "evidence": ["MHJ-EV-00129", "MHJ-EV-00182"]
+  },
+  {
+   "id": "T07", "name": "Odd harmony", "ko": "어긋난 조화",
+   "test": "Is there one pairing nobody expected that turns out to sit well?",
+   "pass": "Two unlike things that make a third feeling together.",
+   "fail": "Everything matches, or things clash with no resolution.",
+   "evidence": ["MHJ-EV-00198", "MHJ-EV-00075"]
+  },
+  {
+   "id": "T08", "name": "Time", "ko": "시간",
+   "test": "Would you still like it in ten years, and is a period look doing the idea's work?",
+   "pass": "The feeling would hold with the period styling removed.",
+   "fail": "Take away the era costume and nothing is left.",
+   "evidence": ["MHJ-EV-00085", "MHJ-EV-00219"]
+  },
+  {
+   "id": "T09", "name": "No announcement", "ko": "선언하지 않음",
+   "test": "Does any line state its own quality or benefit?",
+   "pass": "The name lands at once and the copy shows what a person sees, holds or does.",
+   "fail": "Adjectives of value, or a name that needs a footnote.",
+   "evidence": ["MHJ-EV-00428", "MHJ-EV-00387"]
+  }
+ ]
+}

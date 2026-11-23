@@ -29,19 +29,22 @@ Working checklists derived from the principles (IDs in brackets). Use the one th
 
 ## Signature device test [P06, P19, P21, P23]
 - Is there one concrete device (object, mechanism, ritual, name, rule, moment) that carries the idea?
+- Was it picked from three directions that differ in kind, produced by different moves (`making.md`)? Is it the category's first idea?
 - Does it come from the user's material, not from a style or a past case?
 - Would someone retell it tomorrow in one sentence?
 - Does it appear in the product/service itself, in the launch order, in the copy and in the visuals?
 - Is it specified enough to build: who, what, when, how many, what it says?
+- Can the people and budget in the brief actually run it every day? Does it expose anything the owner would not want public (takings, personal data)?
 
 ## Edit pass (critique) [P12–P14, P16, P18, P28]
-1. Verdict first, in one line.
-2. What works, briefly and specifically (no praise words).
+1. Verdict first, in one line. Say plainly whether it works.
+2. What works, briefly and specifically (no praise words). If nothing does, say so.
 3. What is formula or inertia: conventions kept without a reason; cosmetic newness.
 4. What to subtract (list). Where is the gap the audience can enter?
 5. Which visible elements carry no meaning?
 6. Does anything declare its own quality or benefit? Rewrite to show it.
-7. The single highest-leverage fix.
+7. The single highest-leverage fix, then the rewritten version.
+8. Blunt about the work, never about the person who made it.
 
 ## Launch plan check [P21–P23, P20, P04]
 - First encounter: what is met first, through which sense, at what hour, in what setting? Why?
@@ -65,5 +68,6 @@ List the category's reflex moves. For each: keep (reason) · drop (reason) · ch
 Never drop conventions that exist for accessibility, safety, law or trust.
 
 ## Taste tests (not looks)
-Origin · mismatch · balance · subtraction · gap · density · meaning · newness · time · declaration.
-See the questions in each section above. Taste is applied as tests to the user's material; no look is a default.
+Origin · dry · a hole · not over-made · subtraction · a story in each person · odd harmony · time · no announcement.
+Each has a question and a pass/fail line in `making.md` (T01–T09; MCP: `get_moves`). Taste is applied as tests to
+the user's material; no look is a default.

@@ -1,8 +1,8 @@
 # always-okay
 
-**A creative-direction lens reconstructed from 125 public records of Min Hee-jin's professional work**
+**A creative-direction lens reconstructed from 157 public records of Min Hee-jin's professional work**
 (interviews, talks, credits and collaborator accounts, 2002–2026), **that you can plug into ChatGPT,
-Claude or Codex.** 32 principles, each traced to its sources. It helps you turn a
+Claude or Codex.** 32 principles and 13 idea-making moves, each traced to its sources. It helps you turn a
 rough brief into a sharp concept, a brand idea, a launch plan or an honest critique — and it can show
 you the public evidence behind every piece of advice.
 
@@ -116,6 +116,7 @@ Local (stdio): `uvx --from git+https://github.com/club-paradiso/always-okay-mcp 
 | `trace` | Principle or claim → evidence notes → public sources (URLs, dates) |
 | `list_tensions` | Contradictions and myths the lens keeps open |
 | `get_mode` | 10 working modes (strategist, creative director, critic, launch director, …) |
+| `get_moves` | The making layer: 5-step procedure, 13 generative moves with the notes where each is on record, 9 taste tests with pass/fail |
 | `get_checklist` | Brief, concept, signature-device, edit, launch, briefing, convention, taste, language, limits |
 | `check_draft` | Deterministic lint (KO/EN): declared quality, filler, template phrasing, borrowed tropes, persona leaks |
 | `search`, `fetch` | OpenAI-connector-compatible search over principles, notes, tensions and checklists |
@@ -141,7 +142,8 @@ uv sync && uv run pytest -q && uv run python tests/stdio_smoke.py
 
 ## How it was made, and how well it works
 32 principles of creative direction, each traced through claims and paraphrased evidence notes to
-public sources (125 sources, 598 notes, 164 claims, 44 documented tensions).
+public sources (157 sources, 648 notes, 164 claims, 44 documented tensions). Since v0.3 a making layer sits on
+top: 13 generative moves and 9 taste tests, each tied to the notes where it is on record.
 
 In a blind evaluation on 30 creative-direction tasks, the lens (as a Claude Agent Skill) was ranked
 first on 26/30 and 25/30 cases by two independent judge panels, ahead of a strong generic
@@ -166,7 +168,7 @@ Code: MIT. Research data (principles, claims, paraphrased notes): CC BY 4.0. See
 ## 한국어: 처음 쓰는 분을 위한 사용법
 
 ### 이게 뭔가요?
-**민희진의 공개 인터뷰·강연·크레딧·협업자 증언 등 공개 기록 125건을 분석해 재구성한 크리에이티브 디렉션 도우미**입니다. ChatGPT나 Claude에 연결해서 씁니다. 원칙 32개는 모두 출처까지 추적할 수 있습니다. 대충 적은 기획을 선명한
+**민희진의 공개 인터뷰·강연·크레딧·협업자 증언 등 공개 기록 157건을 분석해 재구성한 크리에이티브 디렉션 도우미**입니다. ChatGPT나 Claude에 연결해서 씁니다. 원칙 32개와 아이디어를 만드는 방법 13가지는 모두 출처까지 추적할 수 있습니다. 대충 적은 기획을 선명한
 콘셉트, 브랜드 아이디어, 런칭 계획, 솔직한 크리틱으로 바꿔 줍니다. "왜 그렇게 추천해?"라고 물으면 그
 조언의 근거가 된 원칙과 공개 출처까지 보여 줍니다.
 
