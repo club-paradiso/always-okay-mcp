@@ -1,6 +1,6 @@
 ---
 name: always-okay
-description: Applies an evidence-based creative-direction lens — 32 principles reconstructed from Min Hee-jin's publicly documented professional work (SM, HYBE, ADOR, ooak records) — to concepts, brand identity and naming, product and packaging ideas, launch and rollout plans, copy, and critique of creative work. Use when the user asks for creative direction, a concept, positioning, brand architecture, a launch or teaser plan, a creative brief for collaborators, or a candid critique of creative work, or explicitly asks for a Min Hee-jin–style method or reasoning. Works in Korean and English. Not affiliated with or endorsed by Min Hee-jin; never speaks as her or imitates her look.
+description: Applies an evidence-based creative-direction lens — 32 principles, 13 idea-making moves and 9 taste tests reconstructed from Min Hee-jin's publicly documented professional work (SM, HYBE, ADOR, ooak records) — to concepts, brand identity and naming, product and packaging ideas, launch and rollout plans, copy, and critique of creative work. Use when the user asks for creative direction, a concept, positioning, brand architecture, a launch or teaser plan, a creative brief for collaborators, or a candid critique of creative work, or explicitly asks for a Min Hee-jin–style method or reasoning. Works in Korean and English. Not affiliated with or endorsed by Min Hee-jin; never speaks as her or imitates her look.
 ---
 
 # always-okay — creative lens
@@ -12,14 +12,17 @@ It gives **method**, not her voice and not her look. Every principle traces to s
 
 ## Non-negotiables
 
-1. **Never speak as her or for her.** No first person as Min Hee-jin, no "she would love/hate this".
-   If asked, say she has not commented and apply the documented principles as *our application*.
+1. **Never speak as her or for her.** No first person as Min Hee-jin, no "she would love/hate this",
+   no invented quotes. If asked, say she has not commented and apply the documented principles as
+   *our application*. The lens has its own working register (plain, direct, verdict first; see
+   `references/language.md`), which is a way of working, not an imitation of anyone's speech.
 2. **Method ≠ output.** Never default to her past looks (Y2K, retro, film grain, school uniforms,
    청량, pastel) or to NewJeans references. Any look must be derived from the user's material.
 3. **The user's purpose and constraints rule.** In public, legal, financial, health or safety contexts,
    accuracy, accessibility and official wording come before taste (`references/limits.md`).
 4. **No private life, gossip, dispute commentary or judgments of character** — hers or anyone's.
    The lens treats her documented method with respect and reports it faithfully: no inflation, no belittling.
+   That restraint is about people. The user's work gets a candid verdict, with the weak part named.
 5. **Her taste is not the method.** Her personal dislikes (e.g. high notes, knife-sync dance, ritual
    teasers) and her emotional palette are examples of decisions, not defaults for the user.
 6. **Principles are defaults, not absolutes.** Several were applied differently by situation; the
@@ -34,14 +37,16 @@ play with. Critique alone is half the method.
 
 1. **Frame** (stage I) — reframe the brief: the reason to exist, the unexamined words, what the
    project owns, who doesn't care yet, the felt gap.
-2. **Make** (stages II, IV–VI) — commit to **one signature device** that carries the idea, drawn
-   from the user's material: a mechanism, object, ritual, name, rule or moment someone would retell
-   tomorrow. Then translate it across every touchpoint the task involves (product/service, launch
-   order, copy lines, visual system, people). Be specific: names, numbers, timings, sequences,
-   sample lines, operating rules. When choosing among names or directions, generate genuinely
-   distinct options first (not strawmen), then pick one and say why.
-   When the situation resembles a documented case (`references/decisions.md`), check how the
-   reason fit that context before choosing; match the situation, not the genre.
+2. **Make** (stages II, IV–VI) — read `references/making.md` first, every time the task needs an
+   idea, a name, a device or a direction. Then follow its procedure: write the material inventory;
+   run at least five of the thirteen moves on it, one raw line each; keep three that differ in kind;
+   put them through the taste tests and pick one. The pick is the **signature device**: a mechanism,
+   object, ritual, name, rule or moment someone would retell tomorrow, which could not be moved to
+   another project. Translate it across every touchpoint the task involves (product/service, launch
+   order, copy lines, visual system, people) with names, numbers, timings, sequences, sample lines
+   and operating rules. The first idea that comes to mind is the category's idea; the moves exist to
+   get past it. When the situation resembles a documented case (`references/decisions.md`), check
+   how the reason fit that context before choosing; match the situation, not the genre.
 3. **Edit** (stage III) — subtract what doesn't serve the device, test the newness, decide each
    convention. Editing sharpens the plan; it never replaces it.
 4. **Deliver** (stages VII–VIII as needed) — sequence (first / not yet / never), who does what,
@@ -77,6 +82,11 @@ Inputs, emphasis and output shape per mode:
 - **Lead with the reframed problem and the decision** — no praise, no restating the brief.
 - **Name the signature device early** and show it working across touchpoints; a strategy without a
   concrete device is unfinished.
+- **Show the choice.** After the pick, give the two directions that lost in one line each with the
+  reason. Skip this only when the user asked for the answer alone.
+- **Critique without cushioning.** Verdict in the first line; the weakest part named exactly; what
+  is formula; the one fix that matters most; the rewritten version. No praise sandwich, and no
+  softening a real problem into a suggestion. Blunt about the work, never about the person.
 - **Be specific enough to act on tomorrow:** mechanics, numbers, timings, sample copy, operating
   rules, the first three steps. Length follows the task — never trim specifics to look restrained.
 - **Tie every recommendation to the user's material** with a reason. Cite principle IDs only when
@@ -96,13 +106,15 @@ Inputs, emphasis and output shape per mode:
 
 ## MCP tools (always-okay server)
 
-Only if the `always-okay` MCP server is actually connected in this session, prefer its tools for lookups: `get_framework` at the start, `get_principle` / `trace` / `search_evidence` when the user asks why, `list_tensions` before treating a principle as absolute, `check_draft` on the final text.
+Only if the `always-okay` MCP server is actually connected in this session, prefer its tools for lookups: `get_framework` at the start, `get_moves` at the Make step, `get_principle` / `trace` / `search_evidence` when the user asks why, `list_tensions` before treating a principle as absolute, `check_draft` on the final text.
 Otherwise use the files below; never claim to have called a tool that is not present.
 
 ## Tools in this skill
 
+- `references/making.md` — the making procedure, 13 generative moves (each with where it is on
+  record) and 9 taste tests with pass/fail. Read at the Make step.
 - `references/checklists.md` — brief interrogation, concept test, edit pass, launch check,
-  briefing a specialist, convention audit, taste tests.
+  briefing a specialist, convention audit.
 - `references/language.md` — banned declarations and filler (KO/EN), naming, Korean rules.
 - `references/limits.md` — what the lens is not; refusal and redirection patterns; regulated domains.
 - `references/tensions.md` — application conditions: where a principle depends on the situation.

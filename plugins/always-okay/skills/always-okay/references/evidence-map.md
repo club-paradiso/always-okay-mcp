@@ -47,7 +47,7 @@ Use this when the user asks *why* a principle holds or where it comes from. Para
 - **MHJ-CL-137** (directly stated, high): She starts a venture from a felt gap in the current scene, what is missing that people sense without naming, and expects consumers to recognise a real alternative, rather than from a reading of what is already succeeding.
   - Sources: 일간스포츠, 2023-09; 엑스포츠뉴스, 2025-12, dispute context; MoTV YouTube (@MoTVshow), 2026-05, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00636** (direct statement): Names pure intent and purpose as the key to good work. — 얼루어 코리아 (Allure Korea), 2013-09
 
@@ -62,6 +62,10 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-073** (directly stated, high): She avoids words that announce a benefit or impose a frame — 'healing', 'comfort', 'worldview', 'idol' as a job title — because naming the effect makes it condescending or fixed; she later revised her rejection of 'repaying fans with good work'.
   - Sources: 김영대의 School of Music (YouTube), 2024-10, dispute context; BE(ATTITUDE) (web magazine, Artist Proje, 2022-03; NHK MUSIC (YouTube); full interview from, 2024-02; MoTV YouTube (@MoTVshow), 2026-06, dispute context
 
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
+
+- **MHJ-EV-00658** (third party interpretation): A design writer observes that partner brands were pulled into the group's own world rather than the group simply appearing in the brands' campaigns (a phone-shot video, a soft-drink single whose video blurs ad and song, a sneaker spot restaging an earlier video scene), and calls the result commercial art. — Fast Company, 2024-03
+
 ## P03 Find the meaning the project already owns
 
 - **MHJ-CL-006** (reasonable inference, high): She locates meaning in something the project already owns (its name, initials, the organisation's core activity) and re-reads it, rather than importing an external theme.
@@ -71,7 +75,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-046** (directly stated, high): She builds the concept on the subject's actual, often under-shown traits - drawn from everyday conversation with them - rather than imposing a type, and treats an artist's unseen plain side as material.
   - Sources: 마이데일리, 2013-02; OSEN, 2013-09; 뉴시스, 2023-08; SPOTV NEWS, 2023-09; W Korea, 2014-08; NHK MUSIC (YouTube); full interview from, 2024-02
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00644** (collaborator account): V says he contacted Min first and shared even small details with her; the paper reports their concept brainstorming started from his habit of taking his time, which led to the title 'Layover'. — The Korea Herald (via Daum), 2023-09
 - **MHJ-EV-00645** (collaborator account): V says Min treated his unhurried speech and manner, which others might see as a weakness, as his signature trait, and that this helped him make the music he wanted. — 더팩트, 2023-09
@@ -89,6 +93,13 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-083** (directly stated, high): Her curiosity-led launches explicitly relied on attention and trust earned beforehand — her name drawing K-pop fans regardless, recruitment banners using her name, and teasers judged unnecessary because attention was already high.
   - Sources: YouTube (ANN news channel; not confirmed, 2024-10, dispute context; 김영대의 School of Music (YouTube), 2024-10, dispute context; SBS 바로 이 뉴스 (YouTube), 2024-04, dispute context; Korea JoongAng Daily, 2022-08
 
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
+
+- **MHJ-EV-00650** (third party interpretation): A film critic in his forties who says he kept his distance from idol culture reports buying an idol album package for the first time (a bag-shaped NewJeans package he says he cannot carry anywhere) and replaying the whole EP rather than only the lead single; he contrasts this with idol songs that depend on their performance. — 에스콰이어 코리아, 2022-09
+- **MHJ-EV-00655** (third party interpretation): A wire-service culture reporter reads the camera-holding character in 'Ditto' as the fandom and the video as a metaphor for a mutual fan-idol relationship that includes loss; the film comparisons are the reporter's own, and the article notes many viewers in their thirties and forties attached their own film memory to the title word. Critics cited say the song widened the audience beyond teenage idol fans. — 뉴시스, 2023-12
+- **MHJ-EV-00656** (third party interpretation): A Billboard K-pop columnist says the group released singles and videos gradually without teasers rather than building one loud launch moment, and that the debut EP's streams grew week over week where K-pop albums usually open big and decline. — The Korea Times, 2023-02
+- **MHJ-EV-00657** (third party interpretation): A music critic says the group set aside the genre's maximalism (forceful performance, dense electronic arrangements) and carried no fictional universe to decode, so listeners outside the fandom could enter without learning a storyline; he links part of the appeal to 1990s nostalgia, which is his reading. — The Korea Times, 2023-02
+
 ## P05 Position against the context; test newness for a reason
 
 - **MHJ-CL-137** (directly stated, high): She starts a venture from a felt gap in the current scene, what is missing that people sense without naming, and expects consumers to recognise a real alternative, rather than from a reading of what is already succeeding.
@@ -104,9 +115,11 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-068** (directly stated, high): She positions new work against the established house style on purpose, treating novelty as relational, but tests each 'new' move for its reason because newness for its own sake is inertia in disguise.
   - Sources: BE(ATTITUDE) (web magazine, Artist Proje, 2022-03; W Korea, 2014-08; GQ Korea, 2015-09; 연합뉴스, 2018-07; 마이데일리, 2013-02
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00633** (direct statement): Says she usually forms the overall picture from her first impression of the music; EXO's songs immediately suggested school and street, and because a uniform was fitting but not new, she gave it a classic treatment, since the first public image should provoke curiosity or surprise. — 얼루어 코리아 (Allure Korea), 2013-09
+- **MHJ-EV-00651** (third party interpretation): The critic reads the group's pull as contrast with the then-dominant 'girl crush' register and calls it the most indie-leaning output of the major industry, floating the phrase 'idol auteurism'; he adds reservations: a director's talent alone does not decide a project, the work reads as deliberate and built rather than spontaneous, and audience taste is fickle. — 에스콰이어 코리아, 2022-09
+- **MHJ-EV-00657** (third party interpretation): A music critic says the group set aside the genre's maximalism (forceful performance, dense electronic arrangements) and carried no fictional universe to decode, so listeners outside the fandom could enter without learning a storyline; he links part of the appeal to 1990s nostalgia, which is his reading. — The Korea Times, 2023-02
 
 ## P06 The concept is the whole experience
 
@@ -117,10 +130,12 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-074** (directly stated, high): She designs how work is presented at the same time as the work itself, treating promotion as an action that makes people experience something; launch mechanics are part of the concept, not a later marketing step.
   - Sources: NHK MUSIC (YouTube); full interview from, 2024-02; 연합뉴스, 2018-07; 김영대의 School of Music (YouTube), 2024-10, dispute context; 스타뉴스, 2026-02, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00611** (creative artifact): ADOR said the 'Attention' video, on a track co-produced by DJ 250, was shot in Spain, and that videos for all four album tracks would follow one by one. — The Korea Times, 2022-07
 - **MHJ-EV-00618** (creative artifact): The magazine notes that NewJeans' official website borrowed the interface design of early mobile phones, part of a debut identity spanning video, social media and web. — 하퍼스 바자 코리아, 2022-07
+- **MHJ-EV-00652** (third party interpretation): A music writer describes the f(x) 'Pink Tape' art film as a first for the genre and notes that the concept photos were stills continuing the film's story instead of a separate standard shoot; she names Min as the film's creative director. The film and painting comparisons she draws are her own reading. — Stereogum, 2024-07
+- **MHJ-EV-00659** (direct statement): Describes her path from graphic designer to creative director to producer as her weapon, because an image can be expressed in sound as well as in graphics; adds that business need not be cold and takes off when it connects with fans sincerely. — Fast Company, 2024-03
 
 ## P07 Derive the idea from the material's first impression
 
@@ -131,7 +146,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-004** (directly stated, high): She works as a storyteller with a standing bank of imagined scenarios and group images, and when material arrives she selects the stored idea that would be most interesting to tell with it.
   - Sources: 아이즈 (ize), 2014-07; OSEN, 2013-09; GQ Korea, 2022-12
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00620** (direct statement): Reports that she said on Instagram the CD-bag format came from a childhood memory of needing a bag to carry a CD player. — 서울신문, 2022-08
 - **MHJ-EV-00633** (direct statement): Says she usually forms the overall picture from her first impression of the music; EXO's songs immediately suggested school and street, and because a uniform was fitting but not new, she gave it a classic treatment, since the first public image should provoke curiosity or surprise. — 얼루어 코리아 (Allure Korea), 2013-09
@@ -159,6 +174,10 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-050** (directly stated, medium): She grounds fantasy in real, ordinary settings and strips performed expression from subjects, so images read as outside a particular time and place and the unreal sits inside the real.
   - Sources: 아이즈 (ize), 2014-07; omonatheydidnt (LiveJournal community), 2013-09
 
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
+
+- **MHJ-EV-00654** (third party interpretation): A poet writing for a film weekly locates the effect of 'Ditto' in a time gap: the newest-sounding music set against twentieth-century school imagery makes the performers current and remembered at once, and because the group was under a year old, viewers feel in advance the longing they would normally feel years later. The video's scenario is the director's own (CX-12). — 씨네21, 2023-02
+
 ## P10 Coherence from a consistent reason, not lore
 
 - **MHJ-CL-012** (directly stated, high): She builds coherence from a consistent reason or message expressed differently each time, not from constructed lore or a fixed visual form; she is openly averse to 'worldview' systems and prefers open premises that leave later developments free.
@@ -170,7 +189,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-067** (directly stated, high): She prefers brand systems with deliberate slack: each application may vary as long as it has sufficient reason, and a stable base principle (e.g. a group's core character) lets each release change its surface freely.
   - Sources: W Korea, 2014-08; 중앙일보, 2011-12; 이데일리, 2011-11; MoTV YouTube (@MoTVshow), 2026-06, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00622** (creative artifact): ADOR released two 'Ditto' videos that join into one story, made with Shin Woo-seok's studio, and framed the narrative as unfolding around the fandom and the group. — The Korea Herald (via Daum), 2022-12
 - **MHJ-EV-00637** (collaborator account): Member Luna says that because the previous album had also told a love story, the team chose to show the members' growth instead; the article does not say who led the planning. — 트윅24 (content credited to 연합뉴스), 2013-08
@@ -189,9 +208,10 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-143** (directly stated, high): She describes trends as cyclical while what people are instinctively drawn to stays constant, so she aims at durable, universal feelings and treats period resonance as a by-product, explicitly denying that retro is her target.
   - Sources: SBS 뉴스, 2022-09; 뉴스엔, 2024-01; NHK MUSIC (YouTube); full interview from, 2024-02; 경북도민일보 (News1 syndication), 2023-01; 오마이뉴스, 2013-03
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00627** (collaborator account): Performance director Kim Eun-ju says Min's starting direction for 'Super Shy' was to bring the past trend of the flash mob back in a modern form, which Kim then interpreted as a sleek rather than retro routine that looks hard but makes people want to try it. — 엑스포츠뉴스, 2023-07
+- **MHJ-EV-00654** (third party interpretation): A poet writing for a film weekly locates the effect of 'Ditto' in a time gap: the newest-sounding music set against twentieth-century school imagery makes the performers current and remembered at once, and because the group was under a year old, viewers feel in advance the longing they would normally feel years later. The video's scenario is the director's own (CX-12). — 씨네21, 2023-02
 
 ## P12 Subtract toward the essential; quality lives in execution
 
@@ -199,6 +219,10 @@ Accounts by others and records of the work (added v1.2):
   - Sources: W Korea, 2014-08; 한겨레, 2024-04, dispute context; 뉴시스, 2024-02; YouTube (Big Hit / HYBE official channel, 2021-03; NHK MUSIC (YouTube); full interview from, 2024-02; 마이데일리, 2015-11
 - **MHJ-CL-020** (directly stated, high): She locates quality in the density of execution rather than in the choice of form or the size of the budget: the same form can be cheap or refined depending on how densely it is made, and basic elements applied well decide a low-budget result.
   - Sources: 김영대의 School of Music (YouTube), 2024-10, dispute context; omonatheydidnt (LiveJournal community), 2013-09; 마이데일리, 2016-11
+
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
+
+- **MHJ-EV-00657** (third party interpretation): A music critic says the group set aside the genre's maximalism (forceful performance, dense electronic arrangements) and carried no fictional universe to decode, so listeners outside the fandom could enter without learning a storyline; he links part of the appeal to 1990s nostalgia, which is his reading. — The Korea Times, 2023-02
 
 ## P13 Intuitive is encoded, not literal
 
@@ -210,6 +234,10 @@ Accounts by others and records of the work (added v1.2):
   - Sources: GQ Korea, 2015-09; 아이즈 (ize), 2014-07; Casa BRUTUS, 2026-09, dispute context; YouTube, 2026-09, dispute context; MoTV YouTube (@MoTVshow), 2026-06, dispute context
 - **MHJ-CL-061** (reasonable inference, medium): Her stated target for audience effort moved over time: in the SM years she embraced work that is 'slightly unfriendly' and makes people think, while in the ADOR years she stressed removing burdensome elements and work that is decoded effortlessly; the refusal of sameness stayed constant.
   - Sources: 중앙일보, 2014-07; 아이즈 (ize), 2014-07; 한겨레, 2024-04, dispute context; 김영대의 School of Music (YouTube), 2024-10, dispute context; 뉴시스, 2024-02
+
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
+
+- **MHJ-EV-00655** (third party interpretation): A wire-service culture reporter reads the camera-holding character in 'Ditto' as the fandom and the video as a metaphor for a mutual fan-idol relationship that includes loss; the film comparisons are the reporter's own, and the article notes many viewers in their thirties and forties attached their own film memory to the title word. Critics cited say the song widened the audience beyond teenage idol fans. — 뉴시스, 2023-12
 
 ## P14 Every visible element carries meaning
 
@@ -227,7 +255,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-138** (directly stated, high): She rejects asserted 'success formulas': once a hit formula appears the industry repeats it until styles converge, and if such formulas worked everyone would succeed; she treats breaking the formula, including customary steps such as routine teasers, as part of the brief.
   - Sources: 뉴스엔, 2024-01; 한겨레, 2024-04, dispute context; BE(ATTITUDE) (web magazine, Artist Proje, 2022-04; Korea JoongAng Daily, 2022-08; 연합뉴스, 2018-07; KBS News (YouTube), 2024-05, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00610** (creative artifact): NewJeans released no pre-debut teasers: a music video came first, without the album title being revealed, and the debut album carried three lead singles. — The Korea Times, 2022-07
 - **MHJ-EV-00612** (documented decision): ADOR said it skipped the teaser stage and opened with a music video because the group name, line-up and debut date had all been kept secret; the reporter notes that a rookie's first content being a full video was unusual. — 뉴시스, 2022-07
@@ -274,7 +302,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-088** (directly stated, high): She assigns each asset its own job instead of making every asset chase the same metric: dance videos show choreography, official videos carry larger meaning, b-side footage gives fans intimacy, and a cover carries a symbolic role while portraits sit inside the package.
   - Sources: 한겨레, 2024-04, dispute context; KBS News (YouTube), 2024-05, dispute context; 연합뉴스, 2018-07; Hypebeast Korea, 2023-09
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00614** (creative artifact): The debut EP gave all four tracks a music video and presented three as joint title tracks, a format the reporter calls rare in Korea. — 뉴시스, 2022-07
 - **MHJ-EV-00618** (creative artifact): The magazine notes that NewJeans' official website borrowed the interface design of early mobile phones, part of a debut identity spanning video, social media and web. — 하퍼스 바자 코리아, 2022-07
@@ -284,6 +312,8 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-EV-00626** (collaborator account): Director Shin Woo-seok shot the whole 'ETA' video on iPhone, with members filming each other, and says shots and scenario were chosen around what the phone could capture (FaceTime, Action mode). — Korea JoongAng Daily (via Daum), 2023-07
 - **MHJ-EV-00640** (creative artifact): f(x)'s '4 Walls' rollout included a week-long Itaewon gallery pop-up, '[4 WALLS] AN EXHIBIT', where one member filled the four walls each day, plus cinemagraph motion teasers; the article credits no individual. — 텐아시아, 2015-10
 - **MHJ-EV-00649** (creative artifact): The 'Supernatural' CD came packaged with a bag in two styles (drawstring and cross-body) carrying Murakami's flowers and member illustrations, the bag format the debut EP had also used; a 'Right Now' teaser joined his flower motif to the earlier Powerpuff Girls styling. — Tokyo Art Beat, 2024-05
+- **MHJ-EV-00650** (third party interpretation): A film critic in his forties who says he kept his distance from idol culture reports buying an idol album package for the first time (a bag-shaped NewJeans package he says he cannot carry anywhere) and replaying the whole EP rather than only the lead single; he contrasts this with idol songs that depend on their performance. — 에스콰이어 코리아, 2022-09
+- **MHJ-EV-00658** (third party interpretation): A design writer observes that partner brands were pulled into the group's own world rather than the group simply appearing in the brands' campaigns (a phone-shot video, a soft-drink single whose video blurs ad and song, a sneaker spot restaging an earlier video scene), and calls the result commercial art. — Fast Company, 2024-03
 
 ## P20 Stated stance: earn through quality and keepsakes, not inflation tactics
 
@@ -298,7 +328,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-136** (directly stated, high): She criticises industry practices that make numbers unreadable, such as push-out sales, lucky-draw purchases and talk of success unsupported by real figures, and judges a business by retained profit and real demand rather than top-line revenue or hype.
   - Sources: SBS 바로 이 뉴스 (YouTube), 2024-04, dispute context; MoTV YouTube (@MoTVshow), 2026-05, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00619** (creative artifact): The debut EP was issued in three versions: a 'NewJeans Bag' CD-bag edition, a 'Bluebook' edition and a Weverse album edition. — 서울신문, 2022-08
 
@@ -315,7 +345,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-151** (directly stated, medium): She plans sequences backwards from the culminating event and designs where the peaks fall, for example preparing an album because a planned tour needs a secured setlist, and placing climaxes in set lists and cue sheets.
   - Sources: KBS News (YouTube), 2024-05, dispute context; MoTV YouTube (@MoTVshow), 2026-05, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00610** (creative artifact): NewJeans released no pre-debut teasers: a music video came first, without the album title being revealed, and the debut album carried three lead singles. — The Korea Times, 2022-07
 - **MHJ-EV-00611** (creative artifact): ADOR said the 'Attention' video, on a track co-produced by DJ 250, was shot in Spain, and that videos for all four album tracks would follow one by one. — The Korea Times, 2022-07
@@ -326,6 +356,8 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-EV-00625** (creative artifact): ADOR announced the six-track 'Get Up' EP with three joint title tracks again and a music video for every track, pre-releasing 'New Jeans' with a video made with The Powerpuff Girls. — Korea JoongAng Daily, 2023-06
 - **MHJ-EV-00638** (creative artifact): The Pink Tape art film released before the album used album track 'Shadow' rather than the title song. — 뉴시스, 2013-07
 - **MHJ-EV-00640** (creative artifact): f(x)'s '4 Walls' rollout included a week-long Itaewon gallery pop-up, '[4 WALLS] AN EXHIBIT', where one member filled the four walls each day, plus cinemagraph motion teasers; the article credits no individual. — 텐아시아, 2015-10
+- **MHJ-EV-00652** (third party interpretation): A music writer describes the f(x) 'Pink Tape' art film as a first for the genre and notes that the concept photos were stills continuing the film's story instead of a separate standard shoot; she names Min as the film's creative director. The film and painting comparisons she draws are her own reading. — Stereogum, 2024-07
+- **MHJ-EV-00656** (third party interpretation): A Billboard K-pop columnist says the group released singles and videos gradually without teasers rather than building one loud launch moment, and that the debut EP's streams grew week over week where K-pop albums usually open big and decline. — The Korea Times, 2023-02
 
 ## P22 Curiosity over pitch; the teaser is a tool, not a ritual
 
@@ -338,7 +370,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-083** (directly stated, high): Her curiosity-led launches explicitly relied on attention and trust earned beforehand — her name drawing K-pop fans regardless, recruitment banners using her name, and teasers judged unnecessary because attention was already high.
   - Sources: YouTube (ANN news channel; not confirmed, 2024-10, dispute context; 김영대의 School of Music (YouTube), 2024-10, dispute context; SBS 바로 이 뉴스 (YouTube), 2024-04, dispute context; Korea JoongAng Daily, 2022-08
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00610** (creative artifact): NewJeans released no pre-debut teasers: a music video came first, without the album title being revealed, and the debut album carried three lead singles. — The Korea Times, 2022-07
 - **MHJ-EV-00612** (documented decision): ADOR said it skipped the teaser stage and opened with a music video because the group name, line-up and debut date had all been kept secret; the reporter notes that a rookie's first content being a full video was unusual. — 뉴시스, 2022-07
@@ -346,6 +378,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-EV-00617** (creative artifact): The group's first public signal was a video on outdoor screens at Samseong-dong's K-Pop Square showing only 'ADOR girl group', 'Min Hee-jin girl group' and a date, ending with a rabbit breaking through a frame; name and line-up stayed undisclosed. — 뉴시스, 2022-07
 - **MHJ-EV-00624** (creative artifact): The 'Ditto' teaser, titled 'NewJeans 6', showed six figures running down a school corridor instead of five, leaving the extra person unexplained before release. — 마리끌레르 코리아, 2022-12
 - **MHJ-EV-00633** (direct statement): Says she usually forms the overall picture from her first impression of the music; EXO's songs immediately suggested school and street, and because a uniform was fitting but not new, she gave it a classic treatment, since the first public image should provoke curiosity or surprise. — 얼루어 코리아 (Allure Korea), 2013-09
+- **MHJ-EV-00656** (third party interpretation): A Billboard K-pop columnist says the group released singles and videos gradually without teasers rather than building one loud launch moment, and that the debut EP's streams grew week over week where K-pop albums usually open big and decline. — The Korea Times, 2023-02
 
 ## P23 Give the audience something to do
 
@@ -356,7 +389,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-097** (directly stated, high): She presents the real stage of an act's development and asks audiences to enjoy the gradation of growth, rejecting the demand for finished perfection from debut and treating each release as a report on where the artists now are.
   - Sources: 김영대의 School of Music (YouTube), 2024-10, dispute context; 한겨레, 2024-04, dispute context; 오마이뉴스, 2013-03; 스타뉴스, 2026-02, dispute context; MoTV YouTube (@MoTVshow), 2026-05, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00615** (creative artifact): The 'Hype Boy' video was released as an intro plus four versions in omnibus form, and the intro ended by letting viewers choose which member's version to watch next. — 뉴시스, 2022-07
 - **MHJ-EV-00627** (collaborator account): Performance director Kim Eun-ju says Min's starting direction for 'Super Shy' was to bring the past trend of the flash mob back in a modern form, which Kim then interpreted as a sleek rather than retro routine that looks hard but makes people want to try it. — 엑스포츠뉴스, 2023-07
@@ -372,7 +405,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-044** (directly stated, high): She briefs styling by explaining the target concept and naming the few anchor items that carry it, then iterates with the stylists who own execution; fit to the concept and to each member comes first and cost second.
   - Sources: omonatheydidnt (LiveJournal community), 2013-09; 디스패치, 2012-08; 오마이뉴스, 2013-03; 쿠키뉴스, 2014-08; NHK MUSIC (YouTube); full interview from, 2024-02
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00627** (collaborator account): Performance director Kim Eun-ju says Min's starting direction for 'Super Shy' was to bring the past trend of the flash mob back in a modern form, which Kim then interpreted as a sleek rather than retro routine that looks hard but makes people want to try it. — 엑스포츠뉴스, 2023-07
 - **MHJ-EV-00628** (collaborator account): Kim says that for 'Cool With You' Min said she liked the song's new feel and proposed contemporary dance with an image of five scattered petals forming one flower; Kim chose the genre and dropped hip-hop-based moves on that direction. — 엑스포츠뉴스, 2023-07
@@ -396,7 +429,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-152** (directly stated, high): Collaborators and her own accounts describe hands-on depth in projects she leads, from reviewing footage at dawn to testing lights and chairs and walking every seating area of a venue, which she frames as responsibility for something designed with intent rather than as micromanagement.
   - Sources: 조이뉴스24 (Joynews24), 2025-01, dispute context; W Korea, 2021-04; SPACE (VMSPACE) No. 644, 2021-07; 김영대의 School of Music (YouTube), 2024-10, dispute context; SBS 바로 이 뉴스 (YouTube), 2024-04, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00613** (documented decision): Reports that the debut sound used natural engineering that kept each member's own voice, with Min overseeing the whole process from member selection to choreography and producer 250 contributing to three of the four tracks. — 뉴시스, 2022-07
 - **MHJ-EV-00628** (collaborator account): Kim says that for 'Cool With You' Min said she liked the song's new feel and proposed contemporary dance with an image of five scattered petals forming one flower; Kim chose the genre and dropped hip-hop-based moves on that direction. — 엑스포츠뉴스, 2023-07
@@ -411,7 +444,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-156** (directly stated, high): She casts for alignment of mood and values and for budding potential rather than finished qualities, and composes a group of distinct, non-overlapping individuals designed as one whole so as to avoid needless internal competition.
   - Sources: NHK MUSIC (YouTube); full interview from, 2024-02; 뉴시스, 2024-02; 파이낸셜뉴스, 2025-11, dispute context; SBS 바로 이 뉴스 (YouTube), 2024-04, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00623** (creative artifact): 'Ditto' was described as made for the fandom, with lyrics co-written by member Minji with indie acts The Black Skirts and Oohyo; title song 'OMG' had been written while the debut album was being assembled. — The Korea Herald (via Daum), 2022-12
 - **MHJ-EV-00629** (collaborator account): NewJeans stylist Choi Yu-mi says she began preparing the group's styling direction under Min in 2020, their connection dating to SHINee's styling work around 2008, and that Min offered her the styling-director role. — W Korea, 2023-06
@@ -433,7 +466,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-051** (directly stated, high): She plans for and keeps the unplanned moment: on-set improvisation and accidents that deliver the intended feeling better than the plan are captured and kept, and she names the lack of improvisation as a weakness of over-trained production.
   - Sources: 오마이뉴스, 2013-03; 아이즈 (ize), 2014-07; MoTV YouTube (@MoTVshow), 2026-06, dispute context; 김영대의 School of Music (YouTube), 2024-10, dispute context; SBS 바로 이 뉴스 (YouTube), 2024-04, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00613** (documented decision): Reports that the debut sound used natural engineering that kept each member's own voice, with Min overseeing the whole process from member selection to choreography and producer 250 contributing to three of the four tracks. — 뉴시스, 2022-07
 - **MHJ-EV-00621** (documented decision): Reports that in recording she played songs to the members in listening sessions and asked their opinions rather than simply assigning tracks, and that vocals were recorded without a guide singer so each member could sing in her own way. — The Korea Herald, 2022-08
@@ -448,7 +481,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-149** (directly stated, medium): She describes her decision style as choosing the least-regret option at each moment and making work decisions clear and fast so as not to confuse others, while keeping the end goal in view to avoid short-term losses.
   - Sources: 김영대의 School of Music (YouTube), 2024-10, dispute context; KBS News (YouTube), 2024-05, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00632** (direct statement): Min is quoted as having said that people who are good at their work need only a clear direction and encouragement, and that agreeing on direction makes working together easy. — W Korea, 2023-06
 
@@ -463,7 +496,7 @@ Accounts by others and records of the work (added v1.2):
 - **MHJ-CL-150** (directly stated, high): She measures each project by whether it was her best within the time given, and holds that accurate understanding and concentration inside that time matter more than adding people.
   - Sources: omonatheydidnt (LiveJournal community), 2013-09; BE(ATTITUDE) (web magazine, Artist Proje, 2022-04; 김영대의 School of Music (YouTube), 2024-10, dispute context
 
-Accounts by others and records of the work (added v1.2):
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
 
 - **MHJ-EV-00626** (collaborator account): Director Shin Woo-seok shot the whole 'ETA' video on iPhone, with members filming each other, and says shots and scenario were chosen around what the phone could capture (FaceTime, Action mode). — Korea JoongAng Daily (via Daum), 2023-07
 
@@ -497,6 +530,10 @@ Accounts by others and records of the work (added v1.2):
   - Sources: tvN 유 퀴즈 온 더 블럭 Ep.133 (official YouTube, 2021-12; 마이데일리, 2016-11; GQ Korea, 2015-09
 - **MHJ-CL-122** (directly stated, high): She treats changing a large organisation from within as slow, persistent work: waiting for the right moment, accumulating small changes, and accepting that a hard-won result is soon taken for granted once it becomes the new system.
   - Sources: OSEN, 2013-09; omonatheydidnt (LiveJournal community), 2013-09; BE(ATTITUDE) (web magazine, Artist Proje, 2022-04; BE(ATTITUDE) (web magazine, Artist Proje, 2022-03; GQ Korea, 2015-09
+
+Accounts by others, readings by critics and records of the work (added v1.2–v1.3):
+
+- **MHJ-EV-00653** (third party interpretation): The same writer argues that album trailers, fantasy-led visuals and elaborate packaging later common in K-pop carry f(x)'s imprint. This is one writer's retrospective view of work credited to a team. — Stereogum, 2024-07
 
 ## P33 Differentiated portfolio over clones of a winner
 

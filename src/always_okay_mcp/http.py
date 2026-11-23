@@ -54,7 +54,7 @@ class RateLimit:
         return await self.app(scope, receive, send)
 
 
-SERVER_VERSION = "0.2.0"
+SERVER_VERSION = "0.3.0"
 
 
 def build_app() -> Starlette:

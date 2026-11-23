@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Build the Skill's data-derived references from the server's data snapshot.
 
-  python3 tools/build_skill_refs.py          # writes principles.md, evidence-map.md, tensions.md
+  python3 tools/build_skill_refs.py          # writes principles.md, evidence-map.md, tensions.md, making.md
   python3 tools/build_skill_refs.py --check  # exits 1 if any of them is out of date or a reference dangles
 
-Sources: src/always_okay_mcp/data/{framework,claims,notes,sources,tensions}.json.
-Every claim or tension ID a principle cites must resolve; the build fails otherwise.
+Sources: src/always_okay_mcp/data/{framework,claims,notes,sources,tensions,moves}.json.
+Every claim or tension ID a principle cites must resolve, and so must every note and principle a move
+or taste test cites; the build fails otherwise.
 tensions.md carries only the method-relevant part of each tension (how to apply the principle and the
 status), never the source-by-source narrative, so no dispute account enters the Skill.
 """
@@ -31,6 +32,8 @@ NOTES = {n["note_id"]: n for n in load("notes")}
 SOURCES = {s["source_id"]: s for s in load("sources")}
 TENSIONS = {t["id"]: t for t in load("tensions")}
 STAGES = {s["id"]: s for s in FW["stages"]}
+MOVES = load("moves")
+PIDS = {p["id"] for p in FW["principles"]}
 
 
 def cited_claims(p):
@@ -58,6 +61,13 @@ def dangling():
             for e in CLAIMS.get(c, {}).get("evidence", []):
                 if e not in NOTES or NOTES[e]["source_id"] not in SOURCES:
                     bad.append((c, e))
+    for m in MOVES["moves"]:
+        bad += [(m["id"], i["note"]) for i in m["instances"] if i["note"] not in NOTES]
+        bad += [(m["id"], x) for x in m["principles"] if x not in PIDS]
+    for x in MOVES["taste"]:
+        bad += [(x["id"], e) for e in x["evidence"] if e not in NOTES]
+    for n in NOTES.values():
+        bad += [(n["note_id"], x) for x in n.get("principles", []) if x not in PIDS]
     return bad
 
 
@@ -119,7 +129,7 @@ def evidence_map_md():
             out.append(f"  - Sources: {'; '.join(labels[:MAX_SOURCES])}{more}\n")
         extra = [n for n in NOTES.values() if p["id"] in n.get("principles", [])]
         if extra:
-            out.append("\nAccounts by others and records of the work (added v1.2):\n\n")
+            out.append("\nAccounts by others, readings by critics and records of the work (added v1.2–v1.3):\n\n")
             for n in extra:
                 kind = n["evidence_type"].replace("_", " ").lower()
                 out.append(f"- **{n['note_id']}** ({kind}): {n['claim']} — {src_label(n)}\n")
@@ -163,7 +173,42 @@ def tensions_md():
     return "".join(out)
 
 
-TARGETS = {"principles.md": principles_md, "evidence-map.md": evidence_map_md, "tensions.md": tensions_md}
+def _short(note_id):
+    return note_id.replace("MHJ-", "")
+
+
+def making_md():
+    out = [GEN, "# Making\n\n", MOVES["purpose"], "\n\n",
+           "Read this at the Make step, before proposing any concept, name, device or direction. The instances "
+           "are evidence that a move is on record; they are never a look, a format or a motif to reuse. Note IDs "
+           "resolve in `evidence-map.md` or through the MCP server (`search_evidence`).\n\n",
+           "## Contents\n\n- Procedure\n- Moves (M01–M%02d)\n- Taste tests (T01–T%02d)\n\n" % (
+               len(MOVES["moves"]), len(MOVES["taste"])),
+           "## Procedure\n\n"]
+    for i, s in enumerate(MOVES["procedure"], 1):
+        out.append(f"{i}. **{s['step']}.** {s['do']}\n")
+    out.append("\n## Moves\n")
+    for m in MOVES["moves"]:
+        out.append(f"\n### {m['id']} {m['name']} ({m['ko']})\n\n{m['move']}\n\n")
+        out.append("- Ask: " + " ".join(m["ask"]) + "\n")
+        out.append("- On record:\n")
+        for i in m["instances"]:
+            n = NOTES[i["note"]]
+            kind = "" if n["evidence_type"] == "DIRECT_STATEMENT" else f", {n['evidence_type'].replace('_', ' ').lower()}"
+            out.append(f"  - {i['what']} ({_short(i['note'])}; {src_label(n)}{kind})\n")
+        out.append(f"- Principles: {', '.join(m['principles'])}\n")
+        out.append(f"- Goes wrong as: {m['misuse']}\n")
+    out.append("\n## Taste tests\n\nTests applied to the user's material. None of them is a look. "
+               "Examples marked \"of ours\" are illustrations written for this file, not her words.\n\n"
+               "| Test | Ask | Passes | Fails | Notes |\n|---|---|---|---|---|\n")
+    for x in MOVES["taste"]:
+        ev = ", ".join(_short(e) for e in x["evidence"])
+        out.append(f"| {x['id']} {x['name']} ({x['ko']}) | {x['test']} | {x['pass']} | {x['fail']} | {ev} |\n")
+    return "".join(out)
+
+
+TARGETS = {"principles.md": principles_md, "evidence-map.md": evidence_map_md, "tensions.md": tensions_md,
+           "making.md": making_md}
 
 
 def main(argv):

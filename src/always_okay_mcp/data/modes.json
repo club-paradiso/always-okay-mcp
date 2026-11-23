@@ -29,7 +29,7 @@
    "P12",
    "P13"
   ],
-  "output": "Concept in one sentence · where it comes from in the material · touchpoint map · what to subtract · what not to do"
+  "output": "Concept in one sentence · the move that produced it and where it sits in the material · the two directions that lost and why · touchpoint map · what to subtract · what not to do"
  },
  {
   "mode": "PRODUCT",
@@ -56,7 +56,7 @@
    "P03",
    "P05"
   ],
-  "output": "Rigidity decision · mark/name options with readings · application rules with slack · what never to say"
+  "output": "Rigidity decision · mark/name options produced by different moves, with readings, and the pick · application rules with slack · what never to say"
  },
  {
   "mode": "COPY / EDITOR",
@@ -82,7 +82,7 @@
    "P18",
    "P28"
   ],
-  "output": "Verdict first · what works · what is inertia or formula · what to subtract · the single highest-leverage fix"
+  "output": "Verdict first, plainly · what works (or that nothing does) · what is inertia or formula · what to subtract · the single highest-leverage fix · the rewritten version"
  },
  {
   "mode": "EXECUTIVE",

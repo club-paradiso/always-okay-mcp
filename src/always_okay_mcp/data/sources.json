@@ -1508,5 +1508,65 @@
   "tier": "A",
   "language": "ko",
   "event": null
+ },
+ {
+  "source_id": "MHJ-SRC-000447",
+  "title": "40대 남성 영화평론가가 민희진의 걸그룹 뉴진스에 열광하게 된 이유",
+  "publication": "에스콰이어 코리아",
+  "date": "2022-09-04",
+  "url": "https://www.esquirekorea.co.kr/article/70440",
+  "tier": "A-",
+  "language": "ko",
+  "event": null
+ },
+ {
+  "source_id": "MHJ-SRC-000448",
+  "title": "How f(x) Changed K-Pop Forever",
+  "publication": "Stereogum",
+  "date": "2024-07-05",
+  "url": "https://stereogum.com/2269576/how-fx-changed-k-pop-forever/columns/sounding-board",
+  "tier": "A-",
+  "language": "en",
+  "event": null
+ },
+ {
+  "source_id": "MHJ-SRC-000449",
+  "title": "[기획] 씨네21 필자들이 선정한 인상적인 K팝 뮤직비디오들",
+  "publication": "씨네21",
+  "date": "2023-02-09",
+  "url": "https://cine21.com/news/view/?mag_id=101986",
+  "tier": "A",
+  "language": "ko",
+  "event": null
+ },
+ {
+  "source_id": "MHJ-SRC-000450",
+  "title": "\"라타타타 울린 심장\" 여전히 두근…뉴진스 '디토' 공개 1주년",
+  "publication": "뉴시스",
+  "date": "2023-12-19",
+  "url": "https://www.newsis.com/view/NISX20231218_0002561228",
+  "tier": "A",
+  "language": "ko",
+  "event": null
+ },
+ {
+  "source_id": "MHJ-SRC-000451",
+  "title": "Decoding success factors of NewJeans: How is it different?",
+  "publication": "The Korea Times",
+  "date": "2023-02-06",
+  "url": "https://www.koreatimes.co.kr/www/art/2023/07/732_344874.html",
+  "tier": "A",
+  "language": "en",
+  "event": null
+ },
+ {
+  "source_id": "MHJ-SRC-000452",
+  "title": "Why brands like Apple, Nike, and Coke are seeking out K-pop sensation NewJeans",
+  "publication": "Fast Company",
+  "date": "2024-03-19",
+  "url": "https://www.fastcompany.com/91030323/hybe-most-innovative-companies-2024",
+  "tier": "A",
+  "language": "en",
+  "event": null
  }
 ]

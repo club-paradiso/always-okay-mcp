@@ -19,7 +19,8 @@ RO = ToolAnnotations(read_only_hint=True, destructive_hint=False, idempotent_hin
 INSTRUCTIONS = """\
 always-okay is a creative-direction LENS built from public-record research. Use it to frame a
 creative problem, build one concrete signature device from the user's own material, edit, and plan
-delivery (Frame → Make → Edit → Deliver).
+delivery (Frame → Make → Edit → Deliver). At the Make step call get_moves: run several generative
+moves on the user's material, keep three directions that differ in kind, pick one with the taste tests.
 
 Rules for any assistant using these tools:
 - Never speak as or for Min Hee-jin, never claim her opinion on the user's work, never invent quotes.
@@ -27,7 +28,8 @@ Rules for any assistant using these tools:
   NewJeans references). Derive any look from the user's material.
 - Principles are defaults with documented tensions, not absolutes (see list_tensions).
 - In public, legal, financial, health or safety contexts, accuracy and official wording come first.
-- No private life, gossip or dispute commentary.
+- No private life, gossip or dispute commentary. That restraint is about people: the user's work gets a
+  candid verdict with the weak part named.
 - Not affiliated with or endorsed by Min Hee-jin or ooak records.
 """
 
@@ -35,7 +37,7 @@ server = MCPServer(
     name="always-okay",
     title="always-okay — evidence-grounded creative lens",
     instructions=INSTRUCTIONS,
-    version="0.2.0",
+    version="0.3.0",
 )
 
 
@@ -78,7 +80,8 @@ def get_framework() -> dict:
     fw = _framework()
     return {
         "loop": ["Frame — reframe the brief, reason to exist, unexamined words, who doesn't care yet",
-                 "Make — one signature device from the user's material, translated across touchpoints",
+                 "Make — get_moves: inventory the material, run five or more moves, keep three that differ in "
+                 "kind, pick one with the taste tests; that signature device is translated across touchpoints",
                  "Edit — subtract, test newness, decide each convention",
                  "Deliver — first / not yet / never, people, budget, smallest proof, fallback"],
         "stages": fw["stages"],
@@ -182,6 +185,34 @@ def get_mode(mode: str = "") -> dict:
     return {"modes": m} if m else {"error": f"unknown mode {mode}", "available": [x["mode"] for x in modes]}
 
 
+@server.tool(annotations=RO, description="The making layer for the Make step: the five-step procedure, the generative moves "
+             "(M01–M13: a way of producing an idea from the user's own material, each with the evidence notes "
+             "where it is on record) and the taste tests (T01–T09, with pass/fail). Empty = procedure plus every "
+             "move and test in brief; pass an id such as 'M04' or 'T02' for one in full. Instances are evidence, "
+             "never a look or format to reuse.")
+def get_moves(item_id: str = "") -> dict:
+    mv, notes, src = _data("moves.json"), _notes(), _sources()
+    k = item_id.strip().upper()
+
+    def cite(nid):
+        n = notes[nid]
+        s = src.get(n["source_id"], {})
+        return {"note_id": nid, "type": n["evidence_type"], "source": f"{s.get('publication')} ({s.get('date')})",
+                "url": s.get("url")}
+    if not k:
+        return {"purpose": mv["purpose"], "procedure": mv["procedure"],
+                "moves": [{"id": m["id"], "name": m["name"], "ko": m["ko"], "move": m["move"], "ask": m["ask"],
+                           "misuse": m["misuse"]} for m in mv["moves"]],
+                "taste": [{k2: x[k2] for k2 in ("id", "name", "ko", "test", "pass", "fail")} for x in mv["taste"]]}
+    for m in mv["moves"]:
+        if m["id"] == k:
+            return {**m, "instances": [{**i, **cite(i["note"])} for i in m["instances"]]}
+    for x in mv["taste"]:
+        if x["id"] == k:
+            return {**x, "evidence": [cite(e) for e in x["evidence"]]}
+    return {"error": f"unknown id {item_id}", "available": [m["id"] for m in mv["moves"]] + [x["id"] for x in mv["taste"]]}
+
+
 @server.tool(annotations=RO, description="Return a working checklist as text: 'brief' (brief interrogation), 'concept', "
              "'signature' (signature device test), 'edit' (critique pass), 'launch', 'briefing' (briefing a "
              "specialist), 'conventions', 'taste', 'language' (copy rules KO/EN) or 'limits'.")
@@ -278,6 +309,17 @@ def _documents():
     for t in _data("tensions.json"):
         docs.append({"id": f"tension:{t['id']}", "title": f"{t['id']} {t['title']}", "text": t["body"],
                      "url": f"{REPO}#tools", "metadata": {"type": "tension"}})
+    mv = _data("moves.json")
+    for m in mv["moves"]:
+        docs.append({"id": f"move:{m['id']}", "title": f"{m['id']} {m['name']} ({m['ko']})",
+                     "text": (f"{m['move']}\n\nAsk: {' '.join(m['ask'])}\n\nOn record: "
+                              f"{' '.join(i['what'] + ' (' + i['note'] + ')' for i in m['instances'])}\n\n"
+                              f"Principles: {', '.join(m['principles'])}\n\nGoes wrong as: {m['misuse']}"),
+                     "url": f"{REPO}#tools", "metadata": {"type": "move"}})
+    for x in mv["taste"]:
+        docs.append({"id": f"taste:{x['id']}", "title": f"{x['id']} Taste test: {x['name']} ({x['ko']})",
+                     "text": f"{x['test']}\n\nPasses: {x['pass']}\n\nFails: {x['fail']}\n\nNotes: {', '.join(x['evidence'])}",
+                     "url": f"{REPO}#tools", "metadata": {"type": "taste_test"}})
     for k in ("brief", "concept", "signature", "edit", "launch", "briefing", "conventions", "taste"):
         docs.append({"id": f"checklist:{k}", "title": f"Checklist: {k}", "text": get_checklist(k),
                      "url": f"{REPO}#tools", "metadata": {"type": "checklist"}})
@@ -289,15 +331,15 @@ def _doc_index():
     return {d["id"]: d for d in _documents()}
 
 
-@server.tool(annotations=RO, description="Search the always-okay lens (principles, evidence notes, tensions, "
-             "checklists) for creative-direction guidance. Returns result ids to pass to `fetch`.")
+@server.tool(annotations=RO, description="Search the always-okay lens (principles, moves, taste tests, evidence notes, "
+             "tensions, checklists) for creative-direction guidance. Returns result ids to pass to `fetch`.")
 def search(query: str) -> dict:
     words = [w for w in re.split(r"\s+", query.lower()) if w]
     scored = []
     for d in _doc_index().values():
         hay = (d["title"] + " " + d["text"]).lower()
         score = sum(hay.count(w) for w in words)
-        if d["id"].startswith(("principle:", "checklist:")):
+        if d["id"].startswith(("principle:", "checklist:", "move:", "taste:")):
             score *= 2
         if score:
             scored.append((score, d))
@@ -318,8 +360,9 @@ def fetch(id: str) -> dict:
 @server.prompt(description="Start a creative-direction session with the lens on a brief.")
 def creative_direction(brief: str) -> str:
     return ("Use the always-okay lens. First call get_framework. Then work Frame → Make → Edit → Deliver on this "
-            "brief: reframe it, commit to one signature device drawn from the brief's own material and carry it "
-            "across product, launch, copy and visuals with specifics, subtract, and give first / not yet / never with "
+            "brief: reframe it; call get_moves, run at least five moves on the brief's own material, keep three "
+            "directions that differ in kind and pick one with the taste tests; carry that signature device "
+            "across product, launch, copy and visuals with specifics; subtract, and give first / not yet / never with "
             "a fallback. Never speak as Min Hee-jin or default to her past looks. Run check_draft on the final text.\n\n"
             f"Brief:\n{brief}")
 

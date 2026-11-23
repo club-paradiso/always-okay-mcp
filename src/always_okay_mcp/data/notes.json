@@ -12263,5 +12263,252 @@
    "P19"
   ],
   "added": "v1.2"
+ },
+ {
+  "note_id": "MHJ-EV-00650",
+  "source_id": "MHJ-SRC-000447",
+  "locator": "¶1–2",
+  "claim": "A film critic in his forties who says he kept his distance from idol culture reports buying an idol album package for the first time (a bag-shaped NewJeans package he says he cannot carry anywhere) and replaying the whole EP rather than only the lead single; he contrasts this with idol songs that depend on their performance.",
+  "key_term": null,
+  "evidence_type": "THIRD_PARTY_INTERPRETATION",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans New Jeans EP"
+  ],
+  "domains": [
+   "audience",
+   "product",
+   "critique"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P04",
+   "P19"
+  ],
+  "added": "v1.3"
+ },
+ {
+  "note_id": "MHJ-EV-00651",
+  "source_id": "MHJ-SRC-000447",
+  "locator": "¶9–10",
+  "claim": "The critic reads the group's pull as contrast with the then-dominant 'girl crush' register and calls it the most indie-leaning output of the major industry, floating the phrase 'idol auteurism'; he adds reservations: a director's talent alone does not decide a project, the work reads as deliberate and built rather than spontaneous, and audience taste is fickle.",
+  "key_term": null,
+  "evidence_type": "THIRD_PARTY_INTERPRETATION",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut"
+  ],
+  "domains": [
+   "critique",
+   "industry",
+   "aesthetics"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P05"
+  ],
+  "added": "v1.3"
+ },
+ {
+  "note_id": "MHJ-EV-00652",
+  "source_id": "MHJ-SRC-000448",
+  "locator": "Pink Tape section",
+  "claim": "A music writer describes the f(x) 'Pink Tape' art film as a first for the genre and notes that the concept photos were stills continuing the film's story instead of a separate standard shoot; she names Min as the film's creative director. The film and painting comparisons she draws are her own reading.",
+  "key_term": null,
+  "evidence_type": "THIRD_PARTY_INTERPRETATION",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": "E3",
+  "projects": [
+   "f(x) Pink Tape"
+  ],
+  "domains": [
+   "concept",
+   "launch",
+   "critique"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P06",
+   "P21"
+  ],
+  "added": "v1.3"
+ },
+ {
+  "note_id": "MHJ-EV-00653",
+  "source_id": "MHJ-SRC-000448",
+  "locator": "closing section",
+  "claim": "The same writer argues that album trailers, fantasy-led visuals and elaborate packaging later common in K-pop carry f(x)'s imprint. This is one writer's retrospective view of work credited to a team.",
+  "key_term": null,
+  "evidence_type": "THIRD_PARTY_INTERPRETATION",
+  "confidence": "low",
+  "generalizability": "medium",
+  "era": "E3",
+  "projects": [
+   "f(x)"
+  ],
+  "domains": [
+   "industry",
+   "critique"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P32"
+  ],
+  "added": "v1.3"
+ },
+ {
+  "note_id": "MHJ-EV-00654",
+  "source_id": "MHJ-SRC-000449",
+  "locator": "Ditto entry (황인찬)",
+  "claim": "A poet writing for a film weekly locates the effect of 'Ditto' in a time gap: the newest-sounding music set against twentieth-century school imagery makes the performers current and remembered at once, and because the group was under a year old, viewers feel in advance the longing they would normally feel years later. The video's scenario is the director's own (CX-12).",
+  "key_term": null,
+  "evidence_type": "THIRD_PARTY_INTERPRETATION",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans Ditto"
+  ],
+  "domains": [
+   "aesthetics",
+   "critique",
+   "concept"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P09",
+   "P11"
+  ],
+  "added": "v1.3"
+ },
+ {
+  "note_id": "MHJ-EV-00655",
+  "source_id": "MHJ-SRC-000450",
+  "locator": "body",
+  "claim": "A wire-service culture reporter reads the camera-holding character in 'Ditto' as the fandom and the video as a metaphor for a mutual fan-idol relationship that includes loss; the film comparisons are the reporter's own, and the article notes many viewers in their thirties and forties attached their own film memory to the title word. Critics cited say the song widened the audience beyond teenage idol fans.",
+  "key_term": null,
+  "evidence_type": "THIRD_PARTY_INTERPRETATION",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans Ditto"
+  ],
+  "domains": [
+   "audience",
+   "critique"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P04",
+   "P13"
+  ],
+  "added": "v1.3"
+ },
+ {
+  "note_id": "MHJ-EV-00656",
+  "source_id": "MHJ-SRC-000451",
+  "locator": "Benjamin quotes",
+  "claim": "A Billboard K-pop columnist says the group released singles and videos gradually without teasers rather than building one loud launch moment, and that the debut EP's streams grew week over week where K-pop albums usually open big and decline.",
+  "key_term": null,
+  "evidence_type": "THIRD_PARTY_INTERPRETATION",
+  "confidence": "medium",
+  "generalizability": "medium",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut",
+   "NewJeans New Jeans EP"
+  ],
+  "domains": [
+   "launch",
+   "audience",
+   "critique"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P21",
+   "P22",
+   "P04"
+  ],
+  "added": "v1.3"
+ },
+ {
+  "note_id": "MHJ-EV-00657",
+  "source_id": "MHJ-SRC-000451",
+  "locator": "Kim Do-heon quotes",
+  "claim": "A music critic says the group set aside the genre's maximalism (forceful performance, dense electronic arrangements) and carried no fictional universe to decode, so listeners outside the fandom could enter without learning a storyline; he links part of the appeal to 1990s nostalgia, which is his reading.",
+  "key_term": null,
+  "evidence_type": "THIRD_PARTY_INTERPRETATION",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans debut"
+  ],
+  "domains": [
+   "critique",
+   "audience",
+   "music"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P05",
+   "P12",
+   "P04"
+  ],
+  "added": "v1.3"
+ },
+ {
+  "note_id": "MHJ-EV-00658",
+  "source_id": "MHJ-SRC-000452",
+  "locator": "campaign paragraphs",
+  "claim": "A design writer observes that partner brands were pulled into the group's own world rather than the group simply appearing in the brands' campaigns (a phone-shot video, a soft-drink single whose video blurs ad and song, a sneaker spot restaging an earlier video scene), and calls the result commercial art.",
+  "key_term": null,
+  "evidence_type": "THIRD_PARTY_INTERPRETATION",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [
+   "NewJeans ETA x Apple",
+   "NewJeans brand collaborations"
+  ],
+  "domains": [
+   "business",
+   "marketing",
+   "critique"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P19",
+   "P02"
+  ],
+  "added": "v1.3"
+ },
+ {
+  "note_id": "MHJ-EV-00659",
+  "source_id": "MHJ-SRC-000452",
+  "locator": "Min quote",
+  "claim": "Describes her path from graphic designer to creative director to producer as her weapon, because an image can be expressed in sound as well as in graphics; adds that business need not be cold and takes off when it connects with fans sincerely.",
+  "key_term": null,
+  "evidence_type": "DIRECT_STATEMENT",
+  "confidence": "medium",
+  "generalizability": "high",
+  "era": "E5",
+  "projects": [],
+  "domains": [
+   "career",
+   "concept",
+   "business"
+  ],
+  "dispute_context": false,
+  "principles": [
+   "P06"
+  ],
+  "added": "v1.3"
  }
 ]
